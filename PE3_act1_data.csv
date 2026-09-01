@@ -1,0 +1,1001 @@
+Name,email,product_category,payment_method,shipping_region,order_status,customer_type,unit_price,quantity,discount_percent,customer_rating,order_date,delivery_days,delivery_date,total_amount
+Ivie Davidek,idavidek0@github.io,Monitors,GCash,Visayas,Delivered,New,19.99,3,29,1,7/5/2026,5,07/10/2026,42.58
+Arliene Brisse,abrisse1@homestead.com,Headphones,Bank Transfer,Central Luzon,Pending,New,39.99,1,6,1,10/14/2025,7,10/21/2025,37.59
+Bancroft Lonergan,blonergan2@cargocollective.com,Laptops,GCash,Mindanao,Pending,VIP,24.99,1,27,3,4/9/2026,6,04/15/2026,18.24
+Catarina Giocannoni,cgiocannoni3@about.me,Laptops,PayPal,Visayas,Delivered,New,79.99,10,3,3,4/19/2026,4,04/23/2026,775.9
+Kearney Fryer,kfryer4@delicious.com,Accessories,GCash,NCR,Delivered,Returning,3.99,5,13,2,4/25/2026,2,04/27/2026,17.36
+Merlina Hubbucks,mhubbucks5@addthis.com,Headphones,PayPal,Visayas,Pending,Returning,79.99,3,24,5,9/5/2025,6,09/11/2025,182.38
+Karlyn Schanke,kschanke6@de.vu,Accessories,Credit Card,Mindanao,Pending,Returning,2.99,9,15,4,6/4/2026,4,06/08/2026,22.87
+Gibby Sebert,gsebert7@sitemeter.com,Laptops,Credit Card,Central Luzon,Cancelled,New,22.99,2,21,4,3/23/2026,1,03/24/2026,36.32
+Jena Fulmen,jfulmen8@usa.gov,Laptops,PayPal,Mindanao,Cancelled,VIP,4.5,7,21,5,10/11/2025,7,10/18/2025,24.89
+Niels Lamacraft,nlamacraft9@prweb.com,Smartphones,Cash on Delivery,Mindanao,Cancelled,Returning,10.99,9,16,3,4/20/2026,2,04/22/2026,83.08
+Zacharias Kopf,zkopfa@reverbnation.com,Smartphones,Credit Card,NCR,Cancelled,Wholesale,22.99,4,5,4,1/9/2026,1,01/10/2026,87.36
+Herman Sergent,hsergentb@weather.com,Headphones,GCash,Visayas,Shipped,VIP,3.49,7,3,5,7/24/2026,5,07/29/2026,23.7
+Ewan Mustoe,emustoec@prnewswire.com,Headphones,GCash,NCR,Delivered,Wholesale,24.99,6,16,5,10/20/2025,7,10/27/2025,125.95
+Georgetta Kopacek,gkopacekd@amazon.de,Monitors,PayPal,NCR,Delivered,New,6.49,7,40,1,4/2/2026,1,04/03/2026,27.26
+Andrei Tolworthie,atolworthiee@hibu.com,Smartphones,Bank Transfer,Visayas,Shipped,VIP,1.99,5,17,5,9/20/2025,4,09/24/2025,8.26
+Donnell Leneham,dlenehamf@google.co.jp,Monitors,PayPal,Mindanao,Delivered,Returning,29.99,4,32,1,4/16/2026,4,04/20/2026,81.57
+Thea Shortland,tshortlandg@youku.com,Laptops,Credit Card,Visayas,Shipped,VIP,22.99,2,1,1,7/21/2026,6,07/27/2026,45.52
+Brena Liddle,bliddleh@samsung.com,Monitors,Cash on Delivery,Mindanao,Cancelled,VIP,2.99,1,27,5,8/8/2026,2,08/10/2026,2.18
+Baxie Simeons,bsimeonsi@yellowbook.com,Accessories,Credit Card,Central Luzon,Delivered,Wholesale,2.99,7,6,4,10/25/2025,6,10/31/2025,19.67
+Sibylle Noore,snoorej@gmpg.org,Accessories,GCash,Mindanao,Returned,Wholesale,4.49,4,37,3,10/29/2025,1,10/30/2025,11.31
+Angelia Kilshaw,akilshawk@google.co.uk,Laptops,Credit Card,Mindanao,Cancelled,Wholesale,34.99,4,19,4,3/4/2026,6,03/10/2026,113.37
+Dermot Pegden,dpegdenl@state.gov,Monitors,Credit Card,Calabarzon,Cancelled,Returning,14.99,9,26,3,9/13/2025,6,09/19/2025,99.83
+Loria Cruikshanks,lcruikshanksm@yandex.ru,Smartphones,Cash on Delivery,Calabarzon,Pending,Wholesale,29.99,9,38,5,12/14/2025,3,12/17/2025,167.34
+Hazel Vitall,hvitalln@joomla.org,Monitors,Cash on Delivery,Central Luzon,Delivered,Wholesale,2.49,7,37,2,6/16/2026,7,06/23/2026,10.98
+Archie Topham,atophamo@ameblo.jp,Accessories,Bank Transfer,Central Luzon,Pending,Wholesale,19.99,9,15,4,4/18/2026,3,04/21/2026,152.92
+Alonso Laudham,alaudhamp@discovery.com,Accessories,Cash on Delivery,Calabarzon,Delivered,VIP,59.99,10,9,1,6/5/2026,3,06/08/2026,545.91
+Nikkie Edwards,nedwardsq@umn.edu,Smartphones,Bank Transfer,Calabarzon,Cancelled,VIP,19.99,2,27,1,4/15/2026,3,04/18/2026,29.19
+Aidan Martelet,amarteletr@tamu.edu,Laptops,Cash on Delivery,Visayas,Delivered,Returning,14.99,6,22,3,3/8/2026,5,03/13/2026,70.15
+Scarlet Cloke,sclokes@tinypic.com,Headphones,Bank Transfer,Visayas,Returned,VIP,5.99,6,25,1,8/18/2026,4,08/22/2026,26.96
+Nathanael Pighills,npighillst@discuz.net,Laptops,Bank Transfer,Mindanao,Cancelled,VIP,59.99,5,32,4,11/18/2025,4,11/22/2025,203.97
+Glenn Wiltshire,gwiltshireu@umich.edu,Accessories,GCash,Visayas,Delivered,Wholesale,12.99,6,5,2,5/30/2026,4,06/03/2026,74.04
+Julina Trusdale,jtrusdalev@so-net.ne.jp,Accessories,Cash on Delivery,Central Luzon,Returned,Returning,4.19,4,39,1,1/19/2026,4,01/23/2026,10.22
+Winston Emptage,wemptagew@answers.com,Monitors,Credit Card,Visayas,Shipped,New,22.99,2,33,3,9/1/2025,1,09/02/2025,30.81
+Vanya Gother,vgotherx@elegantthemes.com,Headphones,Cash on Delivery,NCR,Shipped,New,24.99,6,28,5,11/1/2025,2,11/03/2025,107.96
+Cob O'Neary,conearyy@hugedomains.com,Laptops,GCash,Calabarzon,Delivered,Returning,54.99,2,39,4,7/23/2026,2,07/25/2026,67.09
+Gilberta Landall,glandallz@cargocollective.com,Accessories,Bank Transfer,Central Luzon,Cancelled,Returning,39.99,6,12,1,8/25/2026,7,09/01/2026,211.15
+Gregory Budding,gbudding10@gizmodo.com,Monitors,GCash,Visayas,Shipped,Wholesale,49.99,9,37,3,8/15/2026,7,08/22/2026,283.44
+Aubine Dugmore,adugmore11@wired.com,Laptops,GCash,Visayas,Cancelled,New,59.99,2,6,3,5/2/2026,6,05/08/2026,112.78
+Kirbee Acton,kacton12@wikia.com,Headphones,Bank Transfer,Visayas,Returned,VIP,49.99,10,31,2,2/16/2026,4,02/20/2026,344.93
+Nadeen Colchett,ncolchett13@ameblo.jp,Headphones,Cash on Delivery,NCR,Cancelled,Wholesale,14.99,1,2,2,5/17/2026,3,05/20/2026,14.69
+Aristotle Island,aisland14@usatoday.com,Monitors,PayPal,Calabarzon,Pending,New,29.99,2,16,2,9/24/2025,3,09/27/2025,50.38
+Christy Besset,cbesset15@bandcamp.com,Headphones,Bank Transfer,Central Luzon,Delivered,VIP,5.49,5,31,2,5/31/2026,4,06/04/2026,18.94
+Symon Dore,sdore16@seattletimes.com,Accessories,GCash,Mindanao,Returned,VIP,129.99,10,25,5,5/29/2026,6,06/04/2026,974.93
+Selby Pettigrew,spettigrew17@de.vu,Smartphones,Cash on Delivery,Central Luzon,Cancelled,Returning,4.99,6,28,2,12/17/2025,1,12/18/2025,21.56
+Locke Slemmonds,lslemmonds18@uol.com.br,Headphones,Cash on Delivery,Visayas,Pending,New,2.99,10,18,5,7/11/2026,7,07/18/2026,24.52
+Patrice Sugars,psugars19@theglobeandmail.com,Laptops,PayPal,NCR,Delivered,Wholesale,39.99,8,37,1,7/24/2026,7,07/31/2026,201.55
+Dawna Maile,dmaile1a@msn.com,Headphones,Credit Card,Mindanao,Pending,New,2.49,7,6,1,9/21/2025,4,09/25/2025,16.38
+Madelena Burril,mburril1b@studiopress.com,Laptops,Credit Card,Visayas,Pending,VIP,299.99,4,3,3,4/13/2026,2,04/15/2026,1163.96
+Eric Jinks,ejinks1c@washingtonpost.com,Accessories,Credit Card,Visayas,Pending,Returning,1.99,9,21,3,12/15/2025,7,12/22/2025,14.15
+Lauree Pesticcio,lpesticcio1d@ed.gov,Monitors,Cash on Delivery,Central Luzon,Returned,VIP,4.49,2,31,1,9/20/2025,6,09/26/2025,6.2
+Wells Vairow,wvairow1e@icq.com,Monitors,Credit Card,Mindanao,Delivered,Wholesale,49.99,8,12,1,6/22/2026,4,06/26/2026,351.93
+Staci Mendonca,smendonca1f@mlb.com,Accessories,Bank Transfer,Central Luzon,Shipped,Wholesale,6.49,3,12,1,11/1/2025,1,11/02/2025,17.13
+Elvis Showering,eshowering1g@discovery.com,Accessories,Cash on Delivery,Mindanao,Returned,New,22.99,6,11,2,6/19/2026,6,06/25/2026,122.77
+Tabbatha Hayford,thayford1h@globo.com,Monitors,Credit Card,NCR,Returned,Returning,14.99,6,32,3,6/30/2026,5,07/05/2026,61.16
+Emmery Perchard,eperchard1i@seesaa.net,Monitors,PayPal,Central Luzon,Returned,VIP,79.99,7,39,3,2/27/2026,5,03/04/2026,341.56
+Franky Campbell,fcampbell1j@imdb.com,Monitors,GCash,Visayas,Cancelled,Returning,7.49,8,16,3,6/7/2026,3,06/10/2026,50.33
+Gwenneth de Quesne,gde1k@edublogs.org,Monitors,Credit Card,Calabarzon,Shipped,Wholesale,19.99,7,26,1,6/22/2026,4,06/26/2026,103.55
+Amber Antonacci,aantonacci1l@baidu.com,Accessories,GCash,Calabarzon,Returned,Wholesale,24.99,6,10,4,12/10/2025,1,12/11/2025,134.95
+Rubina Wort,rwort1m@4shared.com,Headphones,PayPal,NCR,Delivered,Returning,39.99,10,20,4,1/19/2026,7,01/26/2026,319.92
+Berny Arlt,barlt1n@usgs.gov,Headphones,Cash on Delivery,Calabarzon,Shipped,Wholesale,2.49,3,25,2,12/12/2025,5,12/17/2025,5.6
+Judith Fishleigh,jfishleigh1o@uol.com.br,Laptops,GCash,Calabarzon,Returned,VIP,4.79,7,8,5,12/18/2025,6,12/24/2025,30.85
+Gabi Kezor,gkezor1p@freewebs.com,Laptops,GCash,Mindanao,Shipped,VIP,49.99,10,14,5,4/3/2026,7,04/10/2026,429.91
+Jacques Bosse,jbosse1q@quantcast.com,Accessories,PayPal,Visayas,Pending,New,1.99,7,35,2,2/16/2026,7,02/23/2026,9.05
+Eveline Gotcliff,egotcliff1r@google.com.au,Monitors,PayPal,NCR,Pending,Returning,2.59,9,1,5,12/29/2025,1,12/30/2025,23.08
+Emelita Newlands,enewlands1s@ameblo.jp,Smartphones,GCash,Calabarzon,Returned,New,49.99,9,24,4,7/22/2026,7,07/29/2026,341.93
+Sophia Hannabuss,shannabuss1t@va.gov,Monitors,Cash on Delivery,Visayas,Pending,New,49.99,2,36,5,9/23/2025,3,09/26/2025,63.99
+Coral Chippindall,cchippindall1u@go.com,Smartphones,GCash,Central Luzon,Cancelled,New,99.99,6,26,4,6/1/2026,6,06/07/2026,443.96
+Armstrong De Luna,ade1v@arstechnica.com,Laptops,Credit Card,Visayas,Delivered,Returning,4.99,10,6,3,11/20/2025,5,11/25/2025,46.91
+Rik McGiffie,rmcgiffie1w@ebay.com,Headphones,GCash,Mindanao,Pending,Wholesale,89.99,7,4,1,11/30/2025,4,12/04/2025,604.73
+Ilene Rossbrooke,irossbrooke1x@virginia.edu,Accessories,PayPal,Calabarzon,Cancelled,VIP,24.99,5,24,5,1/15/2026,3,01/18/2026,94.96
+Eliza Figg,efigg1y@prnewswire.com,Headphones,GCash,Central Luzon,Returned,VIP,24.99,1,21,3,6/30/2026,5,07/05/2026,19.74
+Gill Djorevic,gdjorevic1z@squidoo.com,Accessories,PayPal,Calabarzon,Returned,Wholesale,24.99,9,12,1,12/4/2025,5,12/09/2025,197.92
+Ewen Skellon,eskellon20@example.com,Headphones,PayPal,Central Luzon,Returned,VIP,3.29,5,4,3,5/25/2026,6,05/31/2026,15.79
+Matthew Stitt,mstitt21@cpanel.net,Headphones,Credit Card,NCR,Delivered,New,5.99,3,35,3,3/10/2026,6,03/16/2026,11.68
+Nobie English,nenglish22@xing.com,Accessories,Bank Transfer,Central Luzon,Shipped,Returning,3.49,9,9,1,8/18/2026,3,08/21/2026,28.58
+Neil Blissett,nblissett23@techcrunch.com,Smartphones,Cash on Delivery,NCR,Cancelled,New,2.89,4,35,3,6/17/2026,6,06/23/2026,7.51
+Any Szwandt,aszwandt24@sciencedirect.com,Monitors,Bank Transfer,NCR,Pending,Wholesale,29.99,7,21,1,8/26/2026,5,08/31/2026,165.84
+Willie Triggs,wtriggs25@liveinternet.ru,Laptops,GCash,Calabarzon,Returned,VIP,24.99,5,29,3,7/16/2026,7,07/23/2026,88.71
+Amalle Jentet,ajentet26@last.fm,Smartphones,Credit Card,Calabarzon,Cancelled,New,5.49,5,15,4,1/20/2026,2,01/22/2026,23.33
+Bunny Bowgen,bbowgen27@yandex.ru,Laptops,GCash,NCR,Shipped,VIP,12.99,6,25,2,9/13/2025,6,09/19/2025,58.46
+Artair Lamberteschi,alamberteschi28@fastcompany.com,Headphones,GCash,Mindanao,Returned,VIP,39.99,3,8,1,4/10/2026,5,04/15/2026,110.37
+Isa Cromett,icromett29@noaa.gov,Monitors,Bank Transfer,Mindanao,Shipped,New,3.29,7,34,5,5/16/2026,1,05/17/2026,15.2
+Ingeberg Rigler,irigler2a@elegantthemes.com,Accessories,Bank Transfer,Visayas,Cancelled,Returning,39.99,3,9,2,4/2/2026,1,04/03/2026,109.17
+Jenni Hollier,jhollier2b@spotify.com,Monitors,Credit Card,Mindanao,Delivered,New,3.49,2,11,2,3/10/2026,2,03/12/2026,6.21
+Fiona O'Deoran,fodeoran2c@cmu.edu,Smartphones,Credit Card,Central Luzon,Delivered,New,29.99,2,27,3,7/25/2026,7,08/01/2026,43.79
+Barry Demetr,bdemetr2d@addtoany.com,Headphones,Credit Card,Calabarzon,Delivered,Returning,8.99,7,20,5,2/16/2026,1,02/17/2026,50.34
+Lynette Bentinck,lbentinck2e@goo.gl,Smartphones,Cash on Delivery,Calabarzon,Returned,Returning,2.49,6,5,2,3/9/2026,4,03/13/2026,14.19
+Lebbie Rigge,lrigge2f@ihg.com,Headphones,Credit Card,Calabarzon,Shipped,Wholesale,3.99,4,9,2,3/19/2026,7,03/26/2026,14.52
+Eugene Suggate,esuggate2g@4shared.com,Monitors,Cash on Delivery,Central Luzon,Delivered,Returning,3.29,1,9,1,7/31/2026,4,08/04/2026,2.99
+Bebe Blackshaw,bblackshaw2h@devhub.com,Laptops,Cash on Delivery,Calabarzon,Delivered,Wholesale,79.99,8,30,4,5/5/2026,5,05/10/2026,447.94
+Lorenza Rouke,lrouke2i@bing.com,Laptops,Cash on Delivery,Mindanao,Delivered,VIP,8.99,7,10,2,9/22/2025,1,09/23/2025,56.64
+Bernie Gabb,bgabb2j@tmall.com,Smartphones,Bank Transfer,Central Luzon,Returned,New,59.99,7,22,1,8/17/2026,5,08/22/2026,327.55
+Jojo Springtorp,jspringtorp2k@de.vu,Monitors,GCash,Central Luzon,Shipped,Returning,3.99,4,2,4,11/29/2025,7,12/06/2025,15.64
+Karlotte Woodroof,kwoodroof2l@spotify.com,Monitors,Cash on Delivery,NCR,Shipped,New,19.99,5,39,5,1/18/2026,1,01/19/2026,60.97
+Tadeas Scutter,tscutter2m@symantec.com,Smartphones,GCash,Mindanao,Delivered,VIP,9.99,2,24,4,8/29/2026,1,08/30/2026,15.18
+Riley Trevaskis,rtrevaskis2n@google.com.au,Laptops,Bank Transfer,Visayas,Shipped,New,99.99,6,6,2,5/16/2026,4,05/20/2026,563.94
+Chiarra Dorro,cdorro2o@examiner.com,Laptops,Cash on Delivery,NCR,Pending,New,5.99,10,40,2,10/28/2025,7,11/04/2025,35.94
+Kristal Gravell,kgravell2p@cnet.com,Headphones,GCash,Calabarzon,Shipped,Wholesale,2.99,5,29,2,11/3/2025,4,11/07/2025,10.61
+Selle Malamore,smalamore2q@yelp.com,Laptops,GCash,NCR,Delivered,Wholesale,79.99,9,17,4,6/14/2026,1,06/15/2026,597.53
+Violet Bloore,vbloore2r@ovh.net,Smartphones,PayPal,Central Luzon,Returned,New,2.99,5,1,5,12/2/2025,7,12/09/2025,14.8
+Barn Pomery,bpomery2s@aol.com,Laptops,Credit Card,Calabarzon,Delivered,Wholesale,49.99,7,31,2,3/25/2026,1,03/26/2026,241.45
+Morna Yerrell,myerrell2t@seesaa.net,Monitors,Bank Transfer,NCR,Delivered,New,15.99,10,5,4,11/18/2025,2,11/20/2025,151.91
+Vinnie Cruise,vcruise2u@symantec.com,Laptops,Credit Card,Calabarzon,Delivered,VIP,4.99,7,25,2,6/19/2026,1,06/20/2026,26.2
+Farand Cammock,fcammock2v@cnbc.com,Smartphones,PayPal,Mindanao,Delivered,New,2.99,2,39,2,9/4/2025,3,09/07/2025,3.65
+Felipa Nern,fnern2w@narod.ru,Smartphones,Cash on Delivery,NCR,Cancelled,VIP,34.99,6,22,2,4/3/2026,3,04/06/2026,163.75
+Federica Birkin,fbirkin2x@google.es,Laptops,GCash,Central Luzon,Shipped,New,34.99,5,1,4,10/17/2025,2,10/19/2025,173.2
+Onofredo Simmers,osimmers2y@squarespace.com,Headphones,PayPal,Mindanao,Pending,VIP,19.99,2,21,1,7/9/2026,6,07/15/2026,31.58
+Barny Gothard,bgothard2z@microsoft.com,Laptops,PayPal,Visayas,Returned,Returning,2.79,3,8,1,7/7/2026,6,07/13/2026,7.7
+Chip Warhurst,cwarhurst30@samsung.com,Monitors,PayPal,Central Luzon,Returned,New,49.99,7,20,3,1/9/2026,3,01/12/2026,279.94
+Mylo Espinos,mespinos31@hhs.gov,Monitors,Bank Transfer,Central Luzon,Shipped,Returning,29.99,3,24,1,10/24/2025,1,10/25/2025,68.38
+Bess Spindler,bspindler32@who.int,Headphones,GCash,NCR,Cancelled,Wholesale,44.99,4,24,4,4/23/2026,4,04/27/2026,136.77
+Brendin Renowden,brenowden33@google.co.jp,Monitors,Cash on Delivery,Central Luzon,Shipped,Wholesale,14.99,7,12,1,12/13/2025,6,12/19/2025,92.34
+Adolph Fulcher,afulcher34@icq.com,Smartphones,GCash,Calabarzon,Returned,VIP,12.99,7,12,4,6/27/2026,6,07/03/2026,80.02
+Rudiger Hounihan,rhounihan35@over-blog.com,Smartphones,PayPal,Central Luzon,Returned,Returning,3.99,1,12,3,11/24/2025,5,11/29/2025,3.51
+Andreas Dorling,adorling36@baidu.com,Monitors,Bank Transfer,Calabarzon,Pending,Returning,34.99,5,9,3,12/3/2025,6,12/09/2025,159.2
+Maje Zorzin,mzorzin37@constantcontact.com,Monitors,PayPal,Calabarzon,Pending,New,12.99,2,18,4,10/8/2025,4,10/12/2025,21.3
+Jandy Van der Spohr,jvan38@trellian.com,Monitors,Cash on Delivery,NCR,Delivered,Wholesale,79.99,9,6,5,12/24/2025,2,12/26/2025,676.72
+Marcello Ealden,mealden39@marketwatch.com,Laptops,GCash,Visayas,Returned,VIP,3.19,3,24,2,5/10/2026,7,05/17/2026,7.27
+Cortney Enrique,cenrique3a@chicagotribune.com,Headphones,Cash on Delivery,Central Luzon,Delivered,Wholesale,24.99,10,22,3,7/14/2026,5,07/19/2026,194.92
+Diarmid Bridgstock,dbridgstock3b@cafepress.com,Laptops,GCash,Visayas,Shipped,VIP,39.99,10,20,1,5/22/2026,4,05/26/2026,319.92
+Belle Horstead,bhorstead3c@digg.com,Monitors,PayPal,Visayas,Delivered,Returning,3.29,9,4,5,4/26/2026,7,05/03/2026,28.43
+Sigismundo Scyone,sscyone3d@tumblr.com,Laptops,GCash,Calabarzon,Pending,Returning,45.99,1,18,4,9/26/2025,1,09/27/2025,37.71
+Godwin Eckley,geckley3e@desdev.cn,Monitors,GCash,Calabarzon,Delivered,VIP,4.99,10,29,3,8/26/2026,7,09/02/2026,35.43
+Jillene Baldry,jbaldry3f@jimdo.com,Accessories,Credit Card,Calabarzon,Cancelled,New,8.99,5,27,3,7/11/2026,7,07/18/2026,32.81
+Edeline Ponde,eponde3g@washingtonpost.com,Monitors,PayPal,Mindanao,Shipped,VIP,49.99,10,37,4,12/25/2025,5,12/30/2025,314.94
+Margaretha MacFall,mmacfall3h@creativecommons.org,Laptops,GCash,Visayas,Delivered,Returning,5.49,9,21,5,3/12/2026,4,03/16/2026,39.03
+Helena Bremond,hbremond3i@list-manage.com,Laptops,PayPal,Mindanao,Cancelled,New,9.99,4,35,3,7/24/2026,4,07/28/2026,25.97
+Pollyanna Brownsell,pbrownsell3j@digg.com,Smartphones,PayPal,Visayas,Cancelled,New,5.99,3,12,2,4/17/2026,1,04/18/2026,15.81
+Yorker Gilardoni,ygilardoni3k@rakuten.co.jp,Laptops,PayPal,Central Luzon,Delivered,Wholesale,10.99,10,19,1,10/14/2025,6,10/20/2025,89.02
+Berry Gerlts,bgerlts3l@ameblo.jp,Headphones,Credit Card,Visayas,Shipped,Wholesale,1.99,4,23,3,8/29/2026,4,09/02/2026,6.13
+Karrie Hand,khand3m@1688.com,Accessories,PayPal,Mindanao,Shipped,VIP,24.99,2,33,2,6/1/2026,2,06/03/2026,33.49
+Zelda Egre,zegre3n@goo.ne.jp,Laptops,Credit Card,Visayas,Delivered,Returning,4.29,5,5,4,10/12/2025,7,10/19/2025,20.38
+Aylmer Vell,avell3o@marketwatch.com,Headphones,GCash,Calabarzon,Delivered,Wholesale,14.99,6,14,5,9/15/2025,7,09/22/2025,77.35
+Billy Donaghy,bdonaghy3p@amazon.de,Accessories,Bank Transfer,Calabarzon,Shipped,Wholesale,3.99,4,10,4,7/1/2026,1,07/02/2026,14.36
+Winston Dockreay,wdockreay3q@blogger.com,Laptops,PayPal,Mindanao,Delivered,Returning,15.99,6,4,5,7/16/2026,5,07/21/2026,92.1
+Townie Mepham,tmepham3r@squarespace.com,Laptops,Cash on Delivery,Central Luzon,Returned,Wholesale,29.99,9,5,5,7/8/2026,5,07/13/2026,256.41
+Arvy Nollet,anollet3s@samsung.com,Accessories,Cash on Delivery,Calabarzon,Pending,New,19.99,4,17,4,3/6/2026,1,03/07/2026,66.37
+Dolorita Lomond,dlomond3t@scientificamerican.com,Smartphones,PayPal,NCR,Pending,Wholesale,3.29,5,24,2,8/24/2026,3,08/27/2026,12.5
+Mariska Pagram,mpagram3u@reddit.com,Accessories,GCash,Mindanao,Returned,Returning,2.49,10,39,2,4/9/2026,3,04/12/2026,15.19
+Rene Guyet,rguyet3v@youtube.com,Monitors,Cash on Delivery,Central Luzon,Shipped,VIP,1.29,9,27,3,10/3/2025,1,10/04/2025,8.48
+Corette Fevers,cfevers3w@skyrock.com,Monitors,Cash on Delivery,Visayas,Shipped,VIP,2.49,5,39,1,2/6/2026,6,02/12/2026,7.59
+Concettina Skerme,cskerme3x@webeden.co.uk,Laptops,GCash,Central Luzon,Returned,VIP,5.49,10,36,5,2/23/2026,1,02/24/2026,35.14
+Sammy Quinnelly,squinnelly3y@google.de,Monitors,PayPal,NCR,Returned,VIP,89.99,5,29,3,7/12/2026,5,07/17/2026,319.46
+Lesley O'Sherin,losherin3z@pen.io,Headphones,Bank Transfer,Central Luzon,Shipped,Wholesale,29.99,6,12,4,1/2/2026,2,01/04/2026,158.35
+Samuel Griffiths,sgriffiths40@mozilla.com,Laptops,PayPal,Central Luzon,Returned,VIP,12.99,4,24,4,7/6/2026,4,07/10/2026,39.49
+Masha Zannolli,mzannolli41@prweb.com,Monitors,Cash on Delivery,Mindanao,Shipped,Returning,39.99,8,8,1,12/21/2025,5,12/26/2025,294.33
+Samantha Eilers,seilers42@unblog.fr,Laptops,Credit Card,NCR,Cancelled,Wholesale,4.89,10,19,4,4/9/2026,1,04/10/2026,39.61
+Arney Grovier,agrovier43@ucla.edu,Smartphones,PayPal,Visayas,Pending,Returning,15.99,9,13,4,3/25/2026,2,03/27/2026,125.2
+Baxter Nann,bnann44@state.tx.us,Headphones,PayPal,Central Luzon,Returned,Returning,8.99,2,17,2,3/31/2026,5,04/05/2026,14.92
+Cynde Howship,chowship45@soup.io,Monitors,GCash,Central Luzon,Shipped,VIP,49.99,5,31,3,10/12/2025,1,10/13/2025,172.47
+Rosella Vogeller,rvogeller46@reuters.com,Smartphones,GCash,Calabarzon,Pending,New,69.99,3,14,3,10/17/2025,3,10/20/2025,180.57
+Samson Sanzio,ssanzio47@google.es,Accessories,PayPal,Mindanao,Delivered,VIP,1.29,6,16,1,3/3/2026,5,03/08/2026,6.5
+Rani Bigmore,rbigmore48@alibaba.com,Laptops,GCash,Central Luzon,Shipped,VIP,2.19,1,28,2,7/28/2026,5,08/02/2026,1.58
+Guntar Genery,ggenery49@github.com,Monitors,Cash on Delivery,Central Luzon,Shipped,Wholesale,1.99,6,26,3,3/10/2026,6,03/16/2026,8.84
+Etan Jenkins,ejenkins4a@usda.gov,Smartphones,Cash on Delivery,Mindanao,Cancelled,Wholesale,49.99,2,2,2,9/7/2025,7,09/14/2025,97.98
+Barbee MacMechan,bmacmechan4b@nsw.gov.au,Laptops,PayPal,Visayas,Returned,Wholesale,69.99,4,16,1,3/22/2026,5,03/27/2026,235.17
+Desiri Dorracott,ddorracott4c@biblegateway.com,Monitors,GCash,Visayas,Pending,VIP,22.99,3,24,4,5/12/2026,2,05/14/2026,52.42
+Francois Marfield,fmarfield4d@mysql.com,Headphones,Credit Card,Central Luzon,Shipped,Wholesale,2.29,8,1,1,4/20/2026,1,04/21/2026,18.14
+Cob Tollett,ctollett4e@google.cn,Headphones,Bank Transfer,Central Luzon,Pending,Wholesale,3.99,6,17,2,8/20/2026,7,08/27/2026,19.87
+Aluin Fawley,afawley4f@sphinn.com,Accessories,Bank Transfer,Visayas,Shipped,VIP,19.99,4,27,4,1/22/2026,6,01/28/2026,58.37
+Myriam Fligg,mfligg4g@list-manage.com,Monitors,GCash,Calabarzon,Shipped,Wholesale,29.99,4,10,4,1/30/2026,2,02/01/2026,107.96
+Lombard Bog,lbog4h@t.co,Monitors,PayPal,Calabarzon,Cancelled,New,0.75,9,17,2,5/14/2026,7,05/21/2026,5.6
+Franky D'Elias,fdelias4i@mozilla.com,Accessories,Bank Transfer,Mindanao,Returned,Returning,5.99,5,30,2,8/31/2026,4,09/04/2026,20.97
+Brock Shanklin,bshanklin4j@vimeo.com,Headphones,PayPal,Central Luzon,Cancelled,New,3.49,8,24,5,5/7/2026,1,05/08/2026,21.22
+Korrie Allkins,kallkins4k@cyberchimps.com,Accessories,GCash,NCR,Cancelled,Wholesale,49.99,9,2,3,9/3/2025,6,09/09/2025,440.91
+Dominik McGlaud,dmcglaud4l@army.mil,Headphones,GCash,Visayas,Delivered,Returning,54.99,7,9,2,6/12/2026,4,06/16/2026,350.29
+Thom McKeachie,tmckeachie4m@fotki.com,Headphones,PayPal,NCR,Shipped,VIP,1.99,7,12,2,12/9/2025,6,12/15/2025,12.26
+Charles Monni,cmonni4n@thetimes.co.uk,Monitors,Cash on Delivery,NCR,Cancelled,VIP,4.99,3,15,3,1/22/2026,6,01/28/2026,12.72
+Raymond Street,rstreet4o@dailymail.co.uk,Laptops,Bank Transfer,NCR,Cancelled,Returning,4.99,3,11,5,3/12/2026,2,03/14/2026,13.32
+Emanuel Kealy,ekealy4p@digg.com,Headphones,GCash,Central Luzon,Returned,Wholesale,7.49,3,23,5,12/14/2025,6,12/20/2025,17.3
+Jillene Nuemann,jnuemann4q@samsung.com,Smartphones,PayPal,NCR,Cancelled,Wholesale,24.99,10,16,2,11/14/2025,3,11/17/2025,209.92
+Tito Flintoft,tflintoft4r@networkadvertising.org,Laptops,Cash on Delivery,Visayas,Cancelled,VIP,3.99,8,36,4,8/18/2026,2,08/20/2026,20.43
+Bale Wozencroft,bwozencroft4s@webeden.co.uk,Laptops,Bank Transfer,Mindanao,Returned,VIP,6.49,8,1,1,7/30/2026,2,08/01/2026,51.4
+Margret Enderby,menderby4t@statcounter.com,Accessories,Cash on Delivery,Visayas,Returned,Wholesale,3.49,2,3,4,2/23/2026,1,02/24/2026,6.77
+Kingston Vickors,kvickors4u@biglobe.ne.jp,Smartphones,PayPal,Visayas,Returned,VIP,79.99,8,11,3,6/4/2026,6,06/10/2026,569.53
+Linnell Pethick,lpethick4v@discovery.com,Headphones,Credit Card,Calabarzon,Returned,Returning,14.99,9,28,1,9/10/2025,7,09/17/2025,97.14
+Dani Styant,dstyant4w@wordpress.com,Laptops,GCash,Central Luzon,Returned,Returning,19.99,9,3,4,5/12/2026,5,05/17/2026,174.51
+Aloise Shoebrook,ashoebrook4x@sitemeter.com,Accessories,GCash,Calabarzon,Cancelled,VIP,6.29,2,3,2,6/15/2026,5,06/20/2026,12.2
+Ferdinand Benian,fbenian4y@example.com,Laptops,Cash on Delivery,NCR,Cancelled,VIP,1.49,9,3,2,10/30/2025,2,11/01/2025,13.01
+Loren Kording,lkording4z@ebay.co.uk,Monitors,Credit Card,Visayas,Pending,New,9.49,2,16,2,11/2/2025,1,11/03/2025,15.94
+Eugenius Gresch,egresch50@wufoo.com,Monitors,Bank Transfer,Central Luzon,Delivered,New,5.49,3,40,3,2/18/2026,5,02/23/2026,9.88
+Truda Pedrozzi,tpedrozzi51@sina.com.cn,Monitors,Credit Card,Central Luzon,Pending,Returning,3.99,6,4,3,4/22/2026,6,04/28/2026,22.98
+Stevena Klaff,sklaff52@prlog.org,Smartphones,Bank Transfer,Calabarzon,Returned,New,2.89,6,23,3,10/2/2025,7,10/09/2025,13.35
+Teddi Noad,tnoad53@nyu.edu,Smartphones,Bank Transfer,Central Luzon,Returned,Returning,3.99,6,8,3,1/29/2026,2,01/31/2026,22.02
+Lenci Siggens,lsiggens54@pinterest.com,Smartphones,PayPal,Calabarzon,Shipped,Wholesale,3.79,4,11,5,10/29/2025,7,11/05/2025,13.49
+Margarita Brookhouse,mbrookhouse55@google.it,Monitors,Cash on Delivery,NCR,Pending,Wholesale,15.99,6,18,3,6/24/2026,3,06/27/2026,78.67
+Arabela Prall,aprall56@weather.com,Headphones,Credit Card,Calabarzon,Pending,New,2.49,2,30,1,10/25/2025,3,10/28/2025,3.49
+Barret Ballinger,bballinger57@newyorker.com,Headphones,GCash,NCR,Cancelled,Wholesale,44.99,2,27,5,7/26/2026,5,07/31/2026,65.69
+Winny Gerssam,wgerssam58@hhs.gov,Smartphones,Credit Card,Central Luzon,Delivered,VIP,49.99,5,18,4,3/3/2026,7,03/10/2026,204.96
+Nissie Maciunas,nmaciunas59@patch.com,Smartphones,PayPal,Visayas,Delivered,Wholesale,29.99,4,31,2,7/15/2026,2,07/17/2026,82.77
+Teador Wookey,twookey5a@so-net.ne.jp,Accessories,Cash on Delivery,Calabarzon,Delivered,Wholesale,89.99,5,31,2,2/23/2026,1,02/24/2026,310.47
+Ashlan Brumfitt,abrumfitt5b@drupal.org,Monitors,Bank Transfer,Central Luzon,Delivered,Wholesale,1.99,6,25,2,7/6/2026,6,07/12/2026,8.96
+Paxton Fibbitts,pfibbitts5c@mit.edu,Accessories,GCash,Central Luzon,Cancelled,New,24.99,9,15,4,7/21/2026,6,07/27/2026,191.17
+Merrill Fulton,mfulton5d@theguardian.com,Accessories,PayPal,Central Luzon,Cancelled,Returning,34.99,1,18,2,4/17/2026,2,04/19/2026,28.69
+Fons Crichmere,fcrichmere5e@howstuffworks.com,Laptops,Credit Card,NCR,Pending,Returning,44.99,5,22,4,8/19/2026,5,08/24/2026,175.46
+Rolph Blonfield,rblonfield5f@seesaa.net,Smartphones,GCash,Central Luzon,Shipped,VIP,24.99,2,38,5,3/26/2026,6,04/01/2026,30.99
+Nealson McHaffy,nmchaffy5g@umich.edu,Monitors,Cash on Delivery,Mindanao,Shipped,Wholesale,5.29,7,12,5,5/23/2026,1,05/24/2026,32.59
+Alisa Haccleton,ahaccleton5h@irs.gov,Accessories,Bank Transfer,Mindanao,Cancelled,New,12.99,2,39,5,4/21/2026,7,04/28/2026,15.85
+Erskine McPeake,emcpeake5i@prnewswire.com,Monitors,Cash on Delivery,NCR,Delivered,VIP,12.99,1,13,2,7/10/2026,5,07/15/2026,11.3
+Friedrick Tregona,ftregona5j@baidu.com,Laptops,Bank Transfer,Visayas,Shipped,New,44.99,8,22,3,10/26/2025,3,10/29/2025,280.74
+Jemie Bargery,jbargery5k@home.pl,Smartphones,Bank Transfer,Visayas,Delivered,Returning,3.79,3,2,2,3/19/2026,4,03/23/2026,11.14
+Melissa Overlow,moverlow5l@answers.com,Headphones,Credit Card,Visayas,Pending,New,6.99,4,15,3,9/5/2025,4,09/09/2025,23.77
+Michelina Foster,mfoster5m@prlog.org,Headphones,PayPal,Mindanao,Delivered,Wholesale,4.29,1,18,1,3/30/2026,1,03/31/2026,3.52
+Lane West-Frimley,lwestfrimley5n@plala.or.jp,Laptops,Cash on Delivery,Mindanao,Pending,New,34.99,4,23,5,5/4/2026,2,05/06/2026,107.77
+Marji Rottger,mrottger5o@omniture.com,Laptops,PayPal,Visayas,Cancelled,New,49.99,10,39,4,5/19/2026,4,05/23/2026,304.94
+Charleen Negro,cnegro5p@bloomberg.com,Monitors,GCash,NCR,Pending,VIP,15.99,9,13,2,1/7/2026,3,01/10/2026,125.2
+Agata Ruoss,aruoss5q@quantcast.com,Accessories,Cash on Delivery,Mindanao,Pending,Wholesale,59.99,3,4,2,5/29/2026,1,05/30/2026,172.77
+Keen Sparshatt,ksparshatt5r@myspace.com,Monitors,PayPal,NCR,Returned,Returning,149.99,7,29,2,1/17/2026,1,01/18/2026,745.45
+Emelda Killoran,ekilloran5s@hugedomains.com,Accessories,Cash on Delivery,Mindanao,Pending,Wholesale,3.29,9,37,1,6/4/2026,1,06/05/2026,18.65
+Merlina Kilgrew,mkilgrew5t@feedburner.com,Accessories,Cash on Delivery,Calabarzon,Returned,VIP,4.99,4,10,5,4/26/2026,3,04/29/2026,17.96
+Chalmers Fogden,cfogden5u@symantec.com,Accessories,Credit Card,NCR,Delivered,Returning,4.49,8,16,5,9/4/2025,2,09/06/2025,30.17
+Margette Nazair,mnazair5v@uol.com.br,Monitors,Credit Card,Mindanao,Cancelled,Wholesale,2.79,7,29,4,11/1/2025,7,11/08/2025,13.87
+Jessee McClaughlin,jmcclaughlin5w@theatlantic.com,Headphones,Credit Card,NCR,Shipped,New,49.99,5,27,5,9/14/2025,3,09/17/2025,182.46
+Corenda Whittington,cwhittington5x@t.co,Laptops,PayPal,Calabarzon,Pending,Returning,29.99,3,39,3,12/20/2025,7,12/27/2025,54.88
+Reese Coram,rcoram5y@discuz.net,Headphones,Credit Card,Calabarzon,Delivered,Wholesale,19.99,1,11,2,1/27/2026,5,02/01/2026,17.79
+Kore Hewkin,khewkin5z@soundcloud.com,Laptops,Bank Transfer,Central Luzon,Cancelled,Returning,8.99,1,18,1,4/21/2026,4,04/25/2026,7.37
+Emelina Ference,eference60@examiner.com,Headphones,Bank Transfer,NCR,Cancelled,New,19.99,10,22,1,1/23/2026,5,01/28/2026,155.92
+Claudianus Helm,chelm61@storify.com,Monitors,PayPal,NCR,Returned,Returning,16.99,1,25,4,3/13/2026,6,03/19/2026,12.74
+Montague Humbatch,mhumbatch62@plala.or.jp,Accessories,GCash,Mindanao,Pending,Wholesale,4.79,4,7,1,3/3/2026,5,03/08/2026,17.82
+Petrina Rozanski,prozanski63@topsy.com,Headphones,Credit Card,Visayas,Pending,Returning,3.5,7,14,3,4/7/2026,6,04/13/2026,21.07
+Gill MacLleese,gmaclleese64@netlog.com,Accessories,Cash on Delivery,NCR,Cancelled,New,34.99,7,30,2,4/5/2026,6,04/11/2026,171.45
+Zonda Rispine,zrispine65@odnoklassniki.ru,Accessories,Credit Card,Calabarzon,Pending,New,39.99,8,1,4,12/18/2025,3,12/21/2025,316.72
+Griz Clouston,gclouston66@soundcloud.com,Monitors,GCash,Mindanao,Delivered,New,1.99,4,35,4,7/26/2026,7,08/02/2026,5.17
+Rafferty Surmeyers,rsurmeyers67@so-net.ne.jp,Accessories,Bank Transfer,NCR,Delivered,VIP,4.99,6,8,2,9/7/2025,7,09/14/2025,27.54
+Cinda Pagelsen,cpagelsen68@cbslocal.com,Accessories,Cash on Delivery,Mindanao,Cancelled,Wholesale,39.99,6,40,1,1/24/2026,6,01/30/2026,143.96
+Gleda Westell,gwestell69@cisco.com,Laptops,GCash,Visayas,Delivered,VIP,34.99,2,5,2,6/22/2026,7,06/29/2026,66.48
+Drusy Curnick,dcurnick6a@discovery.com,Laptops,Cash on Delivery,NCR,Cancelled,VIP,39.99,6,29,4,4/20/2026,2,04/22/2026,170.36
+Burg Demongeot,bdemongeot6b@1und1.de,Headphones,GCash,Visayas,Cancelled,New,2.49,6,35,4,10/19/2025,2,10/21/2025,9.71
+Laurella Bonney,lbonney6c@ask.com,Accessories,GCash,Calabarzon,Delivered,VIP,39.99,8,31,5,4/30/2026,7,05/07/2026,220.74
+Prissie Iiannoni,piiannoni6d@jimdo.com,Headphones,Cash on Delivery,Visayas,Pending,Returning,3.29,10,34,3,7/27/2026,4,07/31/2026,21.71
+Idalina Waddilove,iwaddilove6e@berkeley.edu,Monitors,GCash,Mindanao,Cancelled,Wholesale,59.99,6,2,2,9/19/2025,7,09/26/2025,352.74
+Craggy Le Marchand,cle6f@redcross.org,Headphones,Cash on Delivery,Visayas,Cancelled,New,34.99,6,17,2,11/5/2025,7,11/12/2025,174.25
+Chery Newitt,cnewitt6g@marriott.com,Accessories,PayPal,Calabarzon,Delivered,Returning,6.49,5,25,1,4/15/2026,3,04/18/2026,24.34
+Virgil Finnemore,vfinnemore6h@npr.org,Headphones,Cash on Delivery,Calabarzon,Shipped,Returning,4.29,2,17,4,8/28/2026,6,09/03/2026,7.12
+Jefferson Kingswood,jkingswood6i@slashdot.org,Accessories,PayPal,Calabarzon,Delivered,Returning,29.99,2,38,3,1/17/2026,4,01/21/2026,37.19
+Trixie Brogden,tbrogden6j@unc.edu,Monitors,PayPal,Mindanao,Shipped,Wholesale,89.99,8,2,2,2/17/2026,6,02/23/2026,705.52
+Lenci Hebblethwaite,lhebblethwaite6k@ow.ly,Laptops,Bank Transfer,Mindanao,Returned,VIP,79.99,7,24,1,2/26/2026,7,03/05/2026,425.55
+Micki Daskiewicz,mdaskiewicz6l@nydailynews.com,Monitors,PayPal,Visayas,Shipped,Returning,3.99,3,11,4,11/19/2025,6,11/25/2025,10.65
+Julie Itzcovich,jitzcovich6m@fotki.com,Monitors,Cash on Delivery,Visayas,Returned,Wholesale,99.99,2,22,5,1/12/2026,4,01/16/2026,155.98
+Adda Dudhill,adudhill6n@elpais.com,Accessories,Credit Card,Calabarzon,Cancelled,VIP,69.99,7,36,4,5/9/2026,6,05/15/2026,313.56
+Orv Vanacci,ovanacci6o@howstuffworks.com,Smartphones,Bank Transfer,Central Luzon,Shipped,New,14.99,2,27,5,2/4/2026,1,02/05/2026,21.89
+Meade Hens,mhens6p@feedburner.com,Smartphones,Bank Transfer,Calabarzon,Returned,Returning,12.99,8,38,3,5/7/2026,5,05/12/2026,64.43
+Gilles Crosland,gcrosland6q@blinklist.com,Laptops,Bank Transfer,NCR,Returned,Wholesale,89.99,6,25,4,7/23/2026,7,07/30/2026,404.95
+Lenka Steinor,lsteinor6r@sbwire.com,Laptops,Credit Card,NCR,Returned,Wholesale,24.99,10,31,2,5/25/2026,2,05/27/2026,172.43
+Massimo Mussilli,mmussilli6s@google.de,Headphones,PayPal,NCR,Shipped,Returning,49.99,1,17,1,3/10/2026,2,03/12/2026,41.49
+Georas Darwood,gdarwood6t@mtv.com,Accessories,Cash on Delivery,Central Luzon,Shipped,Wholesale,12.99,5,6,5,2/7/2026,2,02/09/2026,61.05
+Jenny Critchlow,jcritchlow6u@fc2.com,Accessories,Credit Card,NCR,Cancelled,Wholesale,4.99,1,28,1,6/21/2026,1,06/22/2026,3.59
+Welch Poytheras,wpoytheras6v@google.co.uk,Monitors,PayPal,Calabarzon,Returned,VIP,3.99,9,28,5,11/13/2025,4,11/17/2025,25.86
+Gaston Detoile,gdetoile6w@geocities.com,Monitors,GCash,Calabarzon,Delivered,Wholesale,39.99,9,33,1,5/30/2026,3,06/02/2026,241.14
+Penrod Pirdue,ppirdue6x@zdnet.com,Smartphones,Bank Transfer,Mindanao,Pending,VIP,1.99,4,35,5,12/30/2025,2,01/01/2026,5.17
+Ashleigh Bosley,abosley6y@macromedia.com,Accessories,Credit Card,Mindanao,Cancelled,Returning,2.99,6,18,3,9/4/2025,2,09/06/2025,14.71
+Netti Lorait,nlorait6z@netlog.com,Laptops,PayPal,Central Luzon,Delivered,Returning,69.99,4,26,1,4/4/2026,5,04/09/2026,207.17
+Iosep Sacker,isacker70@indiatimes.com,Headphones,Cash on Delivery,Visayas,Returned,VIP,59.99,7,29,4,12/21/2025,3,12/24/2025,298.15
+Tallie Sandell,tsandell71@opera.com,Smartphones,Credit Card,Central Luzon,Returned,Wholesale,34.99,4,23,2,2/23/2026,5,02/28/2026,107.77
+Theresita Soppett,tsoppett72@foxnews.com,Laptops,PayPal,Calabarzon,Pending,Returning,5.99,9,18,1,1/4/2026,7,01/11/2026,44.21
+Seana Sawdon,ssawdon73@lycos.com,Accessories,Credit Card,Central Luzon,Delivered,New,2.29,9,17,3,8/19/2026,2,08/21/2026,17.11
+Lew Saunderson,lsaunderson74@vk.com,Headphones,Credit Card,Visayas,Returned,Wholesale,39.99,6,19,1,5/21/2026,6,05/27/2026,194.35
+Garnet Fay,gfay75@va.gov,Monitors,PayPal,Calabarzon,Cancelled,Wholesale,29.99,6,29,2,11/24/2025,6,11/30/2025,127.76
+Thaine Enstone,tenstone76@google.co.uk,Headphones,GCash,Central Luzon,Cancelled,Wholesale,10.99,4,27,3,12/15/2025,3,12/18/2025,32.09
+Gleda Hugueville,ghugueville77@wikia.com,Smartphones,Credit Card,Calabarzon,Returned,VIP,49.99,2,2,1,2/25/2026,1,02/26/2026,97.98
+Hugibert Hurley,hhurley78@chicagotribune.com,Headphones,Cash on Delivery,Visayas,Returned,New,19.99,1,3,4,5/11/2026,1,05/12/2026,19.39
+Taryn Twiddle,ttwiddle79@reuters.com,Monitors,PayPal,Central Luzon,Delivered,Wholesale,22.99,7,13,5,10/12/2025,7,10/19/2025,140.01
+Anne O'Lunny,aolunny7a@dyndns.org,Smartphones,PayPal,Mindanao,Pending,Returning,8.99,7,7,4,2/21/2026,7,02/28/2026,58.52
+Toby Lambard,tlambard7b@flickr.com,Smartphones,PayPal,Central Luzon,Pending,VIP,24.99,4,10,2,10/4/2025,6,10/10/2025,89.96
+Angelita Male,amale7c@gmpg.org,Monitors,GCash,Mindanao,Pending,New,3.89,10,20,1,1/6/2026,7,01/13/2026,31.12
+Carlin Ossulton,cossulton7d@zdnet.com,Monitors,Bank Transfer,Mindanao,Pending,VIP,3.79,9,1,4,1/31/2026,7,02/07/2026,33.77
+Isadora Ewols,iewols7e@dell.com,Accessories,Bank Transfer,NCR,Delivered,Returning,2.29,1,35,1,8/25/2026,3,08/28/2026,1.49
+Maye Welden,mwelden7f@ifeng.com,Accessories,Bank Transfer,Calabarzon,Cancelled,Wholesale,5.49,2,25,1,6/21/2026,7,06/28/2026,8.24
+Devy Vanni,dvanni7g@scribd.com,Accessories,GCash,Visayas,Delivered,Wholesale,4.59,9,26,3,10/3/2025,5,10/08/2025,30.57
+Clevey Inggall,cinggall7h@1und1.de,Smartphones,PayPal,Calabarzon,Delivered,Returning,2.49,7,38,4,9/23/2025,3,09/26/2025,10.81
+Zacharie Kleinhaut,zkleinhaut7i@photobucket.com,Smartphones,Bank Transfer,Central Luzon,Cancelled,Returning,2.99,5,34,1,10/5/2025,6,10/11/2025,9.87
+Agnesse O'Sirin,aosirin7j@w3.org,Monitors,PayPal,Central Luzon,Cancelled,Wholesale,3.79,1,11,1,12/16/2025,7,12/23/2025,3.37
+Sonya Gillman,sgillman7k@mac.com,Laptops,PayPal,Visayas,Delivered,New,14.99,1,22,2,11/10/2025,5,11/15/2025,11.69
+Cathi Prater,cprater7l@behance.net,Smartphones,Bank Transfer,NCR,Pending,Wholesale,59.99,2,33,4,7/25/2026,2,07/27/2026,80.39
+Neile Leathes,nleathes7m@paypal.com,Monitors,PayPal,Mindanao,Returned,New,49.99,2,17,2,4/15/2026,4,04/19/2026,82.98
+Kermit Raiker,kraiker7n@time.com,Smartphones,GCash,Visayas,Delivered,VIP,19.99,1,6,2,1/13/2026,4,01/17/2026,18.79
+Papageno Hallan,phallan7o@w3.org,Headphones,PayPal,NCR,Cancelled,New,39.99,7,10,1,5/14/2026,2,05/16/2026,251.94
+Karole Heazel,kheazel7p@uiuc.edu,Accessories,GCash,Calabarzon,Cancelled,VIP,7.49,10,2,3,12/31/2025,6,01/06/2026,73.4
+Otha Willshire,owillshire7q@java.com,Accessories,Credit Card,Central Luzon,Pending,New,4.59,2,40,3,10/21/2025,7,10/28/2025,5.51
+Valentine Klageman,vklageman7r@answers.com,Accessories,Cash on Delivery,Visayas,Delivered,Returning,2.99,2,39,5,10/2/2025,5,10/07/2025,3.65
+Nicolas Staterfield,nstaterfield7s@eepurl.com,Headphones,GCash,Mindanao,Cancelled,New,39.99,3,16,5,10/22/2025,6,10/28/2025,100.77
+Ramsay Fearfull,rfearfull7t@baidu.com,Monitors,Bank Transfer,Mindanao,Cancelled,VIP,54.99,3,2,5,10/21/2025,3,10/24/2025,161.67
+Benn Drysdall,bdrysdall7u@surveymonkey.com,Accessories,GCash,Calabarzon,Cancelled,VIP,3.49,1,2,1,6/8/2026,5,06/13/2026,3.42
+Benedetta Blastock,bblastock7v@bandcamp.com,Laptops,PayPal,Visayas,Cancelled,VIP,4.29,10,39,1,3/5/2026,3,03/08/2026,26.17
+Vonnie Lescop,vlescop7w@psu.edu,Laptops,Credit Card,Visayas,Returned,Returning,4.99,3,23,2,4/24/2026,3,04/27/2026,11.53
+Renate Rounding,rrounding7x@mashable.com,Accessories,Cash on Delivery,Calabarzon,Pending,Wholesale,6.49,5,1,1,4/6/2026,3,04/09/2026,32.13
+Sheffield Gillogley,sgillogley7y@icio.us,Headphones,Bank Transfer,Central Luzon,Shipped,Returning,24.99,10,30,4,1/5/2026,1,01/06/2026,174.93
+Lizabeth Chess,lchess7z@yellowbook.com,Smartphones,Cash on Delivery,Central Luzon,Shipped,Returning,24.99,4,8,4,11/16/2025,7,11/23/2025,91.96
+Vivianna Costerd,vcosterd80@oakley.com,Headphones,Credit Card,NCR,Pending,VIP,79.99,3,25,3,2/20/2026,2,02/22/2026,179.98
+Lynne Feakins,lfeakins81@naver.com,Laptops,Credit Card,Mindanao,Pending,Returning,19.99,9,28,4,9/7/2025,6,09/13/2025,129.54
+Barney Cacacie,bcacacie82@wix.com,Monitors,PayPal,Calabarzon,Shipped,VIP,29.99,3,1,1,3/19/2026,5,03/24/2026,89.07
+Tish Artiss,tartiss83@netscape.com,Monitors,PayPal,Central Luzon,Delivered,Wholesale,159.99,8,24,3,9/8/2025,7,09/15/2025,972.74
+Hamlen Gatcliff,hgatcliff84@cnbc.com,Laptops,PayPal,NCR,Delivered,New,199.99,7,25,3,10/17/2025,1,10/18/2025,1049.95
+Mattias Banaszczyk,mbanaszczyk85@example.com,Accessories,Bank Transfer,Central Luzon,Delivered,Returning,22.99,3,34,4,10/17/2025,4,10/21/2025,45.52
+Amelie Schwandt,aschwandt86@hexun.com,Monitors,Credit Card,Calabarzon,Cancelled,Returning,3.29,2,27,2,12/25/2025,3,12/28/2025,4.8
+Teri Rochewell,trochewell87@java.com,Monitors,Cash on Delivery,Mindanao,Pending,Returning,1.99,8,3,2,9/6/2025,3,09/09/2025,15.44
+Ilise Wynes,iwynes88@indiatimes.com,Monitors,PayPal,Mindanao,Returned,VIP,34.99,2,11,3,5/4/2026,7,05/11/2026,62.28
+Elliott Galland,egalland89@unc.edu,Headphones,GCash,NCR,Shipped,Returning,19.99,9,20,4,10/28/2025,4,11/01/2025,143.93
+Conan Gammie,cgammie8a@squarespace.com,Smartphones,Cash on Delivery,Visayas,Cancelled,VIP,4.29,9,10,5,9/17/2025,4,09/21/2025,34.75
+Spencer Pellamonuten,spellamonuten8b@digg.com,Accessories,Cash on Delivery,NCR,Returned,VIP,3.29,10,34,4,10/24/2025,6,10/30/2025,21.71
+Ronda Gaspard,rgaspard8c@hostgator.com,Laptops,Bank Transfer,Visayas,Delivered,New,29.99,4,11,5,11/1/2025,3,11/04/2025,106.76
+Reinhold Karran,rkarran8d@tripadvisor.com,Smartphones,Cash on Delivery,Central Luzon,Delivered,VIP,2.29,3,11,5,12/30/2025,5,01/04/2026,6.11
+Norman Phalp,nphalp8e@de.vu,Laptops,Bank Transfer,Visayas,Delivered,Wholesale,3.49,1,22,2,10/12/2025,5,10/17/2025,2.72
+Johny Sandars,jsandars8f@slideshare.net,Smartphones,PayPal,Mindanao,Delivered,New,1.79,9,38,2,3/13/2026,7,03/20/2026,9.99
+Harold Mumbeson,hmumbeson8g@imdb.com,Smartphones,PayPal,Calabarzon,Cancelled,New,8.99,9,8,2,10/24/2025,7,10/31/2025,74.44
+Mal Lillee,mlillee8h@jugem.jp,Accessories,Credit Card,Calabarzon,Cancelled,Wholesale,59.99,4,8,4,6/8/2026,3,06/11/2026,220.76
+Antonella Vanyukhin,avanyukhin8i@eepurl.com,Laptops,Cash on Delivery,Central Luzon,Returned,VIP,2.69,3,34,1,12/29/2025,5,01/03/2026,5.33
+Robert Haliburton,rhaliburton8j@mail.ru,Laptops,Credit Card,Calabarzon,Pending,Wholesale,49.99,3,33,3,5/10/2026,6,05/16/2026,100.48
+Tina Kubasiewicz,tkubasiewicz8k@cbslocal.com,Monitors,GCash,Central Luzon,Returned,Wholesale,129.99,7,12,5,11/22/2025,6,11/28/2025,800.74
+Stewart Kibbel,skibbel8l@amazonaws.com,Headphones,Bank Transfer,Calabarzon,Cancelled,New,24.99,4,39,1,12/13/2025,5,12/18/2025,60.98
+Gertrude Semken,gsemken8m@buzzfeed.com,Headphones,Credit Card,Central Luzon,Delivered,VIP,19.99,1,27,5,10/7/2025,5,10/12/2025,14.59
+Magnum Lippiello,mlippiello8n@addthis.com,Monitors,Cash on Delivery,Mindanao,Shipped,New,3.79,7,32,5,12/31/2025,6,01/06/2026,18.04
+Benedetto Drable,bdrable8o@latimes.com,Accessories,Cash on Delivery,Mindanao,Shipped,Wholesale,22.99,6,23,2,8/25/2026,7,09/01/2026,106.21
+Roxane Sackey,rsackey8p@paginegialle.it,Smartphones,PayPal,Central Luzon,Cancelled,Wholesale,4.89,3,26,1,10/11/2025,3,10/14/2025,10.86
+Karlotte Pettis,kpettis8q@answers.com,Headphones,GCash,NCR,Delivered,VIP,39.99,8,9,3,10/8/2025,4,10/12/2025,291.13
+Sada Labone,slabone8r@boston.com,Accessories,PayPal,Central Luzon,Pending,Wholesale,129.99,10,1,4,8/5/2026,7,08/12/2026,1286.9
+Man De Biasi,mde8s@macromedia.com,Laptops,Cash on Delivery,NCR,Shipped,Returning,12.99,2,7,5,9/3/2025,5,09/08/2025,24.16
+Dorine Doddemeade,ddoddemeade8t@is.gd,Monitors,Bank Transfer,Visayas,Returned,VIP,3.59,2,40,1,4/10/2026,6,04/16/2026,4.31
+Orlan Hatt,ohatt8u@networkadvertising.org,Accessories,Cash on Delivery,NCR,Delivered,Returning,1.99,3,24,3,8/16/2026,1,08/17/2026,4.54
+Rod Ollier,rollier8v@columbia.edu,Headphones,PayPal,NCR,Cancelled,Returning,2.29,2,8,5,7/2/2026,4,07/06/2026,4.21
+Danika Whebell,dwhebell8w@reverbnation.com,Laptops,Bank Transfer,NCR,Returned,New,5.99,3,28,4,2/21/2026,7,02/28/2026,12.94
+Nahum Farquharson,nfarquharson8x@vistaprint.com,Headphones,PayPal,Mindanao,Shipped,Returning,5.99,3,15,1,8/31/2026,1,09/01/2026,15.27
+Dulcia Jay,djay8y@whitehouse.gov,Accessories,Cash on Delivery,Calabarzon,Cancelled,New,9.99,9,8,2,7/7/2026,6,07/13/2026,82.72
+Emmalyn Russam,erussam8z@cocolog-nifty.com,Smartphones,Cash on Delivery,Calabarzon,Delivered,Returning,19.99,3,38,4,9/7/2025,2,09/09/2025,37.18
+Richie Golda,rgolda90@gmpg.org,Accessories,PayPal,NCR,Returned,Returning,24.99,2,34,3,10/19/2025,7,10/26/2025,32.99
+Jeremie Clyma,jclyma91@forbes.com,Headphones,PayPal,Mindanao,Delivered,New,89.99,2,26,2,1/30/2026,3,02/02/2026,133.19
+Cordie Coal,ccoal92@cdbaby.com,Laptops,Bank Transfer,Calabarzon,Cancelled,Returning,3.79,6,11,5,7/18/2026,3,07/21/2026,20.24
+Kean Cheley,kcheley93@weebly.com,Monitors,Cash on Delivery,Central Luzon,Shipped,VIP,29.99,5,2,1,6/30/2026,5,07/05/2026,146.95
+Clareta Wilby,cwilby94@zdnet.com,Headphones,Cash on Delivery,Mindanao,Returned,New,4.99,1,29,1,9/16/2025,6,09/22/2025,3.54
+Madonna Infantino,minfantino95@blinklist.com,Smartphones,Bank Transfer,Visayas,Cancelled,Returning,2.79,10,3,3,2/22/2026,3,02/25/2026,27.06
+Raven Featherstone,rfeatherstone96@nature.com,Laptops,Cash on Delivery,Central Luzon,Delivered,New,19.99,5,8,1,1/17/2026,4,01/21/2026,91.95
+Addison Bransden,abransden97@elegantthemes.com,Headphones,Bank Transfer,Central Luzon,Pending,Wholesale,15.99,9,35,2,10/19/2025,1,10/20/2025,93.54
+Roy Tiery,rtiery98@washingtonpost.com,Accessories,GCash,NCR,Shipped,Wholesale,3.99,6,30,2,4/23/2026,2,04/25/2026,16.76
+Alika Kyne,akyne99@digg.com,Accessories,GCash,Calabarzon,Delivered,VIP,69.99,10,21,2,4/23/2026,1,04/24/2026,552.92
+Arch Goodsir,agoodsir9a@odnoklassniki.ru,Laptops,Credit Card,Calabarzon,Returned,VIP,2.49,1,35,2,3/2/2026,5,03/07/2026,1.62
+Katheryn Borland,kborland9b@unicef.org,Laptops,Cash on Delivery,Mindanao,Pending,Wholesale,22.99,8,28,3,12/14/2025,6,12/20/2025,132.42
+Mariejeanne Eakley,meakley9c@biglobe.ne.jp,Monitors,Bank Transfer,Mindanao,Returned,Returning,14.99,6,19,5,3/11/2026,7,03/18/2026,72.85
+Fifi Bofield,fbofield9d@cocolog-nifty.com,Monitors,GCash,Calabarzon,Shipped,Returning,2.49,6,2,1,1/12/2026,7,01/19/2026,14.64
+Thebault Asaaf,tasaaf9e@usnews.com,Monitors,PayPal,Visayas,Shipped,VIP,59.99,1,1,1,6/17/2026,7,06/24/2026,59.39
+Amy Scrowson,ascrowson9f@a8.net,Laptops,Cash on Delivery,Calabarzon,Returned,VIP,2.29,8,25,2,7/7/2026,6,07/13/2026,13.74
+Delaney Saull,dsaull9g@google.fr,Laptops,Credit Card,Mindanao,Cancelled,Returning,5.99,4,28,1,1/31/2026,5,02/05/2026,17.25
+Rosemonde Russe,rrusse9h@topsy.com,Smartphones,Cash on Delivery,Central Luzon,Returned,VIP,2.49,2,9,1,2/18/2026,5,02/23/2026,4.53
+Kimbell MacKaig,kmackaig9i@huffingtonpost.com,Accessories,PayPal,Visayas,Delivered,New,2.49,5,6,1,12/10/2025,5,12/15/2025,11.7
+Justen Hegdonne,jhegdonne9j@hp.com,Headphones,Cash on Delivery,Visayas,Returned,Wholesale,2.49,5,22,3,1/13/2026,4,01/17/2026,9.71
+Fons Luthwood,fluthwood9k@list-manage.com,Headphones,Cash on Delivery,Visayas,Pending,New,29.99,7,19,4,9/7/2025,2,09/09/2025,170.04
+Danika Wreak,dwreak9l@yellowpages.com,Monitors,GCash,NCR,Delivered,New,6.99,4,15,5,3/4/2026,4,03/08/2026,23.77
+Clemmy Theis,ctheis9m@ca.gov,Smartphones,Bank Transfer,Mindanao,Returned,VIP,24.99,6,37,1,3/2/2026,5,03/07/2026,94.46
+Lutero Jedrys,ljedrys9n@posterous.com,Laptops,Credit Card,Mindanao,Returned,VIP,89.99,9,26,3,11/4/2025,6,11/10/2025,599.33
+Harriet D'Onise,hdonise9o@reverbnation.com,Accessories,GCash,Visayas,Pending,VIP,99.99,5,19,1,3/25/2026,1,03/26/2026,404.96
+Alick Kingcote,akingcote9p@godaddy.com,Headphones,Bank Transfer,Central Luzon,Pending,New,149.99,1,31,4,2/13/2026,6,02/19/2026,103.49
+Deloria Murtell,dmurtell9q@amazon.com,Smartphones,PayPal,Visayas,Pending,New,3.99,7,34,3,6/21/2026,7,06/28/2026,18.43
+Tomlin Maffi,tmaffi9r@booking.com,Accessories,PayPal,Calabarzon,Cancelled,Wholesale,4.19,5,7,3,5/15/2026,3,05/18/2026,19.48
+Yvette Durkin,ydurkin9s@php.net,Headphones,Bank Transfer,Central Luzon,Shipped,Returning,49.99,8,7,4,8/22/2026,7,08/29/2026,371.93
+Fanni Staterfield,fstaterfield9t@reverbnation.com,Accessories,PayPal,Central Luzon,Pending,New,29.99,10,2,2,5/31/2026,6,06/06/2026,293.9
+Sebastien Worvill,sworvill9u@moonfruit.com,Accessories,Credit Card,Mindanao,Cancelled,VIP,39.99,3,30,4,5/7/2026,5,05/12/2026,83.98
+Delmor Mollon,dmollon9v@oracle.com,Smartphones,Cash on Delivery,NCR,Returned,New,7.99,8,36,4,9/24/2025,5,09/29/2025,40.91
+Clemmie Beecraft,cbeecraft9w@biblegateway.com,Smartphones,Cash on Delivery,NCR,Shipped,New,4.99,1,4,2,5/29/2026,5,06/03/2026,4.79
+Othella Churchin,ochurchin9x@about.me,Smartphones,GCash,Calabarzon,Returned,VIP,49.99,2,38,5,5/20/2026,5,05/25/2026,61.99
+Chrysa Penburton,cpenburton9y@amazon.de,Laptops,GCash,Mindanao,Shipped,VIP,4.99,1,38,4,2/28/2026,4,03/04/2026,3.09
+Claribel Alesi,calesi9z@ucla.edu,Laptops,Bank Transfer,Central Luzon,Returned,Wholesale,15.99,10,1,3,12/2/2025,2,12/04/2025,158.3
+Candie Rigge,criggea0@noaa.gov,Laptops,Bank Transfer,Central Luzon,Returned,Returning,1.99,6,15,4,9/7/2025,5,09/12/2025,10.15
+Cortie Dumphrey,cdumphreya1@ft.com,Laptops,GCash,Calabarzon,Cancelled,New,19.99,7,1,3,5/17/2026,6,05/23/2026,138.53
+Iver Rableau,irableaua2@simplemachines.org,Laptops,Credit Card,Calabarzon,Delivered,Wholesale,3.99,3,20,1,7/10/2026,2,07/12/2026,9.58
+Jedediah Limb,jlimba3@washington.edu,Laptops,Cash on Delivery,Calabarzon,Returned,Returning,34.99,1,3,1,1/31/2026,2,02/02/2026,33.94
+Ingram Beasley,ibeasleya4@samsung.com,Headphones,Bank Transfer,Visayas,Pending,VIP,3.29,5,11,2,9/7/2025,2,09/09/2025,14.64
+Egbert Tait,etaita5@bloomberg.com,Accessories,Credit Card,Central Luzon,Returned,New,29.99,7,12,2,3/28/2026,2,03/30/2026,184.74
+Nicholas Ludlem,nludlema6@google.de,Monitors,Bank Transfer,Visayas,Cancelled,Wholesale,49.99,10,16,2,7/22/2026,3,07/25/2026,419.92
+Wyatan Moston,wmostona7@army.mil,Monitors,Cash on Delivery,Visayas,Shipped,New,7.99,10,1,4,11/3/2025,4,11/07/2025,79.1
+Maris Thieme,mthiemea8@sohu.com,Monitors,Credit Card,NCR,Returned,New,34.99,9,38,2,1/27/2026,3,01/30/2026,195.24
+Cobbie Stolli,cstollia9@google.de,Headphones,Cash on Delivery,Visayas,Returned,Returning,14.99,8,22,2,4/1/2026,5,04/06/2026,93.54
+Jessalin Giffen,jgiffenaa@hatena.ne.jp,Headphones,GCash,NCR,Cancelled,Wholesale,19.99,8,37,2,10/2/2025,5,10/07/2025,100.75
+Norman Gilstin,ngilstinab@hostgator.com,Headphones,PayPal,Mindanao,Shipped,VIP,3.59,8,17,5,2/22/2026,6,02/28/2026,23.84
+Rossy Bazley,rbazleyac@bizjournals.com,Headphones,Bank Transfer,Mindanao,Shipped,Wholesale,3.29,7,12,2,10/3/2025,5,10/08/2025,20.27
+Gale Outerbridge,gouterbridgead@sina.com.cn,Monitors,Bank Transfer,Visayas,Cancelled,Wholesale,129.99,10,11,3,9/19/2025,3,09/22/2025,1156.91
+Thane Hamil,thamilae@uiuc.edu,Monitors,Cash on Delivery,Calabarzon,Shipped,Wholesale,2.99,5,29,1,7/24/2026,7,07/31/2026,10.61
+Katerina Backhouse,kbackhouseaf@t-online.de,Smartphones,Cash on Delivery,Mindanao,Delivered,New,2.99,9,32,2,3/10/2026,6,03/16/2026,18.3
+Micah Shillitto,mshillittoag@slashdot.org,Smartphones,GCash,Mindanao,Returned,New,16.99,3,19,3,6/3/2026,2,06/05/2026,41.29
+Carroll Bascomb,cbascombah@w3.org,Accessories,Cash on Delivery,Calabarzon,Pending,New,39.99,1,22,4,5/2/2026,6,05/08/2026,31.19
+Catlee Woolliams,cwoolliamsai@alibaba.com,Monitors,PayPal,Mindanao,Returned,New,19.99,7,24,5,7/23/2026,1,07/24/2026,106.35
+Novelia Belfelt,nbelfeltaj@mediafire.com,Accessories,PayPal,Visayas,Shipped,New,19.99,8,39,2,1/19/2026,2,01/21/2026,97.55
+Gary Janovsky,gjanovskyak@nhs.uk,Accessories,Cash on Delivery,Central Luzon,Delivered,VIP,1.99,5,14,4,10/29/2025,1,10/30/2025,8.56
+Indira Farrington,ifarringtonal@house.gov,Monitors,GCash,NCR,Shipped,Returning,1.99,6,15,5,4/28/2026,3,05/01/2026,10.15
+Jessi Perfili,jperfiliam@spiegel.de,Smartphones,GCash,NCR,Pending,New,4.49,9,39,4,10/21/2025,2,10/23/2025,24.65
+Rose Winser,rwinseran@scribd.com,Monitors,Credit Card,Central Luzon,Cancelled,Returning,7.49,2,21,1,11/13/2025,6,11/19/2025,11.83
+Esra Goodrich,egoodrichao@amazon.co.uk,Smartphones,Bank Transfer,Central Luzon,Cancelled,Returning,1.29,1,34,3,1/25/2026,3,01/28/2026,0.85
+Jemima Guy,jguyap@dropbox.com,Monitors,GCash,NCR,Shipped,Wholesale,59.99,9,28,3,11/30/2025,3,12/03/2025,388.74
+Dinny Lushey,dlusheyaq@cdc.gov,Headphones,Cash on Delivery,Visayas,Pending,Wholesale,8.99,6,10,1,12/27/2025,4,12/31/2025,48.55
+Onida Treffrey,otreffreyar@jugem.jp,Smartphones,Bank Transfer,Mindanao,Cancelled,VIP,89.99,2,32,3,6/25/2026,6,07/01/2026,122.39
+Florencia Rosindill,frosindillas@usda.gov,Laptops,Cash on Delivery,Calabarzon,Cancelled,Returning,8.99,4,33,4,5/4/2026,1,05/05/2026,24.09
+Arabel Hotson,ahotsonat@dedecms.com,Accessories,PayPal,Visayas,Pending,Wholesale,19.99,6,20,1,2/9/2026,1,02/10/2026,95.95
+Sherye Rableau,srableauau@virginia.edu,Headphones,Cash on Delivery,Visayas,Pending,Wholesale,2.99,4,16,4,5/25/2026,1,05/26/2026,10.05
+Leif Lenormand,llenormandav@cmu.edu,Smartphones,PayPal,Calabarzon,Delivered,Wholesale,22.99,6,39,1,2/8/2026,1,02/09/2026,84.14
+Marcellus Danielski,mdanielskiaw@chron.com,Accessories,Cash on Delivery,Mindanao,Cancelled,VIP,199.99,3,24,4,4/4/2026,5,04/09/2026,455.98
+Erda McKelvie,emckelvieax@uol.com.br,Monitors,PayPal,Calabarzon,Delivered,Wholesale,39.99,5,19,3,9/25/2025,6,10/01/2025,161.96
+See Stoltz,sstoltzay@army.mil,Accessories,PayPal,Central Luzon,Pending,Returning,34.99,1,8,3,6/28/2026,2,06/30/2026,32.19
+Davide Whittaker,dwhittakeraz@nps.gov,Laptops,PayPal,Mindanao,Delivered,VIP,24.99,8,31,1,4/29/2026,7,05/06/2026,137.94
+Merrily Digg,mdiggb0@bloomberg.com,Headphones,GCash,Mindanao,Delivered,Wholesale,5.99,2,19,1,7/16/2026,6,07/22/2026,9.7
+L;urette Kimber,lkimberb1@utexas.edu,Monitors,GCash,Visayas,Cancelled,Returning,3.29,10,29,1,8/24/2026,3,08/27/2026,23.36
+Belia Vasey,bvaseyb2@nydailynews.com,Smartphones,Bank Transfer,Mindanao,Returned,New,5.99,7,1,2,4/9/2026,4,04/13/2026,41.51
+Dayna Streader,dstreaderb3@china.com.cn,Headphones,PayPal,Mindanao,Cancelled,Wholesale,19.99,10,30,5,12/18/2025,5,12/23/2025,139.93
+Marietta Venturoli,mventurolib4@pinterest.com,Monitors,GCash,NCR,Delivered,Returning,10.99,7,14,1,6/11/2026,3,06/14/2026,66.16
+Omar Hawthorn,ohawthornb5@freewebs.com,Accessories,GCash,Mindanao,Returned,VIP,2.79,10,19,3,3/28/2026,1,03/29/2026,22.6
+Tarah Dougal,tdougalb6@sina.com.cn,Smartphones,PayPal,Calabarzon,Pending,New,15.99,3,35,3,11/5/2025,4,11/09/2025,31.18
+Alecia Rustadge,arustadgeb7@oracle.com,Smartphones,Cash on Delivery,Central Luzon,Pending,Returning,12.99,4,24,5,6/11/2026,4,06/15/2026,39.49
+Findlay Tythe,ftytheb8@chronoengine.com,Accessories,PayPal,Mindanao,Shipped,Returning,29.99,2,37,4,11/15/2025,3,11/18/2025,37.79
+Romona Pionter,rpionterb9@sina.com.cn,Monitors,Bank Transfer,Central Luzon,Delivered,Wholesale,34.99,4,27,1,6/16/2026,6,06/22/2026,102.17
+Lemuel Paulack,lpaulackba@hostgator.com,Smartphones,Cash on Delivery,Mindanao,Shipped,New,1.89,10,1,3,7/20/2026,1,07/21/2026,18.71
+Hersh Karpf,hkarpfbb@mapquest.com,Smartphones,Cash on Delivery,Visayas,Shipped,New,25.99,6,27,4,12/25/2025,4,12/29/2025,113.84
+Garnet Isakson,gisaksonbc@stumbleupon.com,Monitors,Cash on Delivery,NCR,Cancelled,New,25.99,7,18,1,12/13/2025,2,12/15/2025,149.18
+Martie Boskell,mboskellbd@multiply.com,Headphones,GCash,Visayas,Returned,Returning,20.99,1,8,2,6/5/2026,3,06/08/2026,19.31
+Ronda Balharry,rbalharrybe@discovery.com,Headphones,Cash on Delivery,NCR,Shipped,VIP,24.99,7,13,1,11/8/2025,2,11/10/2025,152.19
+Raynor Bonnette,rbonnettebf@goo.ne.jp,Accessories,GCash,Visayas,Shipped,New,3.99,10,36,5,12/1/2025,7,12/08/2025,25.54
+Karlotta Garmon,kgarmonbg@e-recht24.de,Accessories,PayPal,Visayas,Cancelled,VIP,199.99,3,17,1,2/14/2026,4,02/18/2026,497.98
+Annissa McConnell,amcconnellbh@networksolutions.com,Monitors,Bank Transfer,Mindanao,Shipped,VIP,14.99,9,26,5,3/7/2026,1,03/08/2026,99.83
+Hugh Elcott,helcottbi@yelp.com,Headphones,Cash on Delivery,Calabarzon,Cancelled,VIP,129.99,1,13,1,9/23/2025,5,09/28/2025,113.09
+Meredithe McMurraya,mmcmurrayabj@icio.us,Headphones,Credit Card,Calabarzon,Shipped,New,12.99,6,13,2,5/1/2026,6,05/07/2026,67.81
+Stanislas Vedenichev,svedenichevbk@ezinearticles.com,Laptops,Bank Transfer,Mindanao,Returned,VIP,15.99,8,37,4,11/30/2025,3,12/03/2025,80.59
+Annice Swift,aswiftbl@instagram.com,Monitors,Cash on Delivery,NCR,Returned,Wholesale,29.99,3,35,5,1/9/2026,4,01/13/2026,58.48
+Mandi Malan,mmalanbm@seesaa.net,Accessories,Bank Transfer,Central Luzon,Cancelled,VIP,5.99,7,27,3,9/20/2025,7,09/27/2025,30.61
+Rhea Dillinger,rdillingerbn@adobe.com,Smartphones,Cash on Delivery,NCR,Cancelled,Returning,49.99,5,4,1,11/1/2025,4,11/05/2025,239.95
+Chiquia Allmond,callmondbo@microsoft.com,Laptops,Bank Transfer,Visayas,Delivered,New,45,1,33,2,3/20/2026,1,03/21/2026,30.15
+Torr Williment,twillimentbp@umich.edu,Accessories,PayPal,Central Luzon,Pending,Returning,5.49,10,14,4,9/25/2025,7,10/02/2025,47.21
+Merry Hanvey,mhanveybq@biglobe.ne.jp,Monitors,PayPal,Calabarzon,Delivered,VIP,299.99,6,20,3,6/14/2026,1,06/15/2026,1439.95
+Minne King,mkingbr@flickr.com,Laptops,Credit Card,Visayas,Pending,VIP,2.99,4,6,2,10/27/2025,2,10/29/2025,11.24
+Allx Pantling,apantlingbs@nyu.edu,Laptops,Cash on Delivery,Calabarzon,Cancelled,Returning,19.99,2,40,1,2/11/2026,1,02/12/2026,23.99
+Nichol Mycock,nmycockbt@state.tx.us,Smartphones,Credit Card,Calabarzon,Pending,Wholesale,2.99,5,26,5,8/25/2026,4,08/29/2026,11.06
+Ertha Carstairs,ecarstairsbu@paypal.com,Accessories,Credit Card,Visayas,Returned,Wholesale,12.99,6,13,1,12/21/2025,2,12/23/2025,67.81
+Chrystal Littlekit,clittlekitbv@tripod.com,Smartphones,PayPal,Visayas,Delivered,New,129.99,7,17,1,11/27/2025,4,12/01/2025,755.24
+Adina Sutton,asuttonbw@phpbb.com,Headphones,Cash on Delivery,Mindanao,Returned,New,19.99,4,9,4,9/23/2025,2,09/25/2025,72.76
+Christan Kennelly,ckennellybx@cmu.edu,Accessories,Credit Card,Visayas,Pending,Wholesale,3.99,8,32,5,12/22/2025,5,12/27/2025,21.71
+Jenny Nial,jnialby@cargocollective.com,Accessories,Credit Card,Mindanao,Delivered,VIP,34.99,4,33,5,10/9/2025,7,10/16/2025,93.77
+Issi Danzelman,idanzelmanbz@symantec.com,Headphones,Cash on Delivery,NCR,Shipped,Wholesale,34.99,4,32,3,6/20/2026,3,06/23/2026,95.17
+Helene Hambrick,hhambrickc0@msn.com,Smartphones,Cash on Delivery,Calabarzon,Pending,Returning,299.99,10,39,1,4/14/2026,7,04/21/2026,1829.94
+Diena Almond,dalmondc1@oaic.gov.au,Monitors,Cash on Delivery,Mindanao,Cancelled,Wholesale,19.99,1,16,5,4/7/2026,3,04/10/2026,16.79
+Tanhya Radmer,tradmerc2@prlog.org,Headphones,Cash on Delivery,Mindanao,Pending,Wholesale,4.99,9,13,5,10/23/2025,3,10/26/2025,39.07
+Hurley Halligan,hhalliganc3@surveymonkey.com,Smartphones,GCash,Visayas,Delivered,New,3.49,7,10,4,10/21/2025,7,10/28/2025,21.99
+Arman Smitheman,asmithemanc4@cloudflare.com,Laptops,PayPal,Visayas,Cancelled,New,29.99,5,12,3,2/26/2026,5,03/03/2026,131.96
+Florencia Golding,fgoldingc5@europa.eu,Monitors,PayPal,Central Luzon,Pending,Wholesale,49.99,2,20,5,12/17/2025,6,12/23/2025,79.98
+Peggy Canny,pcannyc6@trellian.com,Laptops,PayPal,Visayas,Pending,Wholesale,2.29,10,32,4,11/27/2025,4,12/01/2025,15.57
+Alvie Putland,aputlandc7@phoca.cz,Smartphones,Credit Card,Calabarzon,Shipped,VIP,89.99,8,13,3,6/22/2026,4,06/26/2026,626.33
+Goldina England,genglandc8@ustream.tv,Laptops,Bank Transfer,Visayas,Returned,Wholesale,34.99,5,36,3,8/5/2026,3,08/08/2026,111.97
+Karrah Fawloe,kfawloec9@prnewswire.com,Headphones,GCash,NCR,Delivered,Returning,24.99,4,6,4,4/13/2026,1,04/14/2026,93.96
+Terry Blyden,tblydenca@npr.org,Monitors,PayPal,Visayas,Shipped,Returning,39.99,3,23,1,2/11/2026,1,02/12/2026,92.38
+Darcy Simononsky,dsimononskycb@skype.com,Monitors,Bank Transfer,Calabarzon,Shipped,Returning,29.99,2,30,4,1/13/2026,4,01/17/2026,41.99
+Ertha Gabbitus,egabbituscc@slate.com,Smartphones,GCash,Calabarzon,Delivered,Returning,24.99,9,14,1,7/13/2026,4,07/17/2026,193.42
+Port Roffe,proffecd@fda.gov,Accessories,Cash on Delivery,Calabarzon,Returned,New,5.99,6,24,2,6/22/2026,4,06/26/2026,27.31
+Anet Bourdon,abourdonce@hud.gov,Accessories,PayPal,Visayas,Shipped,Returning,79.99,1,16,5,6/2/2026,5,06/07/2026,67.19
+Randi Angus,ranguscf@berkeley.edu,Headphones,PayPal,Visayas,Shipped,Returning,39.99,3,29,5,3/26/2026,5,03/31/2026,85.18
+Priscella Finby,pfinbycg@icq.com,Headphones,Bank Transfer,NCR,Shipped,New,5.99,6,3,2,3/13/2026,4,03/17/2026,34.86
+Sharl Leivesley,sleivesleych@jimdo.com,Accessories,Bank Transfer,NCR,Pending,Returning,24.99,3,29,4,12/2/2025,2,12/04/2025,53.23
+Megan Yesenin,myeseninci@google.com.br,Headphones,GCash,Mindanao,Returned,Wholesale,3.79,3,5,1,7/14/2026,1,07/15/2026,10.8
+Guy Barwick,gbarwickcj@comsenz.com,Headphones,Cash on Delivery,Calabarzon,Returned,Wholesale,4.99,10,3,2,8/10/2026,1,08/11/2026,48.4
+Davie Mosco,dmoscock@skype.com,Smartphones,GCash,Mindanao,Pending,Wholesale,3.99,5,5,5,3/13/2026,4,03/17/2026,18.95
+Evan Hussell,ehussellcl@examiner.com,Headphones,PayPal,Calabarzon,Returned,New,8.49,4,31,2,11/8/2025,1,11/09/2025,23.43
+Marty Brugman,mbrugmancm@ebay.com,Smartphones,Credit Card,Visayas,Cancelled,VIP,18.99,2,26,4,5/18/2026,6,05/24/2026,28.11
+Mychal Simmonett,msimmonettcn@ustream.tv,Accessories,PayPal,Mindanao,Cancelled,VIP,4.49,1,30,2,7/21/2026,7,07/28/2026,3.14
+Sharl Cases,scasesco@timesonline.co.uk,Monitors,GCash,Mindanao,Returned,Wholesale,4.49,5,12,3,4/1/2026,1,04/02/2026,19.76
+Cacilie Brownfield,cbrownfieldcp@aol.com,Accessories,GCash,Calabarzon,Shipped,Returning,3.49,7,4,4,5/23/2026,5,05/28/2026,23.45
+Babbette Jickles,bjicklescq@npr.org,Headphones,GCash,Visayas,Shipped,New,69.99,1,15,4,11/8/2025,4,11/12/2025,59.49
+Mill Lippiello,mlippiellocr@cnbc.com,Monitors,Cash on Delivery,Central Luzon,Delivered,Wholesale,89.99,10,16,2,9/20/2025,5,09/25/2025,755.92
+Geneva Thundercliffe,gthundercliffecs@deviantart.com,Monitors,PayPal,Visayas,Delivered,Wholesale,4.49,10,17,3,5/21/2026,4,05/25/2026,37.27
+Aurlie Palfreeman,apalfreemanct@domainmarket.com,Monitors,Bank Transfer,NCR,Shipped,VIP,14.99,10,24,1,6/17/2026,2,06/19/2026,113.92
+Hedwig Derkes,hderkescu@who.int,Headphones,Credit Card,Mindanao,Pending,Returning,69.99,9,37,3,5/7/2026,4,05/11/2026,396.84
+Gustavo Kavanagh,gkavanaghcv@skype.com,Monitors,GCash,Calabarzon,Returned,VIP,34.99,10,26,5,6/20/2026,1,06/21/2026,258.93
+Brock Rickaert,brickaertcw@apache.org,Monitors,Bank Transfer,Visayas,Cancelled,Returning,5.99,6,33,4,9/8/2025,4,09/12/2025,24.08
+Tarrance Holehouse,tholehousecx@hatena.ne.jp,Monitors,Bank Transfer,NCR,Pending,New,15.99,2,19,5,2/26/2026,7,03/05/2026,25.9
+Dulsea Bagby,dbagbycy@infoseek.co.jp,Headphones,PayPal,Mindanao,Cancelled,VIP,4.49,8,34,5,12/28/2025,2,12/30/2025,23.71
+Pavla Twentyman,ptwentymancz@yale.edu,Laptops,Credit Card,Central Luzon,Pending,New,69.99,5,21,4,9/7/2025,6,09/13/2025,276.46
+Rochette Wilderspoon,rwilderspoond0@surveymonkey.com,Headphones,GCash,Calabarzon,Returned,Wholesale,3.99,3,6,1,10/14/2025,1,10/15/2025,11.25
+Earle Wellan,ewelland1@wix.com,Accessories,Credit Card,Calabarzon,Cancelled,VIP,19.99,4,1,4,4/3/2026,4,04/07/2026,79.16
+Simona Brearty,sbreartyd2@studiopress.com,Monitors,Bank Transfer,Central Luzon,Returned,New,1.79,1,4,5,1/29/2026,6,02/04/2026,1.72
+Norri Perrygo,nperrygod3@tamu.edu,Headphones,Cash on Delivery,Calabarzon,Returned,VIP,5.99,8,34,3,7/13/2026,1,07/14/2026,31.63
+Piotr Clemerson,pclemersond4@sitemeter.com,Headphones,Credit Card,Calabarzon,Returned,VIP,24.99,9,18,2,8/30/2026,5,09/04/2026,184.43
+Pearla Scamerdine,pscamerdined5@i2i.jp,Accessories,GCash,NCR,Delivered,VIP,1.89,9,9,2,5/29/2026,5,06/03/2026,15.48
+Verla Bruneau,vbruneaud6@weebly.com,Headphones,GCash,Mindanao,Delivered,Wholesale,3.49,7,7,3,6/13/2026,6,06/19/2026,22.72
+Field De Bruijn,fded7@alexa.com,Headphones,Bank Transfer,Mindanao,Cancelled,Wholesale,29.99,9,3,5,10/10/2025,5,10/15/2025,261.81
+Harrison Rylands,hrylandsd8@stanford.edu,Smartphones,GCash,Calabarzon,Shipped,Wholesale,4.49,7,37,5,9/1/2025,4,09/05/2025,19.8
+Maxi Hawkswood,mhawkswoodd9@networksolutions.com,Accessories,PayPal,Central Luzon,Pending,Returning,29.99,9,19,3,6/21/2026,4,06/25/2026,218.63
+Flory Grieswood,fgrieswoodda@shutterfly.com,Headphones,PayPal,Central Luzon,Shipped,VIP,29.99,9,28,2,3/1/2026,7,03/08/2026,194.34
+Wandis Upchurch,wupchurchdb@fotki.com,Smartphones,GCash,Calabarzon,Pending,Wholesale,2.99,8,31,4,6/29/2026,4,07/03/2026,16.5
+Sax McNirlin,smcnirlindc@loc.gov,Monitors,Credit Card,Calabarzon,Returned,VIP,18.99,4,20,2,1/26/2026,3,01/29/2026,60.77
+Olvan Pridding,opriddingdd@vistaprint.com,Monitors,Credit Card,NCR,Pending,Returning,24.99,4,17,4,4/10/2026,3,04/13/2026,82.97
+Maressa Aldwinckle,maldwincklede@wisc.edu,Laptops,PayPal,Mindanao,Shipped,VIP,12.99,7,28,5,7/29/2026,1,07/30/2026,65.47
+Carolee Lulham,clulhamdf@de.vu,Headphones,Cash on Delivery,Central Luzon,Pending,Wholesale,22.99,6,1,4,4/10/2026,7,04/17/2026,136.56
+Selia Crippell,scrippelldg@alexa.com,Monitors,Credit Card,NCR,Delivered,Returning,19.99,7,33,3,2/9/2026,7,02/16/2026,93.75
+Adolf Aldwick,aaldwickdh@usnews.com,Headphones,Credit Card,Central Luzon,Delivered,New,19.99,2,36,3,6/21/2026,5,06/26/2026,25.59
+Huntington Heaker,hheakerdi@deviantart.com,Monitors,GCash,Calabarzon,Pending,VIP,29.99,2,26,2,3/23/2026,1,03/24/2026,44.39
+Francene Edgson,fedgsondj@boston.com,Laptops,Bank Transfer,Visayas,Shipped,Wholesale,24.99,6,31,4,3/4/2026,6,03/10/2026,103.46
+Ulrikaumeko Emptage,uemptagedk@123-reg.co.uk,Monitors,GCash,NCR,Delivered,Wholesale,18.99,9,37,1,8/13/2026,4,08/17/2026,107.67
+Lorine Dufore,lduforedl@webs.com,Smartphones,GCash,Central Luzon,Cancelled,Wholesale,2.49,4,26,2,8/7/2026,3,08/10/2026,7.37
+Law Quick,lquickdm@a8.net,Smartphones,Cash on Delivery,Calabarzon,Pending,Wholesale,6.99,6,11,4,4/26/2026,7,05/03/2026,37.33
+Herold Timmens,htimmensdn@pinterest.com,Headphones,PayPal,Mindanao,Pending,Returning,5.99,8,39,5,11/24/2025,6,11/30/2025,29.23
+Lisle Brocklebank,lbrocklebankdo@freewebs.com,Monitors,Credit Card,Calabarzon,Delivered,New,4.99,3,30,1,8/2/2026,1,08/03/2026,10.48
+Sada Scorey,sscoreydp@cbslocal.com,Accessories,Credit Card,Central Luzon,Returned,New,1.99,6,28,3,8/30/2026,3,09/02/2026,8.6
+Cosette Reiners,creinersdq@nyu.edu,Accessories,Credit Card,Central Luzon,Delivered,Wholesale,14.99,2,1,1,10/13/2025,5,10/18/2025,29.68
+Donalt Sloy,dsloydr@google.nl,Monitors,PayPal,Central Luzon,Shipped,VIP,34.99,3,10,5,2/16/2026,6,02/22/2026,94.47
+Robinetta Hissie,rhissieds@cdbaby.com,Headphones,Cash on Delivery,Central Luzon,Delivered,VIP,12.99,7,16,4,4/9/2026,1,04/10/2026,76.38
+Marvin Fuentez,mfuentezdt@linkedin.com,Monitors,GCash,Mindanao,Pending,VIP,3.99,9,39,1,4/29/2026,1,04/30/2026,21.91
+Jeannette Hibbart,jhibbartdu@tinypic.com,Smartphones,GCash,Mindanao,Cancelled,Wholesale,2.89,1,32,1,8/19/2026,7,08/26/2026,1.97
+Jade McLucky,jmcluckydv@sitemeter.com,Smartphones,GCash,Central Luzon,Delivered,VIP,4.29,2,33,2,4/30/2026,1,05/01/2026,5.75
+Godfry Scaysbrook,gscaysbrookdw@de.vu,Smartphones,GCash,Calabarzon,Delivered,Returning,3.79,6,29,5,10/30/2025,4,11/03/2025,16.15
+Kary Teal,ktealdx@163.com,Monitors,Bank Transfer,Visayas,Pending,New,12.99,9,17,2,7/24/2026,3,07/27/2026,97.04
+Tommie Kirtlan,tkirtlandy@soup.io,Smartphones,Cash on Delivery,Calabarzon,Shipped,Returning,15.99,7,21,3,10/4/2025,4,10/08/2025,88.42
+Ailee Lackmann,alackmanndz@businessweek.com,Laptops,Credit Card,NCR,Returned,New,8.99,5,7,1,2/5/2026,4,02/09/2026,41.8
+Saundra Grigaut,sgrigaute0@cornell.edu,Monitors,Cash on Delivery,Visayas,Delivered,VIP,3.59,1,1,3,12/24/2025,3,12/27/2025,3.55
+Danica Petty,dpettye1@facebook.com,Headphones,Credit Card,Calabarzon,Cancelled,Wholesale,2.79,10,29,2,11/24/2025,7,12/01/2025,19.81
+Abie Maty,amatye2@prweb.com,Headphones,PayPal,Central Luzon,Delivered,VIP,1.99,6,31,2,1/2/2026,5,01/07/2026,8.24
+Skippy Efford,sefforde3@businessweek.com,Monitors,PayPal,NCR,Shipped,VIP,45.99,6,30,1,10/14/2025,7,10/21/2025,193.16
+Maryjane Almond,malmonde4@virginia.edu,Accessories,Bank Transfer,NCR,Delivered,New,3.49,2,8,2,4/6/2026,6,04/12/2026,6.42
+Auberta Betjeman,abetjemane5@slate.com,Accessories,GCash,NCR,Pending,New,4.99,1,5,5,4/22/2026,5,04/27/2026,4.74
+Gabbie McCoish,gmccoishe6@wikipedia.org,Laptops,Credit Card,Visayas,Delivered,VIP,4.29,10,18,4,3/2/2026,7,03/09/2026,35.18
+Suzanna Aloigi,saloigie7@seesaa.net,Headphones,Bank Transfer,Mindanao,Shipped,Wholesale,6.99,6,2,4,12/6/2025,6,12/12/2025,41.1
+Ellery Radnage,eradnagee8@seattletimes.com,Headphones,PayPal,Calabarzon,Returned,Returning,2.49,2,7,5,6/9/2026,7,06/16/2026,4.63
+Maynard Jacobsz,mjacobsze9@cornell.edu,Monitors,PayPal,NCR,Pending,Wholesale,8.99,3,5,2,11/14/2025,2,11/16/2025,25.62
+Arleyne Ambroz,aambrozea@topsy.com,Accessories,Cash on Delivery,Central Luzon,Delivered,Returning,22.99,1,15,3,5/15/2026,2,05/17/2026,19.54
+Nance Hallut,nhalluteb@smh.com.au,Accessories,PayPal,Central Luzon,Shipped,VIP,5.49,9,15,2,9/21/2025,7,09/28/2025,42
+Casie Itscowics,citscowicsec@desdev.cn,Accessories,Cash on Delivery,Central Luzon,Returned,Wholesale,3.29,3,18,3,4/21/2026,4,04/25/2026,8.09
+Seline Redihalgh,sredihalghed@mapy.cz,Accessories,PayPal,Calabarzon,Cancelled,New,79.99,5,25,1,7/30/2026,3,08/02/2026,299.96
+Shermie Charrier,scharrieree@telegraph.co.uk,Monitors,GCash,Mindanao,Returned,Wholesale,4.49,5,24,4,2/15/2026,4,02/19/2026,17.06
+Kelwin Maggs,kmaggsef@symantec.com,Laptops,Bank Transfer,Central Luzon,Returned,VIP,199.99,2,37,2,7/11/2026,2,07/13/2026,251.99
+Barnabe Naish,bnaisheg@independent.co.uk,Smartphones,Bank Transfer,NCR,Shipped,Returning,34.99,7,8,5,3/30/2026,7,04/06/2026,225.34
+Hephzibah Bloomfield,hbloomfieldeh@army.mil,Accessories,Credit Card,Central Luzon,Pending,VIP,3.49,3,7,4,8/17/2026,4,08/21/2026,9.74
+Kim Stoddart,kstoddartei@webmd.com,Monitors,PayPal,Mindanao,Delivered,New,25.99,3,28,1,12/16/2025,5,12/21/2025,56.14
+Xylina MacDermid,xmacdermidej@lulu.com,Headphones,Cash on Delivery,Visayas,Returned,VIP,3.49,5,23,1,5/25/2026,5,05/30/2026,13.44
+Quinton Sang,qsangek@ihg.com,Accessories,Credit Card,Calabarzon,Pending,Wholesale,5.49,2,6,5,2/9/2026,3,02/12/2026,10.32
+Kandace Lukovic,klukovicel@mozilla.com,Headphones,Cash on Delivery,Calabarzon,Delivered,New,25.99,3,39,4,1/6/2026,1,01/07/2026,47.56
+Fidela Cicero,fciceroem@amazon.com,Monitors,Bank Transfer,NCR,Returned,Wholesale,18.99,5,5,2,3/6/2026,2,03/08/2026,90.2
+Herc Denslow,hdenslowen@vimeo.com,Monitors,Credit Card,Mindanao,Returned,Returning,15.99,1,35,4,8/22/2026,2,08/24/2026,10.39
+Dagny Nealy,dnealyeo@myspace.com,Accessories,Bank Transfer,Visayas,Cancelled,New,3.79,8,14,1,9/17/2025,4,09/21/2025,26.08
+Nils Ledgard,nledgardep@bbc.co.uk,Smartphones,GCash,Visayas,Returned,Wholesale,3.99,10,14,4,11/25/2025,7,12/02/2025,34.31
+Ryann Cowherd,rcowherdeq@google.co.uk,Headphones,Bank Transfer,Mindanao,Returned,Returning,3.49,1,14,2,10/29/2025,2,10/31/2025,3
+Carlin Hill,chiller@npr.org,Accessories,Credit Card,Central Luzon,Shipped,VIP,59.99,7,6,1,2/22/2026,2,02/24/2026,394.73
+Victor Seed,vseedes@goodreads.com,Monitors,GCash,Central Luzon,Delivered,Wholesale,9.99,8,20,3,1/26/2026,2,01/28/2026,63.94
+Jacqueline Cornejo,jcornejoet@bandcamp.com,Smartphones,Credit Card,NCR,Delivered,VIP,2.49,10,40,5,11/28/2025,1,11/29/2025,14.94
+Conrade Woolard,cwoolardeu@dion.ne.jp,Laptops,GCash,Calabarzon,Delivered,Returning,2.99,8,26,1,1/5/2026,7,01/12/2026,17.7
+Millicent O'Drought,modroughtev@ameblo.jp,Headphones,PayPal,Mindanao,Returned,Returning,19.99,10,21,2,8/26/2026,6,09/01/2026,157.92
+Jasun Sullens,jsullensew@ed.gov,Headphones,Bank Transfer,Mindanao,Cancelled,Returning,4.29,1,15,4,1/1/2026,3,01/04/2026,3.65
+Garv Lassells,glassellsex@buzzfeed.com,Monitors,GCash,NCR,Cancelled,VIP,4.99,1,1,4,9/7/2025,4,09/11/2025,4.94
+Stevana Brockelsby,sbrockelsbyey@icio.us,Laptops,PayPal,Visayas,Returned,VIP,2.49,6,14,2,5/24/2026,7,05/31/2026,12.85
+Worthy Jaegar,wjaegarez@vk.com,Headphones,Bank Transfer,Central Luzon,Returned,Returning,58.99,6,11,4,5/26/2026,7,06/02/2026,315.01
+Leroi Ogborne,logbornef0@cbc.ca,Smartphones,Cash on Delivery,Calabarzon,Shipped,Wholesale,14.99,6,30,4,10/18/2025,6,10/24/2025,62.96
+Clari Castle,ccastlef1@usatoday.com,Headphones,Credit Card,Visayas,Returned,New,12.99,8,19,2,10/12/2025,5,10/17/2025,84.18
+Wilona Roantree,wroantreef2@alibaba.com,Smartphones,Cash on Delivery,Visayas,Returned,Wholesale,45,2,7,4,6/3/2026,6,06/09/2026,83.7
+Nannie Wrates,nwratesf3@examiner.com,Monitors,PayPal,Visayas,Shipped,Returning,49.99,8,5,3,7/14/2026,2,07/16/2026,379.92
+Reggie Slamaker,rslamakerf4@google.nl,Headphones,Bank Transfer,Visayas,Cancelled,Wholesale,29.99,9,10,3,11/24/2025,3,11/27/2025,242.92
+Lisabeth Stolz,lstolzf5@skyrock.com,Accessories,PayPal,Visayas,Delivered,Wholesale,2.49,2,33,4,4/4/2026,5,04/09/2026,3.34
+Booth Kornyakov,bkornyakovf6@barnesandnoble.com,Monitors,Bank Transfer,Visayas,Returned,VIP,2.99,9,28,1,2/5/2026,6,02/11/2026,19.38
+Doretta Autin,dautinf7@wikispaces.com,Accessories,Cash on Delivery,Calabarzon,Cancelled,VIP,2.79,9,27,4,7/20/2026,1,07/21/2026,18.33
+Kessiah Gianetti,kgianettif8@who.int,Smartphones,GCash,Mindanao,Shipped,VIP,25.99,1,34,5,4/30/2026,5,05/05/2026,17.15
+Florrie Coultard,fcoultardf9@live.com,Laptops,Bank Transfer,Calabarzon,Delivered,Wholesale,3.89,5,6,5,4/1/2026,7,04/08/2026,18.28
+Ignacio Aggis,iaggisfa@zimbio.com,Monitors,Credit Card,Calabarzon,Cancelled,Wholesale,22.99,4,32,1,12/22/2025,3,12/25/2025,62.53
+Isaac Jennery,ijenneryfb@stumbleupon.com,Headphones,PayPal,Central Luzon,Pending,Returning,14.99,9,5,4,6/16/2026,4,06/20/2026,128.16
+Tades Ellerton,tellertonfc@simplemachines.org,Monitors,PayPal,NCR,Shipped,Wholesale,199.99,6,13,4,3/29/2026,1,03/30/2026,1043.95
+Meris Tomsu,mtomsufd@plala.or.jp,Monitors,Bank Transfer,Mindanao,Shipped,New,3.49,5,26,3,6/13/2026,7,06/20/2026,12.91
+Hillier Bromet,hbrometfe@phoca.cz,Monitors,GCash,Mindanao,Pending,Returning,12.99,4,10,3,4/20/2026,1,04/21/2026,46.76
+Salvador Boxall,sboxallff@census.gov,Monitors,Bank Transfer,Visayas,Cancelled,New,15.99,8,6,1,6/11/2026,1,06/12/2026,120.24
+Phedra Lowndsbrough,plowndsbroughfg@apache.org,Headphones,PayPal,Calabarzon,Cancelled,VIP,89.99,7,18,5,5/28/2026,4,06/01/2026,516.54
+Tirrell Haughian,thaughianfh@skype.com,Smartphones,GCash,Central Luzon,Returned,New,10.99,7,33,2,7/27/2026,1,07/28/2026,51.54
+Carlie Stennet,cstennetfi@tmall.com,Monitors,Cash on Delivery,NCR,Pending,Returning,29.99,10,36,3,10/7/2025,1,10/08/2025,191.94
+Kirby Le Moucheux,klefj@discovery.com,Smartphones,Credit Card,Calabarzon,Cancelled,New,99.99,1,2,2,11/9/2025,2,11/11/2025,97.99
+Edvard Whitchurch,ewhitchurchfk@jugem.jp,Laptops,Credit Card,Central Luzon,Returned,Returning,5.99,9,19,3,1/27/2026,2,01/29/2026,43.67
+Ursola Gaffer,ugafferfl@123-reg.co.uk,Monitors,Cash on Delivery,NCR,Pending,VIP,29.99,5,27,4,11/21/2025,5,11/26/2025,109.46
+Bonita Joney,bjoneyfm@alexa.com,Headphones,Bank Transfer,Calabarzon,Returned,VIP,12.99,10,6,2,7/30/2026,7,08/06/2026,122.11
+Thor Howson,thowsonfn@rambler.ru,Monitors,Credit Card,Central Luzon,Shipped,Wholesale,59.99,8,26,3,7/13/2026,1,07/14/2026,355.14
+Adelle Daniels,adanielsfo@archive.org,Smartphones,PayPal,NCR,Returned,New,39.99,1,1,4,6/4/2026,6,06/10/2026,39.59
+Josepha Feye,jfeyefp@spiegel.de,Monitors,Cash on Delivery,Mindanao,Delivered,VIP,5.99,7,4,2,8/14/2026,7,08/21/2026,40.25
+Bernadina Rhydderch,brhydderchfq@omniture.com,Accessories,PayPal,Central Luzon,Cancelled,New,1.29,1,39,1,2/25/2026,3,02/28/2026,0.79
+Dorrie Nairy,dnairyfr@php.net,Laptops,GCash,Calabarzon,Cancelled,Wholesale,2.49,6,34,5,12/30/2025,2,01/01/2026,9.86
+Bank Kasper,bkasperfs@stanford.edu,Headphones,GCash,Calabarzon,Delivered,VIP,3.99,7,12,2,4/2/2026,5,04/07/2026,24.58
+Jasun Terzi,jterzift@globo.com,Laptops,PayPal,Visayas,Delivered,VIP,1.99,3,36,2,3/23/2026,6,03/29/2026,3.82
+Manon Baglow,mbaglowfu@dedecms.com,Laptops,Bank Transfer,Mindanao,Cancelled,VIP,39.99,7,38,3,1/5/2026,1,01/06/2026,173.56
+Gabbie Roose,groosefv@china.com.cn,Headphones,Bank Transfer,Calabarzon,Returned,Wholesale,4.29,4,39,1,6/8/2026,7,06/15/2026,10.47
+Eugine Gascard,egascardfw@jiathis.com,Accessories,PayPal,Calabarzon,Returned,Returning,6.49,1,12,1,10/21/2025,6,10/27/2025,5.71
+Orren Curtayne,ocurtaynefx@github.com,Accessories,GCash,NCR,Returned,VIP,5.99,3,11,1,4/15/2026,4,04/19/2026,15.99
+Gilbertina Gontier,ggontierfy@imgur.com,Accessories,GCash,Mindanao,Delivered,New,1.99,6,37,4,5/24/2026,2,05/26/2026,7.52
+Iver Gellibrand,igellibrandfz@fotki.com,Smartphones,PayPal,NCR,Delivered,Wholesale,24.99,6,28,5,8/14/2026,5,08/19/2026,107.96
+James Fewlass,jfewlassg0@google.nl,Laptops,Credit Card,Visayas,Pending,VIP,2.99,2,36,3,1/1/2026,4,01/05/2026,3.83
+Nancie Brocklesby,nbrocklesbyg1@blogger.com,Monitors,Bank Transfer,Central Luzon,Delivered,VIP,2.99,4,4,4,7/16/2026,7,07/23/2026,11.48
+Miltie Juliano,mjulianog2@shop-pro.jp,Headphones,Cash on Delivery,NCR,Cancelled,Returning,199.99,5,23,3,10/24/2025,2,10/26/2025,769.96
+Mirna Finlayson,mfinlaysong3@e-recht24.de,Accessories,GCash,Mindanao,Delivered,VIP,2.49,2,24,3,10/21/2025,2,10/23/2025,3.78
+Carmel Mollen,cmolleng4@cloudflare.com,Laptops,PayPal,Visayas,Pending,Wholesale,19.99,9,5,4,2/19/2026,7,02/26/2026,170.91
+Guendolen Ballendine,gballendineg5@studiopress.com,Laptops,PayPal,Visayas,Delivered,Wholesale,29.99,1,37,5,9/16/2025,4,09/20/2025,18.89
+Chery Stevens,cstevensg6@examiner.com,Monitors,PayPal,Calabarzon,Pending,VIP,199.99,6,6,1,8/12/2026,2,08/14/2026,1127.94
+Perceval Beamont,pbeamontg7@imdb.com,Monitors,Credit Card,NCR,Delivered,New,2.49,2,13,1,8/18/2026,6,08/24/2026,4.33
+Wait Roxburgh,wroxburghg8@dailymotion.com,Laptops,Cash on Delivery,Visayas,Pending,VIP,3.49,5,35,3,10/21/2025,5,10/26/2025,11.34
+Donnajean Parry,dparryg9@nydailynews.com,Accessories,PayPal,Mindanao,Delivered,Wholesale,5.99,9,1,3,2/5/2026,3,02/08/2026,53.37
+Sol Son,ssonga@flavors.me,Smartphones,Bank Transfer,Mindanao,Delivered,Wholesale,1.99,4,1,5,11/8/2025,5,11/13/2025,7.88
+Sherline Barnshaw,sbarnshawgb@sakura.ne.jp,Accessories,Credit Card,NCR,Shipped,VIP,34.99,1,18,3,3/2/2026,4,03/06/2026,28.69
+Tarrah Fairlem,tfairlemgc@blogger.com,Headphones,Credit Card,NCR,Shipped,Wholesale,22.99,3,34,3,4/2/2026,2,04/04/2026,45.52
+Xenos Giaomozzo,xgiaomozzogd@flickr.com,Accessories,GCash,Visayas,Cancelled,Returning,12.99,4,28,2,5/7/2026,1,05/08/2026,37.41
+Chase Petrello,cpetrelloge@prnewswire.com,Laptops,Bank Transfer,Mindanao,Cancelled,VIP,3.99,7,8,2,3/29/2026,5,04/03/2026,25.7
+Lemmy Buntain,lbuntaingf@hibu.com,Accessories,Credit Card,Mindanao,Returned,New,3.99,4,3,2,2/22/2026,7,03/01/2026,15.48
+Mortie Fenix,mfenixgg@cmu.edu,Headphones,GCash,NCR,Delivered,VIP,14.99,5,1,4,7/14/2026,3,07/17/2026,74.2
+Darrin Arlott,darlottgh@gnu.org,Headphones,Cash on Delivery,Calabarzon,Returned,Wholesale,1.99,10,26,3,8/25/2026,7,09/01/2026,14.73
+Dionis Ryrie,dryriegi@booking.com,Laptops,Cash on Delivery,Calabarzon,Cancelled,VIP,4.99,10,25,5,2/21/2026,3,02/24/2026,37.43
+Consuela Dunnaway,cdunnawaygj@umich.edu,Accessories,GCash,Visayas,Delivered,Returning,6.99,6,6,1,7/28/2026,3,07/31/2026,39.42
+Kaspar Zarfai,kzarfaigk@answers.com,Headphones,Cash on Delivery,Calabarzon,Cancelled,Returning,49.99,3,35,1,10/4/2025,7,10/11/2025,97.48
+Wit Iacoviello,wiacoviellogl@google.co.jp,Accessories,Cash on Delivery,Mindanao,Shipped,Wholesale,1.79,9,17,4,8/26/2026,2,08/28/2026,13.37
+Jaquenette Hamnet,jhamnetgm@jugem.jp,Smartphones,GCash,Calabarzon,Shipped,Returning,24.99,8,19,5,7/8/2026,3,07/11/2026,161.94
+Elnore Hathwood,ehathwoodgn@fastcompany.com,Monitors,GCash,Calabarzon,Pending,VIP,3.59,1,37,2,6/16/2026,5,06/21/2026,2.26
+Merle Wennam,mwennamgo@oaic.gov.au,Headphones,Credit Card,NCR,Cancelled,New,2.49,5,39,3,6/30/2026,7,07/07/2026,7.59
+Franklin Lippingwell,flippingwellgp@jalbum.net,Monitors,Cash on Delivery,NCR,Pending,New,2.49,9,9,5,2/28/2026,1,03/01/2026,20.39
+George Sweeny,gsweenygq@about.com,Accessories,Bank Transfer,Mindanao,Returned,Wholesale,4.29,4,40,3,7/8/2026,3,07/11/2026,10.3
+Heda Trythall,htrythallgr@bbc.co.uk,Headphones,GCash,Visayas,Cancelled,Wholesale,299.99,9,35,3,6/24/2026,3,06/27/2026,1754.94
+Della Ghion,dghiongs@blogspot.com,Accessories,Bank Transfer,NCR,Pending,VIP,6.29,2,2,2,2/28/2026,2,03/02/2026,12.33
+Jo Doret,jdoretgt@ft.com,Accessories,PayPal,NCR,Returned,Returning,18.99,4,39,3,5/27/2026,5,06/01/2026,46.34
+Rubina Kobes,rkobesgu@privacy.gov.au,Monitors,PayPal,Visayas,Returned,New,39.99,10,31,2,9/24/2025,6,09/30/2025,275.93
+Mellisa Baudesson,mbaudessongv@barnesandnoble.com,Monitors,Bank Transfer,Visayas,Returned,Wholesale,2.99,7,39,2,10/28/2025,3,10/31/2025,12.77
+Gunther Hardson,ghardsongw@wiley.com,Laptops,Bank Transfer,Central Luzon,Delivered,Returning,29.99,1,4,4,4/19/2026,5,04/24/2026,28.79
+Gregory Skowcraft,gskowcraftgx@posterous.com,Smartphones,PayPal,Calabarzon,Shipped,New,59.99,4,14,3,5/26/2026,3,05/29/2026,206.37
+Gelya Boom,gboomgy@comcast.net,Accessories,Cash on Delivery,Calabarzon,Cancelled,Returning,8.99,7,19,1,11/29/2025,3,12/02/2025,50.97
+Adela MacLeese,amacleesegz@geocities.com,Monitors,GCash,Mindanao,Shipped,New,129.99,4,6,1,6/29/2026,7,07/06/2026,488.76
+Allister Malinowski,amalinowskih0@google.ru,Accessories,GCash,Central Luzon,Pending,Returning,4.29,5,3,4,9/19/2025,2,09/21/2025,20.81
+Silva De Ortega,sdeh1@bravesites.com,Smartphones,GCash,Visayas,Cancelled,VIP,6.89,7,8,1,3/9/2026,1,03/10/2026,44.37
+Rayna Orrice,rorriceh2@ca.gov,Smartphones,PayPal,Visayas,Delivered,New,39.99,6,16,4,8/23/2026,7,08/30/2026,201.55
+Cassaundra Bendik,cbendikh3@myspace.com,Headphones,Cash on Delivery,Mindanao,Cancelled,VIP,3.49,1,15,4,7/4/2026,4,07/08/2026,2.97
+Rebecca Garside,rgarsideh4@oaic.gov.au,Smartphones,Cash on Delivery,Visayas,Delivered,Wholesale,99.99,1,19,2,8/22/2026,5,08/27/2026,80.99
+Rosette Bedbrough,rbedbroughh5@paginegialle.it,Accessories,PayPal,NCR,Cancelled,Wholesale,2.79,1,4,2,2/19/2026,1,02/20/2026,2.68
+Gaylor Wilfling,gwilflingh6@vk.com,Smartphones,Bank Transfer,NCR,Shipped,Returning,39.99,7,4,2,7/23/2026,1,07/24/2026,268.73
+Quinlan Hefferon,qhefferonh7@upenn.edu,Smartphones,GCash,Mindanao,Returned,Wholesale,3.49,4,6,1,7/11/2026,1,07/12/2026,13.12
+Rana Padginton,rpadgintonh8@hao123.com,Headphones,Credit Card,Visayas,Delivered,New,3.49,6,27,4,9/20/2025,5,09/25/2025,15.29
+Carmelita Pitkin,cpitkinh9@xrea.com,Smartphones,Bank Transfer,NCR,Cancelled,Returning,34.99,6,9,5,5/14/2026,3,05/17/2026,191.05
+Irma Bricksey,ibrickseyha@surveymonkey.com,Smartphones,GCash,Central Luzon,Returned,Returning,3.99,9,32,2,10/19/2025,7,10/26/2025,24.42
+Benito Critchard,bcritchardhb@nbcnews.com,Accessories,Cash on Delivery,Calabarzon,Shipped,VIP,1.99,1,2,2,8/4/2026,2,08/06/2026,1.95
+Lisbeth Constant,lconstanthc@nationalgeographic.com,Headphones,PayPal,NCR,Delivered,New,34.99,9,34,2,10/15/2025,4,10/19/2025,207.84
+Agretha Stanning,astanninghd@reddit.com,Headphones,Bank Transfer,Central Luzon,Cancelled,Wholesale,25.99,3,3,4,9/2/2025,5,09/07/2025,75.63
+Sherri Westphal,swestphalhe@indiegogo.com,Laptops,GCash,NCR,Pending,Returning,24.99,7,11,5,5/5/2026,7,05/12/2026,155.69
+Rivi Marquez,rmarquezhf@jugem.jp,Headphones,PayPal,Central Luzon,Shipped,New,19.99,3,11,2,4/17/2026,7,04/24/2026,53.37
+Abbey Westberg,awestberghg@dyndns.org,Laptops,Credit Card,Central Luzon,Delivered,VIP,3.99,5,10,4,5/20/2026,6,05/26/2026,17.96
+Jeana Webster,jwebsterhh@squidoo.com,Laptops,PayPal,NCR,Cancelled,VIP,49.99,10,17,4,6/5/2026,2,06/07/2026,414.92
+Rogerio Satterly,rsatterlyhi@artisteer.com,Smartphones,GCash,Mindanao,Cancelled,Returning,34.99,9,32,2,7/8/2026,2,07/10/2026,214.14
+Normand Feldbau,nfeldbauhj@fotki.com,Accessories,Cash on Delivery,Visayas,Cancelled,Returning,4.49,2,27,2,9/26/2025,6,10/02/2025,6.56
+Bren Brushneen,bbrushneenhk@walmart.com,Smartphones,PayPal,Calabarzon,Delivered,New,22.99,8,23,2,9/22/2025,6,09/28/2025,141.62
+Susanetta Arkin,sarkinhl@typepad.com,Smartphones,Bank Transfer,Calabarzon,Returned,VIP,44.99,6,36,5,9/6/2025,3,09/09/2025,172.76
+Freda Weathey,fweatheyhm@techcrunch.com,Accessories,GCash,Visayas,Returned,Wholesale,3.89,1,37,1,5/27/2026,1,05/28/2026,2.45
+Carmencita Gaukrodge,cgaukrodgehn@buzzfeed.com,Headphones,Bank Transfer,Calabarzon,Shipped,VIP,24.99,4,26,3,1/24/2026,7,01/31/2026,73.97
+Marietta Bradshaw,mbradshawho@networkadvertising.org,Headphones,Credit Card,Calabarzon,Cancelled,New,9.99,8,3,3,4/1/2026,3,04/04/2026,77.52
+Vergil Fahy,vfahyhp@aboutads.info,Headphones,Credit Card,Calabarzon,Returned,Returning,17.99,8,26,1,11/21/2025,2,11/23/2025,106.5
+Jeffie Hicks,jhickshq@epa.gov,Accessories,PayPal,Central Luzon,Delivered,Wholesale,58.99,1,25,2,10/9/2025,3,10/12/2025,44.24
+Myrna Stoner,mstonerhr@china.com.cn,Smartphones,GCash,Mindanao,Pending,New,3.99,2,37,2,5/11/2026,5,05/16/2026,5.03
+Julie Himsworth,jhimsworthhs@yahoo.com,Accessories,Credit Card,NCR,Delivered,Returning,8.99,4,14,2,10/4/2025,7,10/11/2025,30.93
+Guillemette Skarin,gskarinht@state.gov,Headphones,GCash,Mindanao,Shipped,New,14.99,10,33,3,8/5/2026,1,08/06/2026,100.43
+Lula Sidery,lsideryhu@pinterest.com,Headphones,Bank Transfer,Mindanao,Shipped,Wholesale,59.99,3,9,5,10/18/2025,4,10/22/2025,163.77
+Marnie Woolner,mwoolnerhv@simplemachines.org,Accessories,Credit Card,Visayas,Delivered,Returning,29.99,8,38,1,2/24/2026,3,02/27/2026,148.75
+Ronny Thebe,rthebehw@parallels.com,Headphones,GCash,Calabarzon,Returned,VIP,39.99,7,31,1,3/26/2026,4,03/30/2026,193.15
+Elita Lannen,elannenhx@multiply.com,Laptops,Cash on Delivery,NCR,Delivered,VIP,14.99,2,21,5,1/4/2026,6,01/10/2026,23.68
+Con Menier,cmenierhy@dell.com,Laptops,GCash,NCR,Delivered,VIP,1.99,4,34,2,3/9/2026,5,03/14/2026,5.25
+Gale Dunsmore,gdunsmorehz@dot.gov,Smartphones,PayPal,Visayas,Returned,Returning,49.99,5,23,2,8/13/2026,1,08/14/2026,192.46
+Alphard Rushbrooke,arushbrookei0@ustream.tv,Monitors,Cash on Delivery,Mindanao,Delivered,New,18.99,5,9,5,1/15/2026,2,01/17/2026,86.4
+Nanete Schubbert,nschubberti1@msu.edu,Accessories,GCash,Calabarzon,Cancelled,New,4.79,4,5,4,2/22/2026,4,02/26/2026,18.2
+Orv Dourin,odourini2@adobe.com,Monitors,Cash on Delivery,Visayas,Cancelled,VIP,5.49,9,32,1,7/3/2026,1,07/04/2026,33.6
+Fina MacRory,fmacroryi3@oaic.gov.au,Headphones,Credit Card,Mindanao,Returned,Returning,1.99,6,35,2,5/25/2026,1,05/26/2026,7.76
+Cassandry Speke,cspekei4@cisco.com,Accessories,Bank Transfer,Visayas,Pending,VIP,2.99,7,3,5,9/15/2025,2,09/17/2025,20.3
+Lani Custy,lcustyi5@wired.com,Accessories,Bank Transfer,Mindanao,Cancelled,New,7.99,7,35,5,1/19/2026,6,01/25/2026,36.35
+Annis Townsend,atownsendi6@bravesites.com,Laptops,GCash,Mindanao,Cancelled,VIP,69.99,9,11,3,5/1/2026,3,05/04/2026,560.62
+Wandis Raeside,wraesidei7@macromedia.com,Smartphones,PayPal,Visayas,Returned,VIP,19.99,3,35,2,6/11/2026,6,06/17/2026,38.98
+Neely Farran,nfarrani8@linkedin.com,Laptops,PayPal,NCR,Cancelled,VIP,34.99,2,7,5,8/18/2026,6,08/24/2026,65.08
+Carlen Bowerman,cbowermani9@businessinsider.com,Laptops,Cash on Delivery,NCR,Pending,Returning,19.99,10,4,3,11/6/2025,6,11/12/2025,191.9
+Coreen Danilin,cdanilinia@mapy.cz,Headphones,GCash,Visayas,Delivered,Returning,5.99,1,26,1,1/17/2026,4,01/21/2026,4.43
+Charlean Lehrahan,clehrahanib@blog.com,Headphones,PayPal,Central Luzon,Pending,Returning,5.49,8,22,5,11/1/2025,7,11/08/2025,34.26
+Caron Ebbitt,cebbittic@mozilla.com,Accessories,Bank Transfer,Central Luzon,Cancelled,VIP,3.29,8,28,1,2/23/2026,1,02/24/2026,18.95
+Raynor Candish,rcandishid@surveymonkey.com,Headphones,GCash,Mindanao,Pending,Returning,2.49,8,38,3,4/22/2026,2,04/24/2026,12.35
+Sigismundo Matousek,smatousekie@flavors.me,Accessories,Bank Transfer,Central Luzon,Pending,VIP,34.99,8,35,4,11/15/2025,6,11/21/2025,181.95
+Sanderson Sherrum,ssherrumif@amazon.de,Accessories,GCash,Mindanao,Pending,Wholesale,4.79,8,15,5,5/9/2026,2,05/11/2026,32.57
+Alf Thomel,athomelig@japanpost.jp,Accessories,Cash on Delivery,Mindanao,Shipped,New,5.49,4,15,2,2/12/2026,2,02/14/2026,18.67
+Meghan Spellworth,mspellworthih@github.io,Monitors,GCash,Central Luzon,Returned,New,12.99,8,4,5,10/7/2025,3,10/10/2025,99.76
+Cale Devonish,cdevonishii@lulu.com,Accessories,PayPal,Calabarzon,Returned,New,44.99,8,19,3,4/28/2026,6,05/04/2026,291.54
+Erek Ralfe,eralfeij@theguardian.com,Headphones,PayPal,NCR,Cancelled,Wholesale,14.99,6,12,2,8/3/2026,6,08/09/2026,79.15
+Franky Toth,ftothik@businessinsider.com,Monitors,PayPal,Central Luzon,Cancelled,Wholesale,4.29,10,32,5,8/3/2026,6,08/09/2026,29.17
+Keefe Bier,kbieril@instagram.com,Monitors,Bank Transfer,Visayas,Delivered,VIP,2.99,9,33,5,8/25/2026,6,08/31/2026,18.03
+Bartholemy Whanstall,bwhanstallim@fc2.com,Laptops,Bank Transfer,NCR,Cancelled,Returning,12.99,4,34,4,6/16/2026,2,06/18/2026,34.29
+Adelle Moorey,amooreyin@artisteer.com,Headphones,PayPal,Visayas,Cancelled,VIP,5.99,10,4,3,5/25/2026,6,05/31/2026,57.5
+Gerrilee Santi,gsantiio@wikipedia.org,Monitors,GCash,Visayas,Cancelled,Wholesale,6.49,10,22,2,5/25/2026,6,05/31/2026,50.62
+Leanor Tuny,ltunyip@feedburner.com,Smartphones,PayPal,Central Luzon,Cancelled,VIP,2.49,1,21,1,4/23/2026,1,04/24/2026,1.97
+Merrick Pottberry,mpottberryiq@yellowbook.com,Laptops,Cash on Delivery,Mindanao,Shipped,New,4.79,8,20,1,6/27/2026,1,06/28/2026,30.66
+Faydra Georgi,fgeorgiir@dailymotion.com,Headphones,PayPal,Mindanao,Shipped,New,89.99,2,29,1,10/7/2025,7,10/14/2025,127.79
+Reina Garett,rgarettis@bluehost.com,Monitors,GCash,Mindanao,Delivered,Returning,99.99,1,25,5,7/30/2026,3,08/02/2026,74.99
+Elka Pieper,epieperit@sfgate.com,Accessories,Credit Card,Visayas,Delivered,Returning,29.99,10,1,4,6/1/2026,4,06/05/2026,296.9
+Madelle Hartwright,mhartwrightiu@cisco.com,Accessories,GCash,Visayas,Pending,Returning,3.29,7,11,5,10/11/2025,5,10/16/2025,20.5
+Cristina La Rosa,claiv@opensource.org,Accessories,Bank Transfer,Central Luzon,Shipped,Returning,9.49,8,39,3,6/26/2026,1,06/27/2026,46.31
+Clio Normant,cnormantiw@about.com,Headphones,Bank Transfer,NCR,Cancelled,Wholesale,22.99,8,16,2,7/20/2026,7,07/27/2026,154.49
+April Edie,aedieix@ebay.co.uk,Headphones,Credit Card,Visayas,Cancelled,VIP,3.79,7,12,4,5/9/2026,4,05/13/2026,23.35
+Ripley Glyde,rglydeiy@wunderground.com,Monitors,GCash,NCR,Pending,Wholesale,79.99,2,3,2,12/30/2025,2,01/01/2026,155.18
+Lauretta Bellefant,lbellefantiz@slate.com,Accessories,Credit Card,Central Luzon,Delivered,New,24.99,4,12,4,12/27/2025,4,12/31/2025,87.96
+Eddie Bettles,ebettlesj0@etsy.com,Smartphones,Bank Transfer,Calabarzon,Cancelled,Returning,4.29,8,14,5,5/2/2026,2,05/04/2026,29.52
+Adina Malam,amalamj1@sciencedirect.com,Monitors,PayPal,Visayas,Pending,New,199.99,8,1,1,12/27/2025,1,12/28/2025,1583.92
+Nataniel Whebell,nwhebellj2@alibaba.com,Accessories,Credit Card,Central Luzon,Shipped,Wholesale,59.99,6,4,4,5/29/2026,3,06/01/2026,345.54
+Tuck Masterton,tmastertonj3@techcrunch.com,Laptops,GCash,Visayas,Returned,New,10.99,1,5,1,4/21/2026,5,04/26/2026,10.44
+Marve Bruckmann,mbruckmannj4@google.pl,Smartphones,Bank Transfer,Visayas,Returned,Returning,2.99,6,28,2,3/17/2026,5,03/22/2026,12.92
+Erwin Quye,equyej5@gravatar.com,Accessories,PayPal,NCR,Delivered,Wholesale,3.29,5,19,1,7/29/2026,1,07/30/2026,13.32
+Prentiss Vassman,pvassmanj6@spotify.com,Accessories,PayPal,Mindanao,Returned,Returning,89.99,8,21,2,7/4/2026,3,07/07/2026,568.74
+Starla Haydn,shaydnj7@fc2.com,Accessories,Cash on Delivery,Calabarzon,Cancelled,VIP,39.99,3,7,3,4/27/2026,3,04/30/2026,111.57
+Barri Gullick,bgullickj8@mtv.com,Laptops,PayPal,Mindanao,Pending,Returning,4.99,4,21,2,3/31/2026,2,04/02/2026,15.77
+Gal D'Elias,gdeliasj9@vk.com,Accessories,GCash,Calabarzon,Shipped,VIP,39.99,7,24,1,6/12/2026,7,06/19/2026,212.75
+Wright Pennycord,wpennycordja@bandcamp.com,Monitors,PayPal,Calabarzon,Returned,VIP,12.99,8,39,1,7/26/2026,1,07/27/2026,63.39
+Alisa Eastman,aeastmanjb@xinhuanet.com,Smartphones,Bank Transfer,Mindanao,Cancelled,New,3.59,8,5,5,9/19/2025,4,09/23/2025,27.28
+Rorke Carnalan,rcarnalanjc@jiathis.com,Laptops,Cash on Delivery,Mindanao,Pending,Wholesale,4.99,10,37,3,7/25/2026,2,07/27/2026,31.44
+Doria Scinelli,dscinellijd@baidu.com,Headphones,Bank Transfer,Visayas,Pending,Returning,2.49,2,13,5,12/24/2025,6,12/30/2025,4.33
+Ulrica Snoddy,usnoddyje@diigo.com,Laptops,Cash on Delivery,NCR,Returned,New,14.99,3,16,1,7/19/2026,7,07/26/2026,37.77
+Hinda Cyson,hcysonjf@hexun.com,Accessories,PayPal,Calabarzon,Shipped,Wholesale,39.99,2,40,1,3/1/2026,7,03/08/2026,47.99
+Faustine Munford,fmunfordjg@ebay.com,Smartphones,GCash,Mindanao,Shipped,Wholesale,12.99,3,13,4,3/22/2026,4,03/26/2026,33.9
+Kellina Danihelka,kdanihelkajh@edublogs.org,Headphones,GCash,Mindanao,Pending,Wholesale,5.99,2,18,1,9/6/2025,5,09/11/2025,9.82
+Lilah Greir,lgreirji@bluehost.com,Laptops,Bank Transfer,Mindanao,Shipped,New,14.99,6,22,3,6/12/2026,3,06/15/2026,70.15
+Sondra Handes,shandesjj@facebook.com,Monitors,PayPal,Central Luzon,Pending,VIP,12.99,5,1,4,3/8/2026,6,03/14/2026,64.3
+Tanhya Dronsfield,tdronsfieldjk@about.me,Accessories,Credit Card,Central Luzon,Delivered,VIP,3.49,7,38,1,2/15/2026,1,02/16/2026,15.15
+Sharia Lammers,slammersjl@google.ca,Headphones,GCash,Central Luzon,Pending,Returning,39.99,5,21,3,5/24/2026,1,05/25/2026,157.96
+Hervey Bulfoy,hbulfoyjm@surveymonkey.com,Headphones,GCash,Central Luzon,Pending,VIP,3.49,10,25,3,11/30/2025,5,12/05/2025,26.18
+Anatola Simeonov,asimeonovjn@upenn.edu,Headphones,PayPal,Visayas,Shipped,VIP,4.29,1,8,5,8/25/2026,3,08/28/2026,3.95
+Debbi Heathwood,dheathwoodjo@dmoz.org,Accessories,GCash,Central Luzon,Pending,VIP,3.49,7,27,5,6/9/2026,5,06/14/2026,17.83
+Niles Bosden,nbosdenjp@de.vu,Laptops,Bank Transfer,Visayas,Delivered,VIP,12.99,2,36,3,2/5/2026,6,02/11/2026,16.63
+Sanson Pietron,spietronjq@facebook.com,Monitors,GCash,Central Luzon,Cancelled,VIP,29.99,10,3,3,7/28/2026,1,07/29/2026,290.9
+Travers Magor,tmagorjr@unblog.fr,Monitors,Credit Card,Central Luzon,Shipped,Wholesale,18.99,8,33,2,6/22/2026,4,06/26/2026,101.79
+Solomon Koppe,skoppejs@acquirethisname.com,Monitors,Cash on Delivery,Visayas,Delivered,Returning,69.99,1,40,1,3/5/2026,4,03/09/2026,41.99
+Frederich Isard,fisardjt@miibeian.gov.cn,Smartphones,GCash,NCR,Shipped,Returning,59.99,7,7,2,1/17/2026,5,01/22/2026,390.53
+Catina Laguerre,claguerreju@arstechnica.com,Laptops,Bank Transfer,Calabarzon,Cancelled,New,19.99,7,38,1,8/10/2026,5,08/15/2026,86.76
+Alfi Mulvin,amulvinjv@51.la,Headphones,Bank Transfer,Visayas,Shipped,VIP,3.29,8,26,2,9/23/2025,1,09/24/2025,19.48
+Lamont Edington,ledingtonjw@freewebs.com,Accessories,Bank Transfer,NCR,Shipped,Returning,3.79,3,32,1,9/9/2025,7,09/16/2025,7.73
+Berenice Westby,bwestbyjx@topsy.com,Accessories,PayPal,Central Luzon,Delivered,Returning,4.49,9,6,2,9/14/2025,7,09/21/2025,37.99
+Tracee Eversley,teversleyjy@craigslist.org,Accessories,Cash on Delivery,Calabarzon,Pending,New,2.49,8,10,3,11/9/2025,1,11/10/2025,17.93
+Mycah Pape,mpapejz@cisco.com,Headphones,Credit Card,Central Luzon,Shipped,Wholesale,39.99,6,33,4,11/14/2025,7,11/21/2025,160.76
+Ira Dennant,idennantk0@over-blog.com,Laptops,Cash on Delivery,Visayas,Delivered,Returning,49.99,7,27,1,7/9/2026,3,07/12/2026,255.45
+Danya Klausewitz,dklausewitzk1@discuz.net,Laptops,GCash,Calabarzon,Pending,New,10.99,10,3,5,4/26/2026,6,05/02/2026,106.6
+Jens Lishman,jlishmank2@economist.com,Smartphones,Cash on Delivery,Visayas,Cancelled,New,3.29,9,23,1,2/8/2026,7,02/15/2026,22.8
+Yancey Sagar,ysagark3@wunderground.com,Smartphones,Credit Card,Visayas,Returned,Returning,29.99,8,8,3,5/9/2026,5,05/14/2026,220.73
+Karoly Gerish,kgerishk4@nifty.com,Monitors,Bank Transfer,Calabarzon,Delivered,Returning,24.99,7,19,2,1/20/2026,5,01/25/2026,141.69
+Wang Wey,wweyk5@ucla.edu,Smartphones,Cash on Delivery,Calabarzon,Pending,Returning,4.49,4,17,1,10/3/2025,2,10/05/2025,14.91
+Gavrielle Ragat,gragatk6@freewebs.com,Smartphones,GCash,Mindanao,Cancelled,VIP,69.99,2,17,3,6/1/2026,5,06/06/2026,116.18
+Micheal Tolworthy,mtolworthyk7@uiuc.edu,Smartphones,Credit Card,Visayas,Pending,New,29.99,6,7,2,6/6/2026,7,06/13/2026,167.34
+Alie Cole,acolek8@trellian.com,Headphones,Cash on Delivery,Central Luzon,Pending,New,12.99,7,15,5,4/22/2026,7,04/29/2026,77.29
+Lonnie Corsor,lcorsork9@gravatar.com,Laptops,Bank Transfer,NCR,Delivered,New,79.99,6,14,5,2/16/2026,1,02/17/2026,412.75
+Bearnard Stickland,bsticklandka@vimeo.com,Headphones,GCash,Visayas,Pending,VIP,39.99,6,37,4,2/20/2026,2,02/22/2026,151.16
+Nestor Matlock,nmatlockkb@ezinearticles.com,Smartphones,PayPal,Central Luzon,Pending,Wholesale,4.29,2,30,5,8/15/2026,7,08/22/2026,6.01
+Brandon Van Waadenburg,bvankc@nature.com,Headphones,PayPal,Mindanao,Cancelled,Returning,3.59,2,21,1,8/3/2026,5,08/08/2026,5.67
+Helen-elizabeth Bole,hbolekd@pinterest.com,Headphones,Bank Transfer,NCR,Shipped,VIP,4.29,10,19,2,11/28/2025,6,12/04/2025,34.75
+Aylmar Eveque,aevequeke@hubpages.com,Laptops,PayPal,NCR,Pending,Wholesale,12.99,9,30,3,6/1/2026,6,06/07/2026,81.84
+Jozef Scandwright,jscandwrightkf@washington.edu,Monitors,Cash on Delivery,NCR,Pending,VIP,5.49,4,40,2,7/13/2026,5,07/18/2026,13.18
+Gordon Servante,gservantekg@fotki.com,Smartphones,Credit Card,Visayas,Pending,New,3.49,5,15,3,9/1/2025,5,09/06/2025,14.83
+Brig Lorrimer,blorrimerkh@jalbum.net,Accessories,GCash,Calabarzon,Returned,VIP,1.99,7,17,4,7/10/2026,2,07/12/2026,11.56
+Ashlan Barrar,abarrarki@ebay.com,Smartphones,Bank Transfer,Visayas,Shipped,Wholesale,6.29,2,21,2,1/21/2026,6,01/27/2026,9.94
+Phoebe Caselick,pcaselickkj@webmd.com,Headphones,Credit Card,Visayas,Pending,VIP,2.49,1,22,5,5/30/2026,1,05/31/2026,1.94
+Rae Spawell,rspawellkk@nydailynews.com,Laptops,Cash on Delivery,Mindanao,Returned,Wholesale,7.99,7,20,3,2/20/2026,3,02/23/2026,44.74
+Cheston Merwe,cmerwekl@blogtalkradio.com,Laptops,Bank Transfer,Central Luzon,Delivered,VIP,3.99,7,36,1,11/5/2025,7,11/12/2025,17.88
+Alvinia Espadero,aespaderokm@youtu.be,Headphones,Cash on Delivery,Central Luzon,Shipped,Returning,4.99,9,39,1,12/6/2025,2,12/08/2025,27.4
+Keene Fruish,kfruishkn@amazon.co.jp,Monitors,GCash,Central Luzon,Returned,New,5.59,8,6,1,5/2/2026,3,05/05/2026,42.04
+Robers Karran,rkarranko@aboutads.info,Monitors,GCash,Central Luzon,Shipped,Wholesale,29.99,6,2,5,11/4/2025,7,11/11/2025,176.34
+Katee Cadge,kcadgekp@printfriendly.com,Smartphones,Credit Card,NCR,Pending,Wholesale,19.99,2,3,3,9/8/2025,2,09/10/2025,38.78
+Rutherford Frascone,rfrasconekq@nymag.com,Accessories,Credit Card,NCR,Delivered,Wholesale,3.79,7,36,2,1/16/2026,7,01/23/2026,16.98
+Briano Davydzenko,bdavydzenkokr@domainmarket.com,Headphones,Cash on Delivery,Visayas,Cancelled,Returning,7.99,2,10,3,5/3/2026,6,05/09/2026,14.38
+Codi Stanmer,cstanmerks@seattletimes.com,Laptops,Credit Card,NCR,Pending,Wholesale,3.5,2,18,1,8/23/2026,6,08/29/2026,5.74
+Kane Rowaszkiewicz,krowaszkiewiczkt@youku.com,Monitors,PayPal,NCR,Returned,Wholesale,4.99,8,26,5,8/28/2026,2,08/30/2026,29.54
+Hubey Josefson,hjosefsonku@ifeng.com,Laptops,Bank Transfer,Central Luzon,Pending,Wholesale,2.79,7,25,4,10/8/2025,2,10/10/2025,14.65
+Sauncho Thurner,sthurnerkv@phoca.cz,Headphones,GCash,NCR,Cancelled,New,49.99,1,5,2,7/12/2026,5,07/17/2026,47.49
+Sheffy McAlindon,smcalindonkw@shareasale.com,Headphones,Credit Card,NCR,Returned,VIP,149.99,2,19,2,1/1/2026,1,01/02/2026,242.98
+Fiorenze Kinchlea,fkinchleakx@sitemeter.com,Monitors,Cash on Delivery,Central Luzon,Cancelled,Returning,14.99,1,6,1,5/4/2026,5,05/09/2026,14.09
+Morena Sarle,msarleky@over-blog.com,Laptops,Credit Card,Visayas,Returned,Returning,5.99,3,25,3,2/22/2026,6,02/28/2026,13.48
+Duffy Hainey`,dhaineykz@prlog.org,Laptops,Bank Transfer,Calabarzon,Returned,Wholesale,8.99,3,18,1,4/21/2026,2,04/23/2026,22.12
+Lacee Reboul,lreboull0@fda.gov,Laptops,PayPal,Calabarzon,Returned,VIP,3.29,7,14,1,10/21/2025,6,10/27/2025,19.81
+Tersina Slyman,tslymanl1@reddit.com,Headphones,Cash on Delivery,Central Luzon,Delivered,Returning,19.99,7,34,5,9/19/2025,4,09/23/2025,92.35
+Carmina Muldownie,cmuldowniel2@cnet.com,Accessories,PayPal,Visayas,Shipped,New,19.99,5,2,3,1/5/2026,7,01/12/2026,97.95
+Fanchon Armin,farminl3@phpbb.com,Laptops,Cash on Delivery,Calabarzon,Pending,New,3.59,9,40,2,7/7/2026,1,07/08/2026,19.39
+Noella Duinkerk,nduinkerkl4@sohu.com,Smartphones,Bank Transfer,Central Luzon,Cancelled,VIP,39.99,10,17,4,4/24/2026,6,04/30/2026,331.92
+Elli Kalkhoven,ekalkhovenl5@topsy.com,Headphones,Cash on Delivery,Central Luzon,Delivered,Returning,19.99,10,22,5,1/22/2026,5,01/27/2026,155.92
+Xenos Reightley,xreightleyl6@e-recht24.de,Smartphones,Credit Card,Mindanao,Cancelled,VIP,7.99,6,36,5,1/28/2026,3,01/31/2026,30.68
+Nertie Canet,ncanetl7@dyndns.org,Laptops,Bank Transfer,Central Luzon,Returned,VIP,49.99,6,32,1,2/9/2026,4,02/13/2026,203.96
+Jonie Sedworth,jsedworthl8@forbes.com,Laptops,Credit Card,Visayas,Returned,Returning,99.99,10,7,4,6/6/2026,3,06/09/2026,929.91
+Cart Swindle,cswindlel9@china.com.cn,Laptops,Credit Card,Mindanao,Shipped,Returning,29.99,2,2,4,3/5/2026,5,03/10/2026,58.78
+Jasper Cluett,jcluettla@people.com.cn,Laptops,GCash,Central Luzon,Returned,Returning,4.29,4,11,1,4/8/2026,7,04/15/2026,15.27
+Dallis Owbrick,dowbricklb@patch.com,Laptops,GCash,NCR,Returned,Returning,19.99,8,1,5,2/14/2026,7,02/21/2026,158.32
+Curcio Tambling,ctamblinglc@twitter.com,Smartphones,Credit Card,Mindanao,Cancelled,Returning,3.99,10,25,5,10/12/2025,2,10/14/2025,29.93
+Cherey Edwinson,cedwinsonld@github.com,Laptops,Credit Card,Central Luzon,Returned,New,5.49,4,26,4,2/13/2026,5,02/18/2026,16.25
+Tucky Dyzart,tdyzartle@gmpg.org,Accessories,PayPal,Mindanao,Shipped,Wholesale,9.99,4,33,2,8/23/2026,6,08/29/2026,26.77
+Candi Rutledge,crutledgelf@telegraph.co.uk,Monitors,Credit Card,Central Luzon,Pending,New,39.99,4,26,5,2/3/2026,6,02/09/2026,118.37
+Lilly Issacoff,lissacofflg@nih.gov,Smartphones,Cash on Delivery,NCR,Delivered,New,2.99,7,38,1,2/12/2026,7,02/19/2026,12.98
+Frederic Dunseith,fdunseithlh@pagesperso-orange.fr,Accessories,GCash,Central Luzon,Delivered,VIP,22.99,10,36,1,4/7/2026,6,04/13/2026,147.14
+Morry Brosio,mbrosioli@privacy.gov.au,Smartphones,Bank Transfer,Central Luzon,Pending,Wholesale,2.99,4,16,2,4/28/2026,3,05/01/2026,10.05
+Berty Crudgington,bcrudgingtonlj@abc.net.au,Smartphones,Credit Card,Visayas,Cancelled,VIP,179.99,9,19,5,12/30/2025,1,12/31/2025,1312.13
+Findlay Foxwell,ffoxwelllk@techcrunch.com,Monitors,Cash on Delivery,Visayas,Shipped,Wholesale,19.99,2,25,2,11/30/2025,6,12/06/2025,29.99
+Dorelle Barribal,dbarriballl@unesco.org,Headphones,Bank Transfer,Visayas,Shipped,Wholesale,2.99,5,12,2,7/12/2026,1,07/13/2026,13.16
+Tabina Zecchinelli,tzecchinellilm@wsj.com,Headphones,Cash on Delivery,NCR,Shipped,Wholesale,24.99,1,9,3,9/16/2025,3,09/19/2025,22.74
+Mallissa Greenhough,mgreenhoughln@histats.com,Headphones,PayPal,Mindanao,Pending,Returning,29.99,4,38,4,9/3/2025,3,09/06/2025,74.38
+Myranda Blanque,mblanquelo@so-net.ne.jp,Monitors,Credit Card,Mindanao,Returned,Wholesale,2.49,9,28,3,3/15/2026,7,03/22/2026,16.14
+Timothee Hollyard,thollyardlp@yandex.ru,Headphones,Bank Transfer,Central Luzon,Pending,VIP,109.99,4,11,2,3/7/2026,3,03/10/2026,391.56
+Daffy Dugdale,ddugdalelq@blogtalkradio.com,Headphones,Cash on Delivery,Calabarzon,Cancelled,VIP,4.29,10,8,4,8/21/2026,6,08/27/2026,39.47
+Magda Polson,mpolsonlr@cnet.com,Accessories,PayPal,Visayas,Cancelled,Returning,5.49,5,6,4,2/1/2026,6,02/07/2026,25.8
+Roch Randerson,rrandersonls@jigsy.com,Headphones,Bank Transfer,Visayas,Cancelled,VIP,299.99,1,17,3,2/25/2026,6,03/03/2026,248.99
+Berthe Crosfeld,bcrosfeldlt@go.com,Laptops,GCash,Calabarzon,Shipped,VIP,3.49,8,19,1,6/17/2026,7,06/24/2026,22.62
+Sadie Rawlingson,srawlingsonlu@fc2.com,Smartphones,Cash on Delivery,Visayas,Shipped,VIP,3.29,6,24,5,3/21/2026,2,03/23/2026,15
+Annelise Margerrison,amargerrisonlv@umich.edu,Laptops,Cash on Delivery,Central Luzon,Pending,New,24.99,7,25,4,2/15/2026,7,02/22/2026,131.2
+Rachele Hartburn,rhartburnlw@statcounter.com,Smartphones,Cash on Delivery,Mindanao,Cancelled,VIP,15.99,5,4,4,1/6/2026,7,01/13/2026,76.75
+Mikey Mudd,mmuddlx@businessinsider.com,Smartphones,PayPal,Visayas,Pending,VIP,5.99,8,15,3,2/14/2026,7,02/21/2026,40.73
+Adham Bowskill,abowskillly@baidu.com,Laptops,Cash on Delivery,Mindanao,Returned,Returning,79.99,8,3,4,10/23/2025,5,10/28/2025,620.72
+Kev Burker,kburkerlz@google.com.au,Laptops,GCash,Visayas,Delivered,Returning,3.79,9,22,3,7/28/2026,4,08/01/2026,26.61
+Millard Cobden,mcobdenm0@oracle.com,Laptops,Cash on Delivery,NCR,Delivered,New,3.99,4,10,5,12/5/2025,1,12/06/2025,14.36
+Jandy Ganforth,jganforthm1@tumblr.com,Headphones,Cash on Delivery,NCR,Pending,VIP,3.49,1,21,4,8/3/2026,5,08/08/2026,2.76
+Emmerich Moncey,emonceym2@bbc.co.uk,Smartphones,PayPal,Mindanao,Cancelled,Wholesale,39.99,3,24,5,4/10/2026,5,04/15/2026,91.18
+Alys Rumney,arumneym3@odnoklassniki.ru,Accessories,Cash on Delivery,Visayas,Pending,VIP,5.99,5,27,5,11/26/2025,6,12/02/2025,21.86
+Roma Rawdales,rrawdalesm4@yahoo.com,Smartphones,Bank Transfer,Mindanao,Returned,Returning,1.99,4,28,3,2/12/2026,5,02/17/2026,5.73
+Wallis Kisting,wkistingm5@rambler.ru,Headphones,GCash,Central Luzon,Shipped,VIP,3.49,3,10,1,1/24/2026,2,01/26/2026,9.42
+Codi Sweetlove,csweetlovem6@google.fr,Accessories,PayPal,Calabarzon,Cancelled,Wholesale,79.99,5,19,2,3/19/2026,6,03/25/2026,323.96
+Jennica Geely,jgeelym7@nifty.com,Monitors,Cash on Delivery,Mindanao,Returned,Returning,12.99,3,29,3,7/17/2026,4,07/21/2026,27.67
+Ian Bellew,ibellewm8@360.cn,Smartphones,Cash on Delivery,Mindanao,Cancelled,Returning,6.49,6,3,1,7/17/2026,3,07/20/2026,37.77
+Arri Itzkovsky,aitzkovskym9@multiply.com,Headphones,PayPal,Calabarzon,Delivered,Returning,0.89,2,4,4,9/17/2025,2,09/19/2025,1.71
+Udale Saulter,usaulterma@prlog.org,Headphones,GCash,Visayas,Pending,Returning,9.99,6,20,1,5/24/2026,1,05/25/2026,47.95
+Alejandrina Trusslove,atrusslovemb@google.nl,Headphones,Credit Card,Visayas,Returned,Wholesale,49.99,1,28,2,12/15/2025,2,12/17/2025,35.99
+Cyndi Bousquet,cbousquetmc@github.io,Laptops,Credit Card,NCR,Delivered,VIP,2.99,5,1,1,7/21/2026,3,07/24/2026,14.8
+Ola Do,odomd@google.nl,Headphones,PayPal,Calabarzon,Returned,Wholesale,6.29,2,16,2,12/2/2025,2,12/04/2025,10.57
+Amalea Westwick,awestwickme@kickstarter.com,Laptops,Credit Card,Mindanao,Pending,New,29.99,1,21,5,10/26/2025,4,10/30/2025,23.69
+Irv Emmerson,iemmersonmf@businessweek.com,Accessories,GCash,Visayas,Returned,New,19.99,6,8,2,8/10/2026,7,08/17/2026,110.34
+Lockwood Morpeth,lmorpethmg@salon.com,Monitors,Bank Transfer,Calabarzon,Delivered,New,4.99,9,10,4,8/19/2026,5,08/24/2026,40.42
+Lilah Folli,lfollimh@goodreads.com,Laptops,GCash,Visayas,Delivered,VIP,19.99,7,13,3,7/1/2026,2,07/03/2026,121.74
+Fernandina Ramlot,framlotmi@skype.com,Monitors,GCash,Central Luzon,Returned,New,12.99,2,13,3,7/17/2026,1,07/18/2026,22.6
+Vanny Iley,vileymj@youku.com,Laptops,Bank Transfer,Calabarzon,Pending,Wholesale,79.99,9,17,3,4/7/2026,5,04/12/2026,597.53
+Wallis Vezey,wvezeymk@diigo.com,Accessories,PayPal,Central Luzon,Pending,Returning,2.49,7,23,5,2/21/2026,4,02/25/2026,13.42
+Morly Whorall,mwhorallml@xinhuanet.com,Smartphones,PayPal,Mindanao,Pending,Wholesale,14.99,5,40,4,12/27/2025,4,12/31/2025,44.97
+Morty Kennard,mkennardmm@redcross.org,Laptops,Bank Transfer,Visayas,Pending,Wholesale,15.99,10,25,3,12/29/2025,6,01/04/2026,119.93
+Meredith Sporton,msportonmn@earthlink.net,Accessories,Cash on Delivery,Mindanao,Returned,Wholesale,2.99,1,11,4,5/21/2026,7,05/28/2026,2.66
+Krista Farfull,kfarfullmo@disqus.com,Monitors,Bank Transfer,Mindanao,Delivered,New,19.99,3,20,2,4/9/2026,4,04/13/2026,47.98
+Winonah Gotobed,wgotobedmp@psu.edu,Monitors,Credit Card,Central Luzon,Cancelled,Wholesale,3.99,3,9,1,7/5/2026,2,07/07/2026,10.89
+Louis Summersett,lsummersettmq@so-net.ne.jp,Monitors,Cash on Delivery,Calabarzon,Pending,Wholesale,29.99,8,15,5,7/3/2026,3,07/06/2026,203.93
+Hildagard Gladyer,hgladyermr@reverbnation.com,Laptops,Credit Card,Central Luzon,Delivered,Returning,3.49,4,22,5,10/17/2025,6,10/23/2025,10.89
+Samantha Jacobowitz,sjacobowitzms@pagesperso-orange.fr,Monitors,PayPal,Calabarzon,Shipped,Wholesale,3.49,4,1,3,9/15/2025,6,09/21/2025,13.82
+Claudette Ber,cbermt@imdb.com,Headphones,PayPal,Visayas,Pending,Wholesale,19.99,8,4,3,7/28/2026,1,07/29/2026,153.52
+Basia Petrolli,bpetrollimu@craigslist.org,Smartphones,Credit Card,Visayas,Cancelled,New,5.99,9,15,4,7/30/2026,1,07/31/2026,45.82
+Gabe Craigheid,gcraigheidmv@nba.com,Headphones,GCash,NCR,Delivered,Returning,8.99,4,2,5,2/9/2026,1,02/10/2026,35.24
+Davin Hounihan,dhounihanmw@wordpress.org,Headphones,Credit Card,Mindanao,Shipped,Wholesale,15.99,1,1,4,9/16/2025,2,09/18/2025,15.83
+Forster Dalla,fdallamx@networksolutions.com,Smartphones,Bank Transfer,Visayas,Shipped,VIP,54.99,3,31,2,9/23/2025,4,09/27/2025,113.83
+Cordelie Steger,cstegermy@spiegel.de,Headphones,Bank Transfer,Mindanao,Returned,VIP,39.99,1,19,5,1/13/2026,1,01/14/2026,32.39
+Thane Roll,trollmz@prweb.com,Laptops,PayPal,Central Luzon,Pending,Returning,5.49,1,9,3,6/3/2026,5,06/08/2026,5
+Klement Prosser,kprossern0@foxnews.com,Monitors,PayPal,Visayas,Pending,Returning,3.49,1,9,2,1/11/2026,7,01/18/2026,3.18
+Chancey Garfirth,cgarfirthn1@sina.com.cn,Laptops,Cash on Delivery,Visayas,Delivered,New,29.99,3,14,1,12/8/2025,5,12/13/2025,77.37
+Devonne Corness,dcornessn2@alexa.com,Monitors,PayPal,Mindanao,Shipped,New,6.99,3,35,5,2/13/2026,7,02/20/2026,13.63
+Sheeree Bretland,sbretlandn3@apple.com,Smartphones,PayPal,Mindanao,Pending,VIP,8.99,5,27,1,4/30/2026,3,05/03/2026,32.81
+Lorelle Markey,lmarkeyn4@ning.com,Monitors,Cash on Delivery,Calabarzon,Pending,VIP,24.99,7,37,2,12/1/2025,2,12/03/2025,110.21
+Kristal Chambers,kchambersn5@creativecommons.org,Laptops,PayPal,Calabarzon,Pending,VIP,19.99,8,18,1,11/8/2025,4,11/12/2025,131.13
+Rocky Laxen,rlaxenn6@prweb.com,Accessories,Cash on Delivery,Mindanao,Cancelled,New,39.99,3,1,1,5/9/2026,7,05/16/2026,118.77
+Reyna Allsworth,rallsworthn7@nationalgeographic.com,Headphones,Bank Transfer,Calabarzon,Pending,Returning,8.49,3,26,1,4/17/2026,7,04/24/2026,18.85
+Rozina Volk,rvolkn8@elegantthemes.com,Monitors,Bank Transfer,Calabarzon,Cancelled,Returning,29.99,5,7,5,9/28/2025,3,10/01/2025,139.45
+Rutger Trewett,rtrewettn9@ebay.co.uk,Smartphones,GCash,Central Luzon,Cancelled,New,29.99,2,3,2,5/14/2026,5,05/19/2026,58.18
+Bren Sapsford,bsapsfordna@php.net,Accessories,GCash,NCR,Pending,Wholesale,2.99,7,21,5,12/17/2025,2,12/19/2025,16.53
+Chet Bresnen,cbresnennb@a8.net,Monitors,Bank Transfer,NCR,Returned,New,79.99,5,14,2,11/30/2025,3,12/03/2025,343.96
+Coraline Allanby,callanbync@epa.gov,Accessories,Bank Transfer,Mindanao,Returned,Wholesale,22.99,9,28,2,5/17/2026,7,05/24/2026,148.98
+Loreen Goddman,lgoddmannd@paginegialle.it,Smartphones,Bank Transfer,NCR,Shipped,Returning,19.99,4,19,3,1/28/2026,1,01/29/2026,64.77
+Yank Goodayle,ygoodaylene@netlog.com,Monitors,Bank Transfer,Central Luzon,Cancelled,Returning,79.99,8,34,5,8/24/2026,4,08/28/2026,422.35
+Theresa Stegel,tstegelnf@cloudflare.com,Smartphones,Bank Transfer,Calabarzon,Delivered,Wholesale,19.99,7,22,4,11/20/2025,5,11/25/2025,109.15
+Evangelin Perrelle,eperrelleng@yandex.ru,Smartphones,Cash on Delivery,Calabarzon,Pending,Returning,5.49,7,5,4,2/19/2026,5,02/24/2026,36.51
+Darice Faley,dfaleynh@yelp.com,Monitors,GCash,NCR,Shipped,Wholesale,39.99,3,34,1,9/25/2025,5,09/30/2025,79.18
+Pamelina Stoving,pstovingni@wunderground.com,Monitors,Credit Card,Visayas,Delivered,Wholesale,9.99,5,4,4,6/15/2026,2,06/17/2026,47.95
+Niki Lansley,nlansleynj@noaa.gov,Accessories,Credit Card,Visayas,Returned,New,6.29,10,31,3,10/9/2025,5,10/14/2025,43.4
+Garry Gerrelts,ggerreltsnk@noaa.gov,Monitors,Cash on Delivery,Visayas,Shipped,Returning,1.99,6,37,4,1/28/2026,7,02/04/2026,7.52
+Juanita Legrand,jlegrandnl@google.co.jp,Headphones,Cash on Delivery,Mindanao,Delivered,New,4.29,4,1,2,4/16/2026,7,04/23/2026,16.99
+Maitilde Muller,mmullernm@hao123.com,Accessories,Bank Transfer,Visayas,Cancelled,Returning,5.29,9,3,5,8/29/2026,6,09/04/2026,46.18
+Cammy Tombs,ctombsnn@zdnet.com,Accessories,PayPal,Visayas,Shipped,VIP,49.99,10,19,4,3/16/2026,4,03/20/2026,404.92
+Louella Storre,lstorreno@arizona.edu,Laptops,Credit Card,NCR,Returned,VIP,299.99,2,36,3,2/14/2026,2,02/16/2026,383.99
+Ricard Currm,rcurrmnp@lycos.com,Smartphones,GCash,Visayas,Delivered,Returning,3.59,7,14,2,1/28/2026,3,01/31/2026,21.61
+Diena Domm,ddommnq@arizona.edu,Laptops,PayPal,Calabarzon,Pending,Wholesale,12.99,6,10,5,2/7/2026,4,02/11/2026,70.15
+Milty St Louis,mstnr@fotki.com,Monitors,Bank Transfer,Central Luzon,Shipped,Returning,18.99,1,35,5,12/7/2025,1,12/08/2025,12.34
+Derwin Lecordier,dlecordierns@symantec.com,Monitors,Bank Transfer,Calabarzon,Pending,VIP,1.29,1,3,5,10/14/2025,4,10/18/2025,1.25
+Karleen Gillie,kgillient@techcrunch.com,Headphones,PayPal,Calabarzon,Pending,New,29.99,5,15,5,7/13/2026,5,07/18/2026,127.46
+Donnajean Pendrid,dpendridnu@businesswire.com,Monitors,PayPal,Visayas,Cancelled,VIP,39.99,8,16,1,2/6/2026,3,02/09/2026,268.73
+Juline Eadon,jeadonnv@mashable.com,Headphones,Credit Card,NCR,Pending,Returning,14.99,3,6,4,5/2/2026,3,05/05/2026,42.27
+Bronnie Maciejewski,bmaciejewskinw@pinterest.com,Smartphones,Cash on Delivery,Visayas,Shipped,Returning,4.99,2,33,3,11/28/2025,5,12/03/2025,6.69
+Chrissy Cobden,ccobdennx@hugedomains.com,Laptops,Bank Transfer,NCR,Returned,VIP,3.99,2,23,1,3/29/2026,6,04/04/2026,6.14
+Gavin MacGille,gmacgilleny@statcounter.com,Laptops,Bank Transfer,Calabarzon,Shipped,Wholesale,89.99,7,26,5,8/30/2026,7,09/06/2026,466.15
+Humphrey Paudin,hpaudinnz@house.gov,Accessories,PayPal,Visayas,Delivered,Wholesale,19.99,9,6,1,6/1/2026,2,06/03/2026,169.12
+Bev Gilliatt,bgilliatto0@usatoday.com,Monitors,PayPal,Central Luzon,Returned,New,19.99,3,33,5,9/4/2025,3,09/07/2025,40.18
+Codie Domm,cdommo1@ox.ac.uk,Laptops,PayPal,Mindanao,Returned,New,4.99,6,5,3,8/30/2026,4,09/03/2026,28.44
+Jay Hartburn,jhartburno2@nba.com,Smartphones,Bank Transfer,Central Luzon,Pending,Returning,1.99,10,23,3,10/15/2025,4,10/19/2025,15.32
+Carrie Brilon,cbrilono3@t-online.de,Smartphones,PayPal,Calabarzon,Delivered,New,6.49,1,6,2,9/21/2025,6,09/27/2025,6.1
+Sal Pead,speado4@spiegel.de,Smartphones,Cash on Delivery,NCR,Delivered,Wholesale,19.99,5,17,1,7/10/2026,7,07/17/2026,82.96
+Rustie Haswell,rhaswello5@cocolog-nifty.com,Headphones,GCash,Visayas,Delivered,New,49.99,8,33,1,3/24/2026,4,03/28/2026,267.95
+Roanne Tuppeny,rtuppenyo6@businesswire.com,Smartphones,Cash on Delivery,Calabarzon,Cancelled,Wholesale,3.19,1,25,2,5/3/2026,4,05/07/2026,2.39
+Byron Copley,bcopleyo7@flickr.com,Smartphones,Credit Card,Central Luzon,Shipped,New,2.99,7,21,3,3/9/2026,6,03/15/2026,16.53
+Park Avrahamof,pavrahamofo8@mit.edu,Monitors,GCash,Central Luzon,Returned,VIP,49.99,4,9,1,11/23/2025,7,11/30/2025,181.96
+Adara Ashbrook,aashbrooko9@tinyurl.com,Monitors,Cash on Delivery,Visayas,Pending,Wholesale,3.49,9,23,1,7/10/2026,1,07/11/2026,24.19
+Halie Sturley,hsturleyoa@state.gov,Smartphones,PayPal,NCR,Pending,New,7.99,9,38,5,6/2/2026,7,06/09/2026,44.58
+Edan De Few,edeob@histats.com,Headphones,Cash on Delivery,Mindanao,Cancelled,New,69.99,3,5,3,8/3/2026,4,08/07/2026,199.47
+Darrel Henstone,dhenstoneoc@aol.com,Headphones,Cash on Delivery,Mindanao,Pending,Wholesale,79.99,2,28,3,10/19/2025,4,10/23/2025,115.19
+Stewart Dablin,sdablinod@miibeian.gov.cn,Laptops,Bank Transfer,Calabarzon,Shipped,New,39.99,2,18,4,7/7/2026,4,07/11/2026,65.58
+Kenn Mascall,kmascalloe@google.com.br,Laptops,GCash,NCR,Cancelled,Wholesale,3.99,3,23,3,6/30/2026,4,07/04/2026,9.22
+Benjamin Barneveld,bbarneveldof@archive.org,Headphones,Bank Transfer,NCR,Cancelled,Returning,3.99,4,23,1,11/25/2025,3,11/28/2025,12.29
+Shannon Scapelhorn,sscapelhornog@simplemachines.org,Accessories,Credit Card,NCR,Pending,Wholesale,2.79,1,24,1,1/16/2026,7,01/23/2026,2.12
+Damita Jeffcock,djeffcockoh@bing.com,Headphones,Bank Transfer,Central Luzon,Returned,Returning,14.99,1,7,5,12/17/2025,1,12/18/2025,13.94
+Barbey Malamore,bmalamoreoi@nytimes.com,Smartphones,PayPal,Mindanao,Delivered,Wholesale,3.99,5,38,1,3/13/2026,2,03/15/2026,12.37
+Leroy Lomasny,llomasnyoj@elpais.com,Smartphones,PayPal,NCR,Pending,New,29.99,8,15,4,11/18/2025,5,11/23/2025,203.93
+Toinette Horsburgh,thorsburghok@artisteer.com,Laptops,PayPal,Mindanao,Pending,Wholesale,6.99,6,22,4,8/20/2026,1,08/21/2026,32.71
+Jewel Camber,jcamberol@360.cn,Laptops,Credit Card,Visayas,Pending,VIP,2.99,8,16,1,9/26/2025,5,10/01/2025,20.09
+Ivan Dewes,idewesom@wiley.com,Smartphones,Cash on Delivery,NCR,Pending,Wholesale,29.99,9,17,3,2/23/2026,5,02/28/2026,224.03
+Crichton Harner,charneron@ucoz.ru,Smartphones,GCash,Mindanao,Delivered,Wholesale,6.99,7,8,4,4/1/2026,6,04/07/2026,45.02
+Camey Lathom,clathomoo@blog.com,Smartphones,Bank Transfer,Central Luzon,Returned,Returning,8.99,2,1,1,12/9/2025,4,12/13/2025,17.8
+Otha Godly,ogodlyop@sourceforge.net,Accessories,PayPal,Calabarzon,Returned,Wholesale,59.99,8,37,1,11/6/2025,3,11/09/2025,302.35
+Viv Ryhorovich,vryhorovichoq@rakuten.co.jp,Laptops,GCash,Central Luzon,Pending,Returning,24.99,6,17,1,1/22/2026,7,01/29/2026,124.45
+Celinka Laurens,claurensor@ning.com,Headphones,GCash,Calabarzon,Returned,Returning,15.99,9,14,3,5/23/2026,1,05/24/2026,123.76
+Baily Heimes,bheimesos@eepurl.com,Laptops,GCash,Visayas,Cancelled,New,4.49,10,34,2,6/25/2026,2,06/27/2026,29.63
+Neala Hebblewhite,nhebblewhiteot@dell.com,Accessories,GCash,NCR,Returned,Wholesale,5.99,3,40,2,11/20/2025,2,11/22/2025,10.78
+Pincus Chasteney,pchasteneyou@discuz.net,Accessories,PayPal,NCR,Pending,New,5.99,9,16,1,11/20/2025,2,11/22/2025,45.28
+Wiatt Covely,wcovelyov@chronoengine.com,Smartphones,GCash,Mindanao,Shipped,Returning,24.99,9,27,4,5/4/2026,4,05/08/2026,164.18
+Celia Lovart,clovartow@toplist.cz,Headphones,PayPal,NCR,Pending,VIP,12.99,2,5,1,5/3/2026,3,05/06/2026,24.68
+Araldo Pollins,apollinsox@nps.gov,Smartphones,Cash on Delivery,Calabarzon,Returned,Returning,89.99,6,16,3,3/25/2026,1,03/26/2026,453.55
+Caty Hartop,chartopoy@japanpost.jp,Headphones,Cash on Delivery,Mindanao,Returned,VIP,3.99,4,17,5,9/18/2025,7,09/25/2025,13.25
+Clay Leadley,cleadleyoz@liveinternet.ru,Smartphones,Bank Transfer,Mindanao,Cancelled,VIP,1.49,1,9,5,11/11/2025,2,11/13/2025,1.36
+Leigha Bettington,lbettingtonp0@ehow.com,Smartphones,PayPal,Mindanao,Pending,VIP,34.99,2,12,3,7/30/2026,5,08/04/2026,61.58
+Fonz Turbayne,fturbaynep1@1und1.de,Smartphones,Bank Transfer,Visayas,Returned,Returning,39.99,10,22,5,1/16/2026,5,01/21/2026,311.92
+Muffin Yele,myelep2@java.com,Headphones,PayPal,Calabarzon,Pending,New,59.99,6,21,2,11/1/2025,4,11/05/2025,284.35
+Rosemaria Iacobucci,riacobuccip3@cyberchimps.com,Laptops,GCash,Central Luzon,Cancelled,Returning,2.99,7,38,1,10/13/2025,1,10/14/2025,12.98
+Jillene Leacock,jleacockp4@trellian.com,Headphones,Bank Transfer,Mindanao,Cancelled,VIP,29.99,3,2,3,8/29/2026,7,09/05/2026,88.17
+Darrelle Castro,dcastrop5@163.com,Headphones,Credit Card,Calabarzon,Delivered,Returning,149.99,4,7,1,11/29/2025,2,12/01/2025,557.96
+Collette Miebes,cmiebesp6@eventbrite.com,Headphones,Cash on Delivery,Visayas,Returned,VIP,29.99,1,34,4,1/8/2026,5,01/13/2026,19.79
+Joela Filde,jfildep7@barnesandnoble.com,Accessories,Cash on Delivery,NCR,Cancelled,New,35.99,1,26,2,10/9/2025,2,10/11/2025,26.63
+Muriel Gathwaite,mgathwaitep8@reuters.com,Laptops,Bank Transfer,Central Luzon,Returned,Wholesale,89.99,4,33,5,12/18/2025,4,12/22/2025,241.17
+Tiffani Melross,tmelrossp9@drupal.org,Smartphones,Bank Transfer,Central Luzon,Delivered,Returning,29.99,9,30,4,5/21/2026,3,05/24/2026,188.94
+Marquita Dulake,mdulakepa@blinklist.com,Accessories,GCash,Calabarzon,Shipped,Wholesale,39.99,4,8,4,6/6/2026,4,06/10/2026,147.16
+Corly Matyugin,cmatyuginpb@adobe.com,Smartphones,PayPal,Visayas,Pending,Wholesale,3.99,8,29,4,1/14/2026,7,01/21/2026,22.66
+Peta Saer,psaerpc@hp.com,Laptops,Bank Transfer,Central Luzon,Pending,VIP,7.99,4,34,3,12/28/2025,2,12/30/2025,21.09
+Grantham Ruddiforth,gruddiforthpd@netvibes.com,Smartphones,PayPal,Central Luzon,Cancelled,VIP,1.89,3,3,5,7/15/2026,6,07/21/2026,5.5
+Lydon Offin,loffinpe@cnet.com,Accessories,GCash,NCR,Delivered,VIP,2.99,2,40,2,3/10/2026,5,03/15/2026,3.59
+Ade Yeude,ayeudepf@skype.com,Headphones,Bank Transfer,NCR,Pending,Returning,19.99,2,15,4,1/6/2026,5,01/11/2026,33.98
+Kirstyn Dominelli,kdominellipg@weibo.com,Accessories,PayPal,Central Luzon,Pending,Returning,14.99,5,35,3,8/18/2026,7,08/25/2026,48.72
+Calv Greenside,cgreensideph@theatlantic.com,Laptops,Cash on Delivery,Central Luzon,Returned,Returning,3.49,10,33,2,1/23/2026,4,01/27/2026,23.38
+Lay Wetherburn,lwetherburnpi@ebay.co.uk,Smartphones,Credit Card,Visayas,Shipped,Wholesale,1.99,3,12,2,1/19/2026,5,01/24/2026,5.25
+Ernesto Vignal,evignalpj@google.co.uk,Laptops,PayPal,Central Luzon,Cancelled,Wholesale,24.99,8,9,1,4/24/2026,2,04/26/2026,181.93
+Jaimie Newbatt,jnewbattpk@zimbio.com,Laptops,PayPal,Central Luzon,Shipped,Wholesale,12.99,2,38,5,1/9/2026,3,01/12/2026,16.11
+Kevina Truelock,ktruelockpl@google.nl,Laptops,GCash,Calabarzon,Pending,New,79.99,6,13,3,5/2/2026,6,05/08/2026,417.55
+Frederich Gossling,fgosslingpm@instagram.com,Accessories,Cash on Delivery,NCR,Shipped,Returning,4.49,7,5,2,1/31/2026,6,02/06/2026,29.86
+Demetri Hamil,dhamilpn@unesco.org,Laptops,PayPal,Central Luzon,Delivered,Returning,39.99,9,15,4,5/4/2026,4,05/08/2026,305.92
+Gayler Ainsbury,gainsburypo@businesswire.com,Smartphones,Credit Card,Calabarzon,Returned,Returning,29.99,6,33,5,9/21/2025,6,09/27/2025,120.56
+Roarke Kenny,rkennypp@phpbb.com,Headphones,Bank Transfer,Central Luzon,Returned,Wholesale,39.99,3,1,5,10/12/2025,3,10/15/2025,118.77
+Reynolds Pirrey,rpirreypq@scientificamerican.com,Smartphones,GCash,Visayas,Pending,New,19.99,4,17,3,7/9/2026,5,07/14/2026,66.37
+Gare Naseby,gnasebypr@yale.edu,Monitors,Cash on Delivery,NCR,Returned,VIP,3.99,1,6,3,4/10/2026,1,04/11/2026,3.75
+Anabella Suthren,asuthrenps@nps.gov,Accessories,Credit Card,NCR,Pending,Wholesale,3.79,6,29,5,1/20/2026,1,01/21/2026,16.15
+Jens Mingay,jmingaypt@stumbleupon.com,Headphones,Bank Transfer,Central Luzon,Cancelled,Returning,2.49,8,16,3,2/2/2026,4,02/06/2026,16.73
+Catie Faraker,cfarakerpu@paginegialle.it,Monitors,GCash,NCR,Returned,Returning,5.99,1,8,5,4/15/2026,1,04/16/2026,5.51
+Junia Hillatt,jhillattpv@chronoengine.com,Smartphones,Cash on Delivery,Central Luzon,Returned,Returning,2.99,7,8,3,4/18/2026,7,04/25/2026,19.26
+Etta Stronack,estronackpw@virginia.edu,Smartphones,PayPal,Central Luzon,Pending,VIP,3.49,8,36,3,7/14/2026,2,07/16/2026,17.87
+Regan D'Enrico,rdenricopx@java.com,Headphones,Credit Card,Mindanao,Shipped,New,4.99,4,19,4,8/4/2026,6,08/10/2026,16.17
+Leif Ketts,lkettspy@arizona.edu,Monitors,Credit Card,Central Luzon,Returned,Returning,14.99,7,36,4,2/3/2026,1,02/04/2026,67.16
+Perri Mishaw,pmishawpz@dagondesign.com,Headphones,PayPal,Calabarzon,Cancelled,Returning,24.99,5,22,3,2/9/2026,6,02/15/2026,97.46
+Baillie Schurcke,bschurckeq0@parallels.com,Monitors,PayPal,Central Luzon,Returned,VIP,3.59,4,17,3,12/15/2025,2,12/17/2025,11.92
+Cathie Le Clercq,cleq1@wired.com,Laptops,GCash,NCR,Cancelled,VIP,3.49,4,18,1,2/26/2026,6,03/04/2026,11.45
+Sholom Dytham,sdythamq2@marriott.com,Accessories,PayPal,Calabarzon,Returned,Wholesale,17.99,1,31,2,5/9/2026,1,05/10/2026,12.41
+Adel McGraw,amcgrawq3@themeforest.net,Headphones,Credit Card,NCR,Delivered,New,6.49,6,32,4,7/5/2026,4,07/09/2026,26.48
+Sutton Bedingfield,sbedingfieldq4@ebay.com,Accessories,Bank Transfer,Mindanao,Shipped,New,22.99,10,27,4,8/13/2026,6,08/19/2026,167.83
+Venita Over,voverq5@rediff.com,Headphones,Cash on Delivery,Visayas,Pending,VIP,14.99,4,28,2,1/19/2026,5,01/24/2026,43.17
+Ramon Craythorne,rcraythorneq6@cargocollective.com,Monitors,Credit Card,Mindanao,Cancelled,Wholesale,5.49,8,6,1,8/3/2026,3,08/06/2026,41.28
+Rebecca Littleton,rlittletonq7@bravesites.com,Monitors,Cash on Delivery,Calabarzon,Delivered,New,22.99,4,35,3,5/23/2026,6,05/29/2026,59.77
+Eadmund Haensel,ehaenselq8@google.cn,Smartphones,Bank Transfer,Visayas,Delivered,Wholesale,5.99,9,23,5,1/20/2026,3,01/23/2026,41.51
+Clayborne Shearwood,cshearwoodq9@about.me,Laptops,Bank Transfer,Central Luzon,Returned,Returning,5.99,4,37,1,2/23/2026,6,03/01/2026,15.09
+Bertrand Trudgion,btrudgionqa@linkedin.com,Accessories,PayPal,NCR,Cancelled,Wholesale,79.99,4,6,3,2/17/2026,5,02/22/2026,300.76
+Berrie Augustus,baugustusqb@mapquest.com,Laptops,PayPal,Calabarzon,Cancelled,New,49.99,6,36,2,7/11/2026,2,07/13/2026,191.96
+Gennifer Crabbe,gcrabbeqc@indiegogo.com,Monitors,Credit Card,Calabarzon,Shipped,New,54.99,2,5,1,9/15/2025,2,09/17/2025,104.48
+Lorinda Robshaw,lrobshawqd@time.com,Monitors,GCash,Visayas,Shipped,Wholesale,35,6,13,4,4/4/2026,1,04/05/2026,182.7
+Val Jesty,vjestyqe@comsenz.com,Laptops,GCash,Visayas,Returned,Returning,29.99,9,17,3,10/28/2025,3,10/31/2025,224.03
+Shela Gatheridge,sgatheridgeqf@ucsd.edu,Smartphones,GCash,Mindanao,Returned,Wholesale,4.49,1,28,4,10/19/2025,2,10/21/2025,3.23
+Christalle Byron,cbyronqg@utexas.edu,Laptops,PayPal,Mindanao,Cancelled,VIP,4.99,5,35,5,12/24/2025,4,12/28/2025,16.22
+Lorene Elvin,lelvinqh@ebay.co.uk,Accessories,GCash,Calabarzon,Shipped,Wholesale,4.19,9,25,1,10/10/2025,7,10/17/2025,28.28
+Sherry Corkett,scorkettqi@rambler.ru,Headphones,Credit Card,Visayas,Returned,New,25,10,8,3,3/11/2026,2,03/13/2026,230
+Wenonah Saterthwait,wsaterthwaitqj@addtoany.com,Laptops,Credit Card,Central Luzon,Shipped,Returning,3.99,6,19,4,4/5/2026,3,04/08/2026,19.39
+Wilmar Wegenen,wwegenenqk@senate.gov,Monitors,PayPal,Calabarzon,Cancelled,VIP,3.29,10,23,2,8/15/2026,5,08/20/2026,25.33
+Yance Romke,yromkeql@umn.edu,Monitors,Bank Transfer,NCR,Delivered,Returning,3.49,4,38,4,8/21/2026,4,08/25/2026,8.66
+Corie Gumb,cgumbqm@opensource.org,Accessories,Credit Card,NCR,Shipped,Wholesale,3.99,3,6,3,7/11/2026,6,07/17/2026,11.25
+Rosetta Hugnin,rhugninqn@intel.com,Smartphones,PayPal,Central Luzon,Pending,Returning,15.99,10,28,1,7/10/2026,1,07/11/2026,115.13
+Dov Tabourier,dtabourierqo@booking.com,Accessories,GCash,Visayas,Shipped,VIP,14.99,8,10,1,4/25/2026,6,05/01/2026,107.93
+Ajay Quinane,aquinaneqp@nbcnews.com,Monitors,PayPal,Central Luzon,Delivered,New,2.99,4,11,2,12/25/2025,2,12/27/2025,10.64
+Marie Road,mroadqq@1und1.de,Accessories,Bank Transfer,Visayas,Returned,Wholesale,2.99,10,19,2,2/7/2026,3,02/10/2026,24.22
+Horace Impett,himpettqr@google.nl,Smartphones,PayPal,NCR,Cancelled,VIP,4.49,4,3,1,11/7/2025,1,11/08/2025,17.42
+Benjy Sibson,bsibsonqs@cmu.edu,Laptops,Bank Transfer,Mindanao,Pending,New,3.29,4,16,5,6/5/2026,3,06/08/2026,11.05
+Binny Millier,bmillierqt@mtv.com,Accessories,Cash on Delivery,NCR,Shipped,Returning,39.99,6,34,3,6/10/2026,4,06/14/2026,158.36
+Conni De Roberto,cdequ@google.es,Smartphones,GCash,Visayas,Cancelled,VIP,14.99,4,18,1,4/13/2026,2,04/15/2026,49.17
+Catherina Nolleau,cnolleauqv@smh.com.au,Smartphones,GCash,Mindanao,Returned,New,59.99,1,8,3,3/7/2026,1,03/08/2026,55.19
+Iver Dearnaley,idearnaleyqw@bbc.co.uk,Accessories,Bank Transfer,Central Luzon,Delivered,Returning,6.89,6,28,3,4/24/2026,7,05/01/2026,29.76
+Jacinthe Paniman,jpanimanqx@irs.gov,Monitors,PayPal,Mindanao,Shipped,VIP,79.99,9,30,5,4/15/2026,6,04/21/2026,503.94
+Millie Twidale,mtwidaleqy@photobucket.com,Smartphones,Bank Transfer,Central Luzon,Pending,New,19.99,1,39,2,2/9/2026,2,02/11/2026,12.19
+Preston Osanne,posanneqz@mail.ru,Monitors,PayPal,NCR,Pending,Returning,2.99,8,12,2,1/22/2026,1,01/23/2026,21.05
+Darryl Matijevic,dmatijevicr0@dedecms.com,Monitors,Bank Transfer,Mindanao,Shipped,Wholesale,59.99,1,7,2,10/27/2025,2,10/29/2025,55.79
+Barde Fairbanks,bfairbanksr1@tinypic.com,Laptops,PayPal,Visayas,Pending,Returning,19.99,2,29,1,7/29/2026,5,08/03/2026,28.39
+Jaimie Chsteney,jchsteneyr2@nhs.uk,Monitors,PayPal,Calabarzon,Returned,New,99.99,4,38,3,1/28/2026,2,01/30/2026,247.98
+Hilde Fossett,hfossettr3@ft.com,Headphones,PayPal,Calabarzon,Returned,Returning,5.99,2,29,4,6/27/2026,4,07/01/2026,8.51
+Loren Huscroft,lhuscroftr4@spotify.com,Accessories,PayPal,NCR,Delivered,VIP,299.99,9,7,3,3/17/2026,1,03/18/2026,2510.92
+Gavan Adamczyk,gadamczykr5@miibeian.gov.cn,Accessories,PayPal,Central Luzon,Shipped,VIP,39.99,5,9,1,9/28/2025,1,09/29/2025,181.95
+Virginia Raggett,vraggettr6@washington.edu,Headphones,Credit Card,Visayas,Pending,Returning,6.29,3,28,4,11/16/2025,2,11/18/2025,13.59
+Jorrie Wilman,jwilmanr7@4shared.com,Laptops,GCash,NCR,Delivered,VIP,24.99,5,15,1,12/21/2025,6,12/27/2025,106.21
+Dougy Wakeling,dwakelingr8@delicious.com,Accessories,PayPal,Calabarzon,Pending,VIP,34.99,7,30,3,8/30/2026,3,09/02/2026,171.45
+Britta Corradetti,bcorradettir9@illinois.edu,Headphones,Cash on Delivery,Mindanao,Delivered,VIP,39.99,4,5,1,7/10/2026,3,07/13/2026,151.96
+Kerwinn Kimmince,kkimmincera@wikia.com,Accessories,Cash on Delivery,Calabarzon,Pending,Returning,4.49,10,17,5,5/27/2026,7,06/03/2026,37.27
+Isacco Halmkin,ihalmkinrb@blogger.com,Headphones,GCash,Mindanao,Returned,New,3.99,5,17,5,5/22/2026,1,05/23/2026,16.56
+Seline Jellicorse,sjellicorserc@sciencedaily.com,Accessories,Cash on Delivery,NCR,Returned,VIP,49.99,4,11,3,12/2/2025,6,12/08/2025,177.96
+Melesa Skerm,mskermrd@merriam-webster.com,Laptops,Credit Card,Central Luzon,Shipped,New,3.49,4,3,3,3/8/2026,7,03/15/2026,13.54
+Kaja Conduit,kconduitre@kickstarter.com,Smartphones,GCash,Visayas,Shipped,Wholesale,29.99,3,13,2,11/17/2025,4,11/21/2025,78.27
+Dalenna Jonson,djonsonrf@shop-pro.jp,Laptops,Bank Transfer,Calabarzon,Delivered,Wholesale,4.49,4,7,5,2/19/2026,4,02/23/2026,16.7
+Ellwood Pender,ependerrg@mozilla.org,Smartphones,PayPal,Central Luzon,Cancelled,Returning,2.29,4,16,2,12/13/2025,7,12/20/2025,7.69
+Herminia Torry,htorryrh@sina.com.cn,Monitors,GCash,Mindanao,Returned,New,29.99,4,29,3,11/8/2025,4,11/12/2025,85.17
+Kristen Janney,kjanneyri@reverbnation.com,Laptops,GCash,Calabarzon,Pending,Returning,24.99,8,34,2,4/25/2026,6,05/01/2026,131.95
+Esther McIlwrick,emcilwrickrj@wikispaces.com,Monitors,GCash,Central Luzon,Delivered,Returning,29.99,2,9,5,1/24/2026,4,01/28/2026,54.58
+Jillayne Camin,jcaminrk@slideshare.net,Smartphones,GCash,Mindanao,Cancelled,New,1.99,2,15,5,9/10/2025,2,09/12/2025,3.38
+Helen Divis,hdivisrl@scribd.com,Accessories,Bank Transfer,Mindanao,Delivered,VIP,69.99,4,35,1,8/2/2026,3,08/05/2026,181.97
+Albie Duke,adukerm@theglobeandmail.com,Monitors,Credit Card,Visayas,Delivered,Wholesale,5.99,1,12,2,1/2/2026,2,01/04/2026,5.27
+James Buckham,jbuckhamrn@google.co.uk,Monitors,Cash on Delivery,Visayas,Pending,New,1.49,3,27,2,11/11/2025,3,11/14/2025,3.26
+Bartolemo Shackleford,bshacklefordro@pcworld.com,Laptops,Bank Transfer,NCR,Returned,Wholesale,3.19,1,16,1,9/14/2025,5,09/19/2025,2.68
+Bertie Blonfield,bblonfieldrp@digg.com,Accessories,Cash on Delivery,NCR,Cancelled,Returning,3.69,2,4,4,12/19/2025,4,12/23/2025,7.08
+Kori Riccione,kriccionerq@sitemeter.com,Laptops,GCash,NCR,Delivered,Returning,69.99,4,37,2,8/12/2026,1,08/13/2026,176.37
+Marv Sugg,msuggrr@opensource.org,Laptops,PayPal,Calabarzon,Returned,VIP,29.99,5,13,4,3/4/2026,3,03/07/2026,130.46
