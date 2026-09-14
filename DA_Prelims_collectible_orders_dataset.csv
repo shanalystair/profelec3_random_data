@@ -1,0 +1,1301 @@
+order_id,item_category,franchise,item_condition,payment_method,order_status,customer_name,item_price,quantity,discount_percent,customer_rating,shipping_fee,order_date,ship_date
+ORD2000,Model Kits,Anime,Mint,Credit Card,Cancelled,Maria Bautista,128.72,8,32.8,4.2,233.97,2026-04-26 00:00,2026-05-02 00:00
+ORD2001,Vinyl Records,Star Wars,Near Mint,PayPal,Delivered,Ella Flores,14932.73,5,31.7,3.5,494.48,2026-04-18 00:00,2026-04-21 00:00
+ORD2002,Board Games,Gundam,Mint,PayPal,Shipped,Miguel Reyes,7019.78,5,36.7,3.5,257.06,2026-03-28 00:00,2026-03-30 00:00
+ORD2003,Board Games,Marvel,Mint,Bank Transfer,Shipped,Diego Mendoza,5574.57,2,0.1,4.3,77.23,2026-03-16 00:00,2026-03-21 00:00
+ORD2004,Trading Cards,Gundam,Used,Cash on Delivery,Cancelled,Nina Santos,1417.86,7,21.6,3.0,435.67,2026-04-02 00:00,2026-04-05 00:00
+ORD2005,Trading Cards,Marvel,Near Mint,PayPal,Delivered,Maria Cruz,12254.25,2,15.2,4.9,295.0,2026-04-11 00:00,2026-04-15 00:00
+ORD2006,Model Kits,Anime,Damaged,PayPal,Returned,Grace Garcia,6067.35,3,3.9,4.9,107.5,2026-03-27 00:00,2026-04-02 00:00
+ORD2007,Model Kits,Vintage Toys,Good,PayPal,Delivered,Jose Mendoza,14176.98,8,36.2,3.3,72.73,2026-03-01 00:00,2026-03-08 00:00
+ORD2008,Action Figures,Gundam,Mint,GCash,Returned,Bea Aquino,8566.93,6,15.1,2.6,119.74,2026-04-03 00:00,2026-04-05 00:00
+ORD2009,Model Kits,Pokemon,Near Mint,PayPal,Cancelled,Maria Torres,426.69,7,14.9,1.1,61.45,2026-04-12 00:00,2026-04-13 00:00
+ORD2010,Vinyl Records,Pokemon,Near Mint,PayPal,Delivered,Bea Diaz,8874.85,4,27.3,2.4,259.55,2026-03-25 00:00,2026-04-03 00:00
+ORD2011,Board Games,Marvel,Damaged,GCash,Returned,Miguel Flores,12167.38,7,5.5,2.7,407.63,2026-04-01 00:00,2026-04-08 00:00
+ORD2012,Model Kits,Anime,Near Mint,Credit Card,Delivered,Faith Cruz,3017.89,3,14.5,1.7,173.03,2026-04-28 00:00,2026-04-29 00:00
+ORD2013,Board Games,Pokemon,Mint,Credit Card,Delivered,Hazel Cruz,14706.9,5,20.6,3.1,448.27,2026-03-19 00:00,2026-03-28 00:00
+ORD2014,Board Games,Pokemon,Used,GCash,Delivered,Grace Diaz,1077.29,9,17.2,3.1,475.47,2026-04-16 00:00,2026-04-23 00:00
+ORD2015,Vinyl Records,Anime,Good,Credit Card,Cancelled,Nina Aquino,5023.59,9,15.9,1.8,25.35,2026-04-14 00:00,2026-04-17 00:00
+ORD2016,Board Games,Vintage Toys,Mint,Cash on Delivery,Returned,Victor Mendoza,8940.54,5,26.4,2.2,480.68,2026-03-29 00:00,2026-03-31 00:00
+ORD2017,Model Kits,Gundam,Mint,Cash on Delivery,Delivered,Anna Diaz,11472.25,4,32.6,3.9,56.6,2026-04-15 00:00,2026-04-20 00:00
+ORD2018,Vinyl Records,Vintage Toys,Near Mint,Bank Transfer,Cancelled,Marco Bautista,502.82,1,0.8,2.0,124.28,2026-04-25 00:00,2026-05-04 00:00
+ORD2019,Action Figures,Marvel,Good,Credit Card,Delivered,Jose Reyes,365.08,7,12.4,4.8,269.2,2026-04-26 00:00,2026-04-28 00:00
+ORD2020,Action Figures,Gundam,Mint,Cash on Delivery,Delivered,Victor Garcia,12034.88,1,38.4,4.4,25.35,2026-04-08 00:00,2026-04-16 00:00
+ORD2021,Trading Cards,Marvel,Good,Credit Card,Delivered,Julius Bautista,12949.0,3,31.9,1.5,383.43,2026-04-04 00:00,2026-04-08 00:00
+ORD2022,Model Kits,Gundam,Good,GCash,Shipped,Victor Castillo,9934.81,1,25.3,4.3,401.76,2026-04-15 00:00,2026-04-23 00:00
+ORD2023,Action Figures,Vintage Toys,Used,Credit Card,Delivered,Jose Garcia,9779.57,1,8.6,3.3,472.4,2026-03-22 00:00,2026-03-25 00:00
+ORD2024,Board Games,Pokemon,Good,PayPal,Delivered,Anna Ramos,2049.13,4,26.5,4.3,188.43,2026-04-23 00:00,2026-04-27 00:00
+ORD2025,Action Figures,Star Wars,Mint,GCash,Delivered,Maria Mendoza,1268.9,5,30.1,3.3,149.85,2026-03-19 00:00,2026-03-23 00:00
+ORD2026,Board Games,Marvel,Mint,Bank Transfer,Delivered,Jose Ramos,13600.57,1,10.8,2.2,416.4,2026-03-10 00:00,2026-03-11 00:00
+ORD2027,Trading Cards,Pokemon,Used,Bank Transfer,Shipped,Paolo Bautista,1497.28,7,29.1,4.1,412.88,2026-03-30 00:00,2026-04-05 00:00
+ORD2028,Vinyl Records,Marvel,Near Mint,Bank Transfer,Delivered,Faith Castillo,4030.25,2,21.4,4.0,448.29,2026-04-21 00:00,2026-04-28 00:00
+ORD2029,Trading Cards,Anime,Good,Credit Card,Shipped,Diego Garcia,14090.74,9,33.7,4.1,197.51,2026-04-03 00:00,2026-04-05 00:00
+ORD2030,Board Games,Anime,Used,GCash,Shipped,Diego Cruz,5703.8,5,16.8,1.1,422.16,2026-03-19 00:00,2026-03-25 00:00
+ORD2031,Board Games,Gundam,Good,Cash on Delivery,Delivered,Paolo Santos,13795.98,8,15.5,1.6,380.19,2026-03-26 00:00,2026-03-31 00:00
+ORD2032,Action Figures,Anime,Used,GCash,Shipped,Marco Bautista,1422.56,2,39.5,1.5,88.4,2026-04-25 00:00,2026-05-04 00:00
+ORD2033,Board Games,Anime,Mint,PayPal,Delivered,Marco Castillo,11548.21,2,2.7,2.9,16.28,2026-04-02 00:00,2026-04-08 00:00
+ORD2034,Model Kits,Anime,Near Mint,Cash on Delivery,Delivered,Anna Aquino,13336.05,9,36.7,2.0,197.06,2026-04-04 00:00,2026-03-10 00:00
+ORD2035,Model Kits,Marvel,Near Mint,Bank Transfer,Shipped,Jose Cruz,12914.11,2,19.4,1.7,334.93,2026-04-14 00:00,2026-04-17 00:00
+ORD2036,Vinyl Records,Star Wars,Near Mint,Cash on Delivery,Delivered,Nina Torres,5964.28,5,31.6,4.5,89.69,2026-04-21 00:00,2026-04-24 00:00
+ORD2037,Model Kits,Vintage Toys,Damaged,GCash,Shipped,Carlos Diaz,3156.87,9,20.3,3.0,457.48,2026-03-16 00:00,2026-03-18 00:00
+ORD2038,Action Figures,Gundam,Mint,PayPal,Delivered,Carlos Mendoza,13218.81,5,30.4,4.3,380.53,2026-04-17 00:00,2026-04-18 00:00
+ORD2039,Vinyl Records,Anime,Good,GCash,Cancelled,Maria Bautista,11360.05,2,6.6,4.7,298.32,2026-04-20 00:00,2026-04-27 00:00
+ORD2040,Model Kits,Marvel,Near Mint,GCash,Returned,Anna Cruz,8651.87,9,32.1,2.1,400.9,2026-04-28 00:00,2026-05-01 00:00
+ORD2041,Board Games,Vintage Toys,Near Mint,GCash,Delivered,Grace Santos,12534.08,7,13.4,3.7,104.52,2026-03-28 00:00,2026-04-04 00:00
+ORD2042,Trading Cards,Marvel,Good,Cash on Delivery,Delivered,Miguel Ramos,7056.61,9,16.4,3.9,261.65,2026-03-03 00:00,2026-03-08 00:00
+ORD2043,Board Games,Gundam,Good,Credit Card,Pending,Marco Ramos,6819.65,1,25.2,3.2,37.08,2026-04-25 00:00,2026-05-02 00:00
+ORD2044,Trading Cards,Star Wars,Used,PayPal,Shipped,Liza Diaz,11266.79,5,28.3,3.2,403.52,2026-04-17 00:00,2026-04-23 00:00
+ORD2045,Trading Cards,Anime,Good,Cash on Delivery,Delivered,Nina Torres,8396.94,4,15.8,4.0,190.22,2026-04-04 00:00,2026-03-15 00:00
+ORD2046,Board Games,Gundam,Near Mint,Credit Card,Delivered,Julius Castillo,12678.7,4,31.4,2.8,356.45,2026-03-26 00:00,2026-03-31 00:00
+ORD2047,Board Games,Vintage Toys,Good,PayPal,Delivered,Victor Castillo,10181.19,6,23.3,2.7,91.74,2026-04-23 00:00,2026-04-24 00:00
+ORD2048,Action Figures,Pokemon,Damaged,PayPal,Delivered,Paolo Bautista,5605.83,5,23.3,4.8,444.54,2026-03-21 00:00,2026-03-24 00:00
+ORD2049,Action Figures,Vintage Toys,Near Mint,Bank Transfer,Delivered,Diego Reyes,13005.04,1,12.5,3.0,99.01,2026-04-21 00:00,2026-04-25 00:00
+ORD2050,Model Kits,Anime,Near Mint,Bank Transfer,Cancelled,Faith Diaz,5631.68,5,21.8,1.8,158.28,2026-04-29 00:00,2026-05-03 00:00
+ORD2051,Model Kits,Marvel,Good,PayPal,Delivered,Julius Torres,983.69,5,27.3,2.0,321.68,2026-04-01 00:00,2026-04-08 00:00
+ORD2052,Board Games,Star Wars,Near Mint,Credit Card,Delivered,Ella Mendoza,3087.36,6,38.5,2.2,153.01,2026-03-23 00:00,2026-03-27 00:00
+ORD2053,Vinyl Records,Pokemon,Used,GCash,Pending,Diego Castillo,2097.13,2,12.9,4.1,244.04,2026-03-14 00:00,2026-03-17 00:00
+ORD2054,Model Kits,Gundam,Damaged,GCash,Returned,Faith Santos,3892.28,4,17.5,3.0,70.86,2026-04-16 00:00,2026-04-25 00:00
+ORD2055,Model Kits,Marvel,Mint,GCash,Delivered,Liza Aquino,14427.55,3,1.0,1.7,82.52,2026-03-24 00:00,2026-03-28 00:00
+ORD2056,Trading Cards,Pokemon,Mint,Credit Card,Pending,Carlos Castillo,2801.8,8,24.7,2.6,208.8,2026-04-27 00:00,2026-05-02 00:00
+ORD2057,Vinyl Records,Vintage Toys,Used,PayPal,Shipped,Diego Bautista,9966.46,1,24.0,4.1,106.92,2026-03-29 00:00,2026-04-06 00:00
+ORD2058,Trading Cards,Marvel,Near Mint,GCash,Cancelled,Miguel Mendoza,13730.67,8,39.6,3.4,332.99,2026-03-07 00:00,2026-03-16 00:00
+ORD2059,Trading Cards,Vintage Toys,Damaged,Cash on Delivery,Returned,Paolo Garcia,329.01,5,29.0,3.8,210.53,2026-04-17 00:00,2026-04-24 00:00
+ORD2060,Trading Cards,Pokemon,Mint,PayPal,Delivered,Jose Flores,4593.57,2,17.9,4.7,139.21,2026-04-13 00:00,2026-04-21 00:00
+ORD2061,Action Figures,Vintage Toys,Near Mint,GCash,Delivered,Miguel Reyes,3719.86,8,5.7,4.2,343.16,2026-04-03 00:00,2026-04-04 00:00
+ORD2062,Vinyl Records,Vintage Toys,Mint,Cash on Delivery,Delivered,Diego Torres,12234.79,2,4.7,3.1,17.61,2026-04-17 00:00,2026-04-19 00:00
+ORD2063,Model Kits,Marvel,Mint,Cash on Delivery,Cancelled,Faith Castillo,4726.31,6,25.2,2.8,431.18,2026-04-04 00:00,2026-04-09 00:00
+ORD2064,Board Games,Gundam,Good,Credit Card,Delivered,Paolo Torres,10491.47,7,15.5,1.1,481.46,2026-04-25 00:00,2026-04-28 00:00
+ORD2065,Board Games,Anime,Mint,Bank Transfer,Shipped,Ramon Santos,6748.68,8,11.5,2.2,38.51,2026-04-03 00:00,2026-04-10 00:00
+ORD2066,Trading Cards,Star Wars,Mint,Cash on Delivery,Delivered,Ramon Torres,11094.62,2,36.9,2.1,286.12,2026-04-20 00:00,2026-04-22 00:00
+ORD2067,Action Figures,Marvel,Used,Bank Transfer,Pending,Ramon Castillo,1045.38,8,23.8,4.5,433.53,2026-04-03 00:00,2026-04-08 00:00
+ORD2068,Action Figures,Pokemon,Used,Cash on Delivery,Delivered,Anna Garcia,12199.01,3,18.8,2.8,484.28,2026-03-01 00:00,2026-03-02 00:00
+ORD2069,Vinyl Records,Pokemon,Mint,Credit Card,Pending,Anna Santos,14305.96,6,23.2,3.6,161.81,2026-04-28 00:00,2026-05-01 00:00
+ORD2070,Vinyl Records,Gundam,Used,Bank Transfer,Delivered,Ella Torres,8761.76,2,19.6,1.7,309.58,2026-04-06 00:00,2026-04-12 00:00
+ORD2071,Board Games,Gundam,Good,GCash,Shipped,Grace Garcia,5615.59,3,21.7,3.7,279.59,2026-04-22 00:00,2026-04-30 00:00
+ORD2072,Vinyl Records,Vintage Toys,Mint,GCash,Cancelled,Carlos Diaz,12744.87,2,36.4,1.2,166.21,2026-03-09 00:00,2026-03-10 00:00
+ORD2073,Model Kits,Vintage Toys,Damaged,Cash on Delivery,Returned,Liza Reyes,7884.32,5,29.8,2.8,70.57,2026-04-11 00:00,2026-04-13 00:00
+ORD2074,Vinyl Records,Anime,Mint,PayPal,Returned,Julius Bautista,11731.88,3,0.5,4.5,81.16,2026-04-22 00:00,2026-04-26 00:00
+ORD2075,Action Figures,Gundam,Mint,PayPal,Delivered,Jose Cruz,833.26,3,8.7,1.5,232.4,2026-03-29 00:00,2026-04-03 00:00
+ORD2076,Vinyl Records,Star Wars,Mint,GCash,Delivered,Maria Castillo,3874.78,7,16.2,4.0,203.34,2026-03-14 00:00,2026-03-18 00:00
+ORD2077,Action Figures,Star Wars,Good,PayPal,Returned,Carlos Torres,6596.32,2,24.1,4.7,72.95,2026-03-13 00:00,2026-03-21 00:00
+ORD2078,Board Games,Marvel,Damaged,Credit Card,Delivered,Diego Cruz,13591.04,2,4.1,1.4,165.78,2026-03-26 00:00,2026-04-02 00:00
+ORD2079,Action Figures,Vintage Toys,Good,Bank Transfer,Pending,Anna Torres,6908.92,6,22.6,3.9,339.31,2026-03-03 00:00,2026-03-12 00:00
+ORD2080,Board Games,Anime,Near Mint,Cash on Delivery,Shipped,Julius Diaz,14880.37,9,10.6,2.8,471.39,2026-04-07 00:00,2026-04-16 00:00
+ORD2081,Model Kits,Vintage Toys,Near Mint,Cash on Delivery,Delivered,Paolo Cruz,7094.62,7,17.9,2.5,216.4,2026-03-30 00:00,2026-04-08 00:00
+ORD2082,Board Games,Anime,Good,PayPal,Pending,Diego Garcia,3490.09,8,9.4,2.1,151.96,2026-04-14 00:00,2026-04-16 00:00
+ORD2083,Model Kits,Star Wars,Good,Cash on Delivery,Delivered,Liza Bautista,10472.14,1,30.3,2.2,318.02,2026-04-01 00:00,2026-04-08 00:00
+ORD2084,Board Games,Gundam,Mint,Cash on Delivery,Delivered,Paolo Mendoza,8868.97,6,6.2,3.8,40.01,2026-04-09 00:00,2026-04-10 00:00
+ORD2085,Vinyl Records,Star Wars,Mint,Credit Card,Shipped,Hazel Ramos,9099.12,3,39.6,4.8,21.17,2026-04-03 00:00,2026-04-12 00:00
+ORD2086,Action Figures,Anime,Near Mint,PayPal,Delivered,Maria Aquino,576.79,1,22.0,1.3,101.24,2026-04-18 00:00,2026-04-23 00:00
+ORD2087,Model Kits,Marvel,Damaged,Bank Transfer,Pending,Grace Mendoza,10641.35,2,0.4,2.0,480.37,2026-04-20 00:00,2026-04-23 00:00
+ORD2088,Board Games,Marvel,Near Mint,PayPal,Delivered,Miguel Mendoza,430.24,2,5.0,3.5,50.22,2026-04-09 00:00,2026-04-18 00:00
+ORD2089,Model Kits,Pokemon,Near Mint,Credit Card,Returned,Anna Ramos,10161.84,8,21.9,3.5,50.19,2026-03-16 00:00,2026-03-18 00:00
+ORD2090,Vinyl Records,Vintage Toys,Damaged,Bank Transfer,Returned,Nina Ramos,276.23,5,35.6,1.3,64.54,2026-04-29 00:00,2026-05-02 00:00
+ORD2091,Board Games,Anime,Near Mint,Cash on Delivery,Cancelled,Liza Diaz,12778.13,1,39.1,2.0,433.04,2026-03-23 00:00,2026-03-30 00:00
+ORD2092,Action Figures,Gundam,Mint,Cash on Delivery,Delivered,Grace Castillo,10701.24,2,20.1,4.5,448.32,2026-04-28 00:00,2026-05-02 00:00
+ORD2093,Board Games,Vintage Toys,Near Mint,Credit Card,Delivered,Anna Cruz,14856.86,1,23.2,1.2,255.63,2026-04-29 00:00,2026-05-02 00:00
+ORD2094,Board Games,Vintage Toys,Damaged,GCash,Delivered,Jose Ramos,6141.95,2,33.4,3.5,364.92,2026-03-07 00:00,2026-03-12 00:00
+ORD2095,Model Kits,Anime,Mint,PayPal,Shipped,Diego Aquino,7092.82,2,39.0,3.2,28.47,2026-04-22 00:00,2026-04-28 00:00
+ORD2096,Action Figures,Marvel,Mint,Cash on Delivery,Delivered,Miguel Castillo,5753.09,5,20.1,2.2,328.4,2026-03-24 00:00,2026-03-28 00:00
+ORD2097,Action Figures,Vintage Toys,Near Mint,Cash on Delivery,Returned,Ramon Ramos,4383.08,8,32.1,2.1,359.98,2026-04-25 00:00,2026-04-27 00:00
+ORD2098,Action Figures,Vintage Toys,Mint,GCash,Delivered,Julius Diaz,5717.06,5,14.0,1.3,129.19,2026-04-08 00:00,2026-04-12 00:00
+ORD2099,Model Kits,Anime,Damaged,PayPal,Pending,Hazel Reyes,12108.83,9,7.1,4.9,101.36,2026-03-26 00:00,2026-04-01 00:00
+ORD2100,Trading Cards,Gundam,Near Mint,Cash on Delivery,Cancelled,Liza Santos,4394.77,5,5.0,1.5,400.59,2026-04-07 00:00,2026-04-15 00:00
+ORD2101,Board Games,Marvel,Mint,Cash on Delivery,Shipped,Jose Aquino,8770.74,2,16.9,2.7,102.81,2026-04-24 00:00,2026-05-03 00:00
+ORD2102,Vinyl Records,Pokemon,Near Mint,Cash on Delivery,Delivered,Marco Aquino,10794.06,3,12.4,4.6,197.04,2026-04-27 00:00,2026-05-03 00:00
+ORD2103,Vinyl Records,Anime,Mint,Bank Transfer,Cancelled,Jose Santos,485.12,9,12.0,4.8,7.55,2026-04-15 00:00,2026-04-20 00:00
+ORD2104,Board Games,Marvel,Near Mint,PayPal,Shipped,Victor Reyes,1674.31,3,32.4,4.2,281.05,2026-04-10 00:00,2026-04-12 00:00
+ORD2105,Trading Cards,Gundam,Near Mint,Bank Transfer,Delivered,Bea Torres,7687.76,4,4.6,3.3,383.22,2026-03-28 00:00,2026-03-30 00:00
+ORD2106,Board Games,Vintage Toys,Good,Cash on Delivery,Delivered,Grace Castillo,11700.91,4,7.0,3.6,359.42,2026-04-02 00:00,2026-04-09 00:00
+ORD2107,Vinyl Records,Pokemon,Near Mint,Bank Transfer,Cancelled,Maria Aquino,4778.23,9,27.8,2.6,467.71,2026-04-29 00:00,2026-05-04 00:00
+ORD2108,Trading Cards,Vintage Toys,Good,PayPal,Pending,Anna Mendoza,789.61,5,22.0,1.7,183.97,2026-04-24 00:00,2026-05-03 00:00
+ORD2109,Trading Cards,Anime,Damaged,Bank Transfer,Delivered,Maria Diaz,138.19,6,14.9,4.8,59.42,2026-04-09 00:00,2026-04-12 00:00
+ORD2110,Action Figures,Star Wars,Used,Bank Transfer,Delivered,Maria Bautista,1287.25,9,4.8,4.0,224.59,2026-03-27 00:00,2026-04-04 00:00
+ORD2111,Trading Cards,Star Wars,Near Mint,Cash on Delivery,Delivered,Faith Reyes,932.05,8,23.7,4.9,229.9,2026-03-13 00:00,2026-03-15 00:00
+ORD2112,Action Figures,Vintage Toys,Good,PayPal,Pending,Bea Diaz,13045.13,8,2.3,3.9,98.49,2026-03-03 00:00,2026-03-10 00:00
+ORD2113,Vinyl Records,Gundam,Good,GCash,Delivered,Marco Mendoza,2941.91,1,14.5,4.3,274.95,2026-03-18 00:00,2026-03-21 00:00
+ORD2114,Trading Cards,Gundam,Mint,Cash on Delivery,Delivered,Anna Reyes,13208.49,5,23.9,1.2,220.04,2026-03-24 00:00,2026-03-29 00:00
+ORD2115,Action Figures,Gundam,Damaged,PayPal,Delivered,Paolo Torres,9222.03,4,35.5,3.8,235.44,2026-03-26 00:00,2026-03-30 00:00
+ORD2116,Trading Cards,Vintage Toys,Mint,Credit Card,Delivered,Jose Bautista,4494.62,8,33.9,3.4,254.48,2026-04-11 00:00,2026-04-19 00:00
+ORD2117,Action Figures,Marvel,Damaged,Cash on Delivery,Delivered,Bea Bautista,1961.6,3,35.4,2.9,62.44,2026-04-20 00:00,2026-04-21 00:00
+ORD2118,Board Games,Pokemon,Good,Cash on Delivery,Shipped,Marco Flores,2457.08,8,19.1,3.0,494.74,2026-03-30 00:00,2026-04-04 00:00
+ORD2119,Action Figures,Vintage Toys,Near Mint,Bank Transfer,Delivered,Carlos Aquino,4835.32,6,37.1,1.3,103.35,2026-04-28 00:00,2026-04-29 00:00
+ORD2120,Trading Cards,Star Wars,Damaged,PayPal,Delivered,Marco Mendoza,3879.12,9,0.0,2.6,481.28,2026-04-14 00:00,2026-04-15 00:00
+ORD2121,Action Figures,Anime,Damaged,Cash on Delivery,Pending,Hazel Torres,12951.78,7,33.7,2.4,49.52,2026-03-21 00:00,2026-03-28 00:00
+ORD2122,Vinyl Records,Pokemon,Damaged,GCash,Returned,Victor Santos,14220.81,5,11.4,5.0,455.99,2026-03-23 00:00,2026-03-30 00:00
+ORD2123,Vinyl Records,Marvel,Damaged,GCash,Delivered,Liza Bautista,13356.64,1,23.9,3.7,366.57,2026-03-15 00:00,2026-03-19 00:00
+ORD2124,Model Kits,Pokemon,Mint,Credit Card,Pending,Ella Reyes,9878.27,7,24.7,1.2,118.33,2026-03-03 00:00,2026-03-04 00:00
+ORD2125,Board Games,Gundam,Mint,Bank Transfer,Shipped,Marco Castillo,6179.83,2,21.9,3.9,468.73,2026-03-12 00:00,2026-03-21 00:00
+ORD2126,Board Games,Marvel,Good,Cash on Delivery,Delivered,Hazel Torres,11631.46,1,7.0,2.8,261.32,2026-03-27 00:00,2026-04-03 00:00
+ORD2127,Model Kits,Anime,Near Mint,Cash on Delivery,Returned,Diego Torres,6226.14,5,14.6,3.0,140.59,2026-04-02 00:00,2026-04-12 00:00
+ORD2128,Model Kits,Pokemon,Mint,Cash on Delivery,Shipped,Bea Torres,5190.96,8,24.8,4.6,179.58,2026-03-19 00:00,2026-03-22 00:00
+ORD2129,Vinyl Records,Gundam,Damaged,Cash on Delivery,Delivered,Jose Santos,10002.72,9,31.8,3.5,435.16,2026-03-12 00:00,2026-03-17 00:00
+ORD2130,Action Figures,Star Wars,Near Mint,GCash,Delivered,Diego Flores,964.33,2,31.6,4.2,332.83,2026-04-10 00:00,2026-04-13 00:00
+ORD2131,Model Kits,Marvel,Good,Cash on Delivery,Delivered,Victor Reyes,6732.41,6,9.0,3.9,232.07,2026-03-15 00:00,2026-03-18 00:00
+ORD2132,Action Figures,Marvel,Near Mint,Cash on Delivery,Delivered,Nina Cruz,13321.93,9,2.3,4.1,130.68,2026-03-07 00:00,2026-03-14 00:00
+ORD2133,Action Figures,Star Wars,Near Mint,GCash,Delivered,Ella Ramos,9586.36,7,27.1,2.5,338.67,2026-04-05 00:00,2026-04-12 00:00
+ORD2134,Trading Cards,Pokemon,Good,Cash on Delivery,Delivered,Miguel Santos,3338.52,5,15.4,1.3,328.45,2026-03-20 00:00,2026-03-24 00:00
+ORD2135,Trading Cards,Marvel,Good,Cash on Delivery,Delivered,Jose Bautista,1880.73,9,14.5,3.0,58.94,2026-04-17 00:00,2026-04-26 00:00
+ORD2136,Action Figures,Anime,Damaged,PayPal,Delivered,Paolo Castillo,2148.1,8,23.2,2.7,144.09,2026-03-13 00:00,2026-03-16 00:00
+ORD2137,Board Games,Marvel,Mint,Credit Card,Delivered,Julius Santos,9192.9,9,34.9,4.9,370.27,2026-03-29 00:00,2026-04-06 00:00
+ORD2138,Vinyl Records,Pokemon,Good,Credit Card,Shipped,Marco Aquino,5958.38,3,0.9,3.8,221.79,2026-04-26 00:00,2026-05-02 00:00
+ORD2139,Action Figures,Gundam,Good,GCash,Shipped,Ramon Garcia,6073.34,2,29.8,1.8,45.02,2026-04-26 00:00,2026-05-04 00:00
+ORD2140,Trading Cards,Anime,Used,Credit Card,Shipped,Hazel Castillo,9729.29,8,7.5,4.3,364.05,2026-03-08 00:00,2026-03-13 00:00
+ORD2141,Model Kits,Anime,Mint,Cash on Delivery,Delivered,Diego Bautista,5100.77,5,13.1,1.6,245.77,2026-03-11 00:00,2026-03-18 00:00
+ORD2142,Model Kits,Vintage Toys,Good,GCash,Delivered,Diego Ramos,3306.49,9,20.3,1.4,196.4,2026-04-17 00:00,2026-04-21 00:00
+ORD2143,Vinyl Records,Anime,Used,Cash on Delivery,Pending,Ella Diaz,6643.63,8,14.1,3.0,97.37,2026-03-03 00:00,2026-03-12 00:00
+ORD2144,Action Figures,Vintage Toys,Near Mint,GCash,Delivered,Carlos Mendoza,2121.81,9,38.6,4.4,323.53,2026-03-26 00:00,2026-03-29 00:00
+ORD2145,Model Kits,Marvel,Mint,PayPal,Shipped,Paolo Aquino,13859.47,4,21.4,5.0,360.44,2026-04-16 00:00,2026-04-20 00:00
+ORD2146,Board Games,Marvel,Mint,Bank Transfer,Delivered,Marco Mendoza,2884.31,4,4.1,3.6,230.57,2026-03-28 00:00,2026-03-30 00:00
+ORD2147,Vinyl Records,Star Wars,Used,Cash on Delivery,Delivered,Ramon Mendoza,6885.11,5,27.0,5.0,398.94,2026-03-29 00:00,2026-03-30 00:00
+ORD2148,Model Kits,Star Wars,Mint,PayPal,Delivered,Liza Ramos,14397.93,3,29.8,4.4,349.41,2026-03-28 00:00,2026-03-29 00:00
+ORD2149,Model Kits,Pokemon,Mint,Credit Card,Delivered,Grace Santos,1181.77,7,11.1,2.9,338.11,2026-03-15 00:00,2026-03-18 00:00
+ORD2150,Board Games,Marvel,Mint,GCash,Delivered,Maria Castillo,11346.09,3,39.7,3.7,16.52,2026-04-01 00:00,2026-04-07 00:00
+ORD2151,Trading Cards,Vintage Toys,Good,PayPal,Cancelled,Paolo Mendoza,9519.92,4,34.6,2.4,95.35,2026-03-10 00:00,2026-03-13 00:00
+ORD2152,Vinyl Records,Vintage Toys,Good,Cash on Delivery,Shipped,Hazel Aquino,5521.94,1,31.8,3.6,33.34,2026-04-23 00:00,2026-04-24 00:00
+ORD2153,Action Figures,Anime,Near Mint,Credit Card,Delivered,Liza Mendoza,7024.19,9,28.7,3.1,40.35,2026-04-22 00:00,2026-04-26 00:00
+ORD2154,Vinyl Records,Star Wars,Mint,PayPal,Pending,Grace Flores,5470.17,3,32.7,1.1,51.7,2026-04-28 00:00,2026-05-01 00:00
+ORD2155,Model Kits,Pokemon,Mint,Cash on Delivery,Delivered,Ella Mendoza,12882.49,2,33.0,2.3,12.25,2026-04-07 00:00,2026-04-15 00:00
+ORD2156,Board Games,Gundam,Used,Bank Transfer,Delivered,Julius Ramos,7362.56,8,33.7,2.8,131.91,2026-03-09 00:00,2026-03-17 00:00
+ORD2157,Vinyl Records,Anime,Used,GCash,Delivered,Jose Flores,5785.74,2,18.5,4.8,470.85,2026-04-06 00:00,2026-04-11 00:00
+ORD2158,Trading Cards,Anime,Mint,Credit Card,Delivered,Paolo Santos,12502.68,1,11.0,1.3,157.8,2026-03-15 00:00,2026-03-24 00:00
+ORD2159,Trading Cards,Marvel,Mint,Credit Card,Delivered,Marco Reyes,9454.02,8,22.4,1.9,437.55,2026-03-27 00:00,2026-03-30 00:00
+ORD2160,Board Games,Marvel,Mint,Cash on Delivery,Delivered,Paolo Torres,962.79,3,16.3,2.8,143.54,2026-04-13 00:00,2026-04-20 00:00
+ORD2161,Vinyl Records,Pokemon,Good,Cash on Delivery,Delivered,Ramon Diaz,11939.13,2,20.5,2.8,356.67,2026-03-28 00:00,2026-04-01 00:00
+ORD2162,Board Games,Anime,Good,Cash on Delivery,Cancelled,Diego Mendoza,10503.84,2,10.2,2.0,60.07,2026-03-23 00:00,2026-03-30 00:00
+ORD2163,Action Figures,Gundam,Good,Bank Transfer,Pending,Faith Garcia,9634.24,2,33.5,1.1,96.68,2026-03-24 00:00,2026-03-28 00:00
+ORD2164,Action Figures,Star Wars,Near Mint,Bank Transfer,Delivered,Paolo Bautista,7993.3,6,27.5,2.0,353.53,2026-04-29 00:00,2026-05-02 00:00
+ORD2165,Model Kits,Marvel,Damaged,Cash on Delivery,Delivered,Victor Castillo,6540.34,3,20.7,3.1,123.98,2026-03-22 00:00,2026-03-29 00:00
+ORD2166,Model Kits,Anime,Damaged,PayPal,Returned,Miguel Garcia,3060.37,5,0.5,4.9,146.86,2026-03-12 00:00,2026-03-15 00:00
+ORD2167,Model Kits,Marvel,Damaged,GCash,Delivered,Marco Mendoza,6299.05,2,14.9,1.7,330.83,2026-03-18 00:00,2026-03-23 00:00
+ORD2168,Vinyl Records,Anime,Mint,Cash on Delivery,Delivered,Carlos Santos,10557.47,5,15.5,2.8,420.36,2026-03-16 00:00,2026-03-24 00:00
+ORD2169,Board Games,Star Wars,Damaged,Bank Transfer,Delivered,Carlos Flores,6276.14,1,26.0,1.6,419.85,2026-03-04 00:00,2026-03-05 00:00
+ORD2170,Board Games,Marvel,Used,PayPal,Delivered,Liza Santos,12588.48,7,10.2,1.4,293.07,2026-04-29 00:00,2026-05-01 00:00
+ORD2171,Action Figures,Anime,Near Mint,Credit Card,Delivered,Ramon Garcia,6846.09,5,16.2,1.6,147.66,2026-03-19 00:00,2026-03-24 00:00
+ORD2172,Trading Cards,Anime,Mint,PayPal,Shipped,Liza Ramos,4722.49,5,9.6,2.5,251.01,2026-04-24 00:00,2026-04-27 00:00
+ORD2173,Model Kits,Vintage Toys,Near Mint,Cash on Delivery,Returned,Ramon Ramos,3622.06,4,38.1,1.3,102.47,2026-04-17 00:00,2026-04-24 00:00
+ORD2174,Trading Cards,Star Wars,Damaged,Bank Transfer,Delivered,Grace Mendoza,1410.84,6,35.6,1.4,197.02,2026-04-11 00:00,2026-04-17 00:00
+ORD2175,Trading Cards,Vintage Toys,Used,Bank Transfer,Returned,Carlos Cruz,6804.55,1,2.5,4.8,4.09,2026-04-10 00:00,2026-04-18 00:00
+ORD2176,Model Kits,Marvel,Near Mint,GCash,Shipped,Anna Cruz,10330.04,9,14.8,4.4,398.43,2026-03-16 00:00,2026-03-19 00:00
+ORD2177,Board Games,Vintage Toys,Damaged,Credit Card,Returned,Paolo Garcia,14145.85,9,13.9,1.3,433.91,2026-04-25 00:00,2026-04-28 00:00
+ORD2178,Vinyl Records,Gundam,Near Mint,Credit Card,Shipped,Marco Reyes,2984.06,4,1.7,2.4,494.72,2026-03-04 00:00,2026-03-10 00:00
+ORD2179,Model Kits,Vintage Toys,Mint,Bank Transfer,Delivered,Maria Bautista,1481.19,8,37.1,4.3,71.53,2026-03-12 00:00,2026-03-14 00:00
+ORD2180,Action Figures,Anime,Near Mint,PayPal,Delivered,Paolo Santos,4413.9,3,7.0,4.6,443.71,2026-04-15 00:00,2026-04-21 00:00
+ORD2181,Vinyl Records,Pokemon,Mint,GCash,Delivered,Paolo Ramos,5154.85,9,23.1,4.8,148.8,2026-04-19 00:00,2026-04-23 00:00
+ORD2182,Trading Cards,Anime,Used,GCash,Shipped,Bea Santos,10678.53,9,39.1,2.1,260.78,2026-03-14 00:00,2026-03-22 00:00
+ORD2183,Model Kits,Pokemon,Good,Credit Card,Pending,Julius Castillo,14136.18,1,9.9,2.2,416.21,2026-03-08 00:00,2026-03-10 00:00
+ORD2184,Vinyl Records,Star Wars,Near Mint,Bank Transfer,Delivered,Bea Diaz,12089.32,4,31.3,2.9,448.28,2026-04-06 00:00,2026-04-15 00:00
+ORD2185,Vinyl Records,Gundam,Near Mint,Credit Card,Delivered,Ella Santos,8075.55,6,4.4,5.0,483.3,2026-03-03 00:00,2026-03-07 00:00
+ORD2186,Vinyl Records,Gundam,Mint,Bank Transfer,Returned,Julius Santos,10712.2,4,33.1,3.2,24.83,2026-03-01 00:00,2026-03-02 00:00
+ORD2187,Model Kits,Vintage Toys,Damaged,PayPal,Returned,Julius Garcia,5358.01,8,16.4,2.3,2.86,2026-04-25 00:00,2026-05-03 00:00
+ORD2188,Action Figures,Marvel,Used,Cash on Delivery,Delivered,Grace Mendoza,4304.87,6,14.4,4.0,234.91,2026-04-03 00:00,2026-04-06 00:00
+ORD2189,Board Games,Gundam,Used,Bank Transfer,Delivered,Carlos Cruz,10324.03,5,3.5,4.8,249.38,2026-04-12 00:00,2026-04-18 00:00
+ORD2190,Model Kits,Anime,Good,GCash,Delivered,Marco Torres,7937.6,1,29.7,4.7,320.72,2026-04-10 00:00,2026-04-13 00:00
+ORD2191,Model Kits,Gundam,Good,GCash,Delivered,Marco Aquino,11071.07,8,37.0,1.3,384.81,2026-03-14 00:00,2026-03-20 00:00
+ORD2192,Vinyl Records,Star Wars,Near Mint,PayPal,Delivered,Julius Bautista,4402.34,1,19.5,4.4,135.02,2026-03-19 00:00,2026-03-24 00:00
+ORD2193,Trading Cards,Star Wars,Good,Credit Card,Shipped,Nina Ramos,13198.03,8,10.0,4.0,317.5,2026-04-26 00:00,2026-05-04 00:00
+ORD2194,Action Figures,Vintage Toys,Near Mint,GCash,Delivered,Marco Cruz,2534.55,2,30.6,2.2,292.68,2026-03-25 00:00,2026-03-29 00:00
+ORD2195,Trading Cards,Anime,Damaged,Cash on Delivery,Returned,Jose Bautista,12018.74,3,36.5,4.5,250.93,2026-03-26 00:00,2026-03-31 00:00
+ORD2196,Board Games,Star Wars,Near Mint,GCash,Delivered,Carlos Flores,5740.31,2,2.6,2.9,348.07,2026-03-26 00:00,2026-03-30 00:00
+ORD2197,Action Figures,Vintage Toys,Good,Credit Card,Returned,Marco Castillo,11993.17,5,11.4,3.1,489.93,2026-04-18 00:00,2026-04-24 00:00
+ORD2198,Model Kits,Anime,Near Mint,Credit Card,Delivered,Julius Castillo,3611.93,1,7.1,2.0,472.77,2026-04-23 00:00,2026-04-29 00:00
+ORD2199,Vinyl Records,Gundam,Good,GCash,Delivered,Faith Cruz,3341.6,4,34.1,1.5,32.51,2026-04-09 00:00,2026-04-10 00:00
+ORD2200,Model Kits,Vintage Toys,Good,PayPal,Delivered,Victor Torres,10416.59,5,25.1,2.3,46.37,2026-04-03 00:00,2026-04-06 00:00
+ORD2201,Model Kits,Gundam,Used,PayPal,Delivered,Miguel Torres,5764.66,9,37.0,3.4,273.66,2026-04-05 00:00,2026-04-07 00:00
+ORD2202,Action Figures,Anime,Mint,Bank Transfer,Delivered,Victor Castillo,1180.04,4,5.3,2.9,131.25,2026-03-08 00:00,2026-03-16 00:00
+ORD2203,Model Kits,Marvel,Damaged,PayPal,Shipped,Maria Ramos,3190.2,5,8.4,2.6,394.9,2026-03-07 00:00,2026-03-14 00:00
+ORD2204,Action Figures,Vintage Toys,Good,PayPal,Cancelled,Paolo Bautista,2785.12,3,12.9,4.4,1.63,2026-04-07 00:00,2026-04-08 00:00
+ORD2205,Model Kits,Marvel,Mint,Bank Transfer,Delivered,Faith Reyes,4736.72,7,34.5,1.8,213.45,2026-03-16 00:00,2026-03-24 00:00
+ORD2206,Trading Cards,Marvel,Mint,Credit Card,Delivered,Faith Cruz,9944.92,5,29.4,3.4,98.88,2026-04-04 00:00,2026-04-06 00:00
+ORD2207,Action Figures,Star Wars,Near Mint,Cash on Delivery,Shipped,Jose Flores,9801.44,1,29.7,2.5,194.93,2026-03-11 00:00,2026-03-18 00:00
+ORD2208,Action Figures,Gundam,Damaged,Credit Card,Delivered,Miguel Bautista,14860.18,9,13.9,3.9,412.42,2026-03-15 00:00,2026-03-17 00:00
+ORD2209,Vinyl Records,Gundam,Used,Bank Transfer,Delivered,Anna Ramos,388.55,5,33.8,4.1,23.02,2026-03-09 00:00,2026-03-15 00:00
+ORD2210,Trading Cards,Marvel,Near Mint,GCash,Delivered,Diego Cruz,7583.28,4,39.0,3.5,251.0,2026-03-25 00:00,2026-04-01 00:00
+ORD2211,Model Kits,Vintage Toys,Good,GCash,Shipped,Bea Cruz,8661.34,6,21.2,3.9,165.11,2026-04-23 00:00,2026-04-24 00:00
+ORD2212,Board Games,Gundam,Mint,Bank Transfer,Delivered,Miguel Cruz,2729.67,1,34.3,3.9,374.99,2026-03-01 00:00,2026-03-06 00:00
+ORD2213,Board Games,Pokemon,Used,Cash on Delivery,Shipped,Ella Bautista,5644.19,6,6.0,3.5,242.49,2026-04-15 00:00,2026-04-19 00:00
+ORD2214,Board Games,Anime,Near Mint,GCash,Delivered,Victor Aquino,11313.5,3,15.0,2.9,463.79,2026-03-11 00:00,2026-03-15 00:00
+ORD2215,Action Figures,Pokemon,Used,PayPal,Delivered,Paolo Flores,13443.7,9,26.4,4.3,272.02,2026-03-19 00:00,2026-03-26 00:00
+ORD2216,Trading Cards,Vintage Toys,Used,Credit Card,Shipped,Jose Santos,8645.83,3,30.5,1.6,480.32,2026-03-29 00:00,2026-04-05 00:00
+ORD2217,Board Games,Anime,Near Mint,Credit Card,Returned,Paolo Aquino,1364.11,1,25.2,4.1,453.77,2026-03-20 00:00,2026-03-24 00:00
+ORD2218,Board Games,Star Wars,Damaged,PayPal,Returned,Marco Bautista,12918.87,2,28.1,3.8,420.21,2026-03-20 00:00,2026-03-24 00:00
+ORD2219,Board Games,Pokemon,Used,PayPal,Delivered,Marco Santos,11593.93,2,11.0,1.7,98.6,2026-04-06 00:00,2026-04-11 00:00
+ORD2220,Vinyl Records,Star Wars,Mint,Credit Card,Delivered,Maria Reyes,372.9,7,19.3,3.4,24.81,2026-04-24 00:00,2026-04-30 00:00
+ORD2221,Trading Cards,Vintage Toys,Used,Bank Transfer,Returned,Liza Cruz,6790.44,7,6.8,2.9,461.44,2026-03-22 00:00,2026-03-25 00:00
+ORD2222,Action Figures,Marvel,Damaged,Bank Transfer,Delivered,Hazel Diaz,3417.94,5,21.8,3.8,241.1,2026-03-08 00:00,2026-03-16 00:00
+ORD2223,Model Kits,Star Wars,Mint,PayPal,Shipped,Carlos Aquino,171.06,9,29.1,4.2,202.36,2026-04-24 00:00,2026-04-28 00:00
+ORD2224,Trading Cards,Anime,Good,Credit Card,Shipped,Faith Flores,14557.72,5,34.7,3.3,341.18,2026-03-13 00:00,2026-03-19 00:00
+ORD2225,Action Figures,Gundam,Used,PayPal,Returned,Maria Santos,1626.39,9,21.2,1.4,94.89,2026-03-27 00:00,2026-03-30 00:00
+ORD2226,Vinyl Records,Pokemon,Damaged,Cash on Delivery,Returned,Bea Cruz,5081.82,1,34.2,3.7,351.66,2026-03-23 00:00,2026-03-30 00:00
+ORD2227,Trading Cards,Gundam,Good,Bank Transfer,Pending,Faith Garcia,1129.58,7,3.4,4.1,305.89,2026-04-26 00:00,2026-05-05 00:00
+ORD2228,Trading Cards,Gundam,Mint,Bank Transfer,Pending,Faith Reyes,12121.8,4,3.8,3.0,49.88,2026-04-26 00:00,2026-04-29 00:00
+ORD2229,Vinyl Records,Star Wars,Damaged,Credit Card,Delivered,Diego Garcia,12837.22,4,15.2,4.8,148.56,2026-03-28 00:00,2026-04-05 00:00
+ORD2230,Board Games,Anime,Mint,Credit Card,Pending,Grace Flores,735.16,6,8.9,1.4,369.82,2026-03-18 00:00,2026-03-27 00:00
+ORD2231,Vinyl Records,Star Wars,Mint,GCash,Delivered,Marco Ramos,9774.53,5,28.2,4.3,131.61,2026-03-29 00:00,2026-03-31 00:00
+ORD2232,Vinyl Records,Star Wars,Mint,Cash on Delivery,Delivered,Marco Mendoza,6244.75,6,5.5,4.0,266.5,2026-03-19 00:00,2026-03-20 00:00
+ORD2233,Vinyl Records,Vintage Toys,Damaged,Bank Transfer,Returned,Julius Torres,4541.74,5,26.1,1.6,308.41,2026-04-07 00:00,2026-04-09 00:00
+ORD2234,Vinyl Records,Anime,Near Mint,GCash,Pending,Diego Cruz,12537.79,8,24.6,4.4,329.43,2026-04-06 00:00,2026-04-07 00:00
+ORD2235,Model Kits,Marvel,Mint,Cash on Delivery,Cancelled,Paolo Diaz,2694.53,3,34.9,1.1,90.93,2026-04-02 00:00,2026-05-03 00:00
+ORD2236,Vinyl Records,Star Wars,Damaged,Cash on Delivery,Shipped,Faith Reyes,2086.22,5,10.8,4.9,395.54,2026-04-23 00:00,2026-04-30 00:00
+ORD2237,Trading Cards,Pokemon,Damaged,PayPal,Returned,Maria Torres,344.51,2,11.8,4.4,445.62,2026-04-27 00:00,2026-04-28 00:00
+ORD2238,Model Kits,Star Wars,Near Mint,Bank Transfer,Delivered,Marco Castillo,6673.67,9,31.0,4.7,498.5,2026-04-11 00:00,2026-04-18 00:00
+ORD2239,Model Kits,Pokemon,Near Mint,GCash,Delivered,Ramon Flores,335.02,3,30.7,3.8,420.3,2026-03-12 00:00,2026-03-15 00:00
+ORD2240,Vinyl Records,Gundam,Damaged,Bank Transfer,Shipped,Ramon Diaz,8940.62,2,38.3,4.5,449.48,2026-03-12 00:00,2026-03-14 00:00
+ORD2241,Action Figures,Vintage Toys,Used,GCash,Delivered,Bea Reyes,4328.06,4,9.6,4.5,459.71,2026-03-09 00:00,2026-03-13 00:00
+ORD2242,Action Figures,Pokemon,Near Mint,GCash,Cancelled,Victor Ramos,4048.37,2,10.7,2.0,257.76,2026-04-04 00:00,2026-04-08 00:00
+ORD2243,Action Figures,Star Wars,Near Mint,Credit Card,Delivered,Nina Diaz,6167.42,2,22.5,3.2,446.26,2026-03-01 00:00,2026-03-02 00:00
+ORD2244,Vinyl Records,Anime,Near Mint,Cash on Delivery,Shipped,Diego Reyes,7106.11,2,28.0,4.2,402.91,2026-04-23 00:00,2026-05-01 00:00
+ORD2245,Trading Cards,Gundam,Damaged,PayPal,Returned,Bea Ramos,13798.58,4,35.3,4.2,189.97,2026-03-14 00:00,2026-03-16 00:00
+ORD2246,Model Kits,Anime,Used,Cash on Delivery,Shipped,Jose Reyes,10427.85,7,1.5,4.7,239.57,2026-04-04 00:00,2026-04-09 00:00
+ORD2247,Trading Cards,Anime,Near Mint,Cash on Delivery,Pending,Ella Torres,9124.62,2,15.9,4.2,333.17,2026-03-29 00:00,2026-04-01 00:00
+ORD2248,Model Kits,Marvel,Used,Bank Transfer,Delivered,Marco Santos,13830.32,6,28.3,3.4,209.53,2026-04-13 00:00,2026-04-20 00:00
+ORD2249,Vinyl Records,Star Wars,Near Mint,Bank Transfer,Delivered,Ella Santos,5934.29,1,11.4,3.5,405.89,2026-04-17 00:00,2026-04-21 00:00
+ORD2250,Trading Cards,Gundam,Mint,Cash on Delivery,Delivered,Paolo Castillo,14193.06,8,7.2,1.0,480.73,2026-04-11 00:00,2026-04-17 00:00
+ORD2251,Board Games,Anime,Good,Bank Transfer,Delivered,Marco Garcia,6689.76,3,26.8,1.9,357.41,2026-04-04 00:00,2026-03-17 00:00
+ORD2252,Action Figures,Anime,Near Mint,GCash,Delivered,Hazel Bautista,11360.91,6,0.8,1.5,355.74,2026-03-06 00:00,2026-03-09 00:00
+ORD2253,Model Kits,Vintage Toys,Mint,GCash,Delivered,Marco Garcia,9451.57,8,17.2,3.8,121.96,2026-03-20 00:00,2026-03-29 00:00
+ORD2254,Board Games,Gundam,Mint,Cash on Delivery,Delivered,Miguel Cruz,12514.94,2,8.5,1.3,123.32,2026-04-11 00:00,2026-04-18 00:00
+ORD2255,Board Games,Vintage Toys,Used,Bank Transfer,Delivered,Hazel Ramos,6781.35,8,5.7,4.8,114.38,2026-04-17 00:00,2026-04-22 00:00
+ORD2256,Trading Cards,Anime,Mint,Credit Card,Delivered,Grace Diaz,12915.46,2,24.8,3.5,157.25,2026-03-21 00:00,2026-03-27 00:00
+ORD2257,Model Kits,Anime,Good,Cash on Delivery,Cancelled,Hazel Cruz,2719.42,6,24.4,2.1,256.47,2026-03-31 00:00,2026-04-02 00:00
+ORD2258,Vinyl Records,Vintage Toys,Used,PayPal,Delivered,Grace Santos,12914.8,8,31.0,3.2,449.67,2026-04-03 00:00,2026-04-08 00:00
+ORD2259,Trading Cards,Star Wars,Good,Credit Card,Shipped,Paolo Santos,6063.02,4,7.7,1.4,24.54,2026-04-20 00:00,2026-04-25 00:00
+ORD2260,Model Kits,Pokemon,Damaged,Bank Transfer,Delivered,Nina Diaz,11446.82,8,38.1,1.3,192.07,2026-03-12 00:00,2026-03-19 00:00
+ORD2261,Vinyl Records,Vintage Toys,Damaged,Credit Card,Returned,Anna Santos,6198.23,9,20.3,4.7,109.71,2026-03-03 00:00,2026-03-12 00:00
+ORD2262,Model Kits,Star Wars,Mint,Bank Transfer,Delivered,Ella Ramos,13297.2,5,2.0,1.2,76.39,2026-04-11 00:00,2026-04-20 00:00
+ORD2263,Action Figures,Pokemon,Good,PayPal,Delivered,Nina Ramos,3731.83,1,39.9,2.3,473.31,2026-04-19 00:00,2026-04-25 00:00
+ORD2264,Model Kits,Marvel,Mint,PayPal,Shipped,Maria Cruz,6735.22,4,21.9,2.9,16.43,2026-03-18 00:00,2026-03-23 00:00
+ORD2265,Trading Cards,Marvel,Good,Bank Transfer,Returned,Ramon Castillo,5020.9,7,14.8,3.1,454.83,2026-03-11 00:00,2026-03-14 00:00
+ORD2266,Board Games,Marvel,Used,Bank Transfer,Pending,Maria Aquino,8966.52,2,33.8,3.4,75.86,2026-04-21 00:00,2026-04-24 00:00
+ORD2267,Model Kits,Marvel,Damaged,PayPal,Delivered,Ramon Torres,13279.34,2,39.4,4.3,126.82,2026-04-06 00:00,2026-04-10 00:00
+ORD2268,Model Kits,Gundam,Used,Credit Card,Delivered,Hazel Aquino,5164.09,9,23.4,1.5,259.44,2026-04-15 00:00,2026-04-17 00:00
+ORD2269,Vinyl Records,Marvel,Near Mint,PayPal,Shipped,Maria Garcia,1186.7,7,4.4,3.6,336.39,2026-04-25 00:00,2026-04-26 00:00
+ORD2270,Model Kits,Gundam,Good,Credit Card,Delivered,Faith Santos,3216.58,1,29.7,1.8,265.38,2026-04-11 00:00,2026-04-18 00:00
+ORD2271,Trading Cards,Vintage Toys,Good,GCash,Delivered,Ramon Ramos,12085.03,3,26.3,2.8,434.64,2026-04-12 00:00,2026-04-15 00:00
+ORD2272,Vinyl Records,Gundam,Used,Credit Card,Returned,Ella Bautista,12644.35,7,3.6,2.9,302.8,2026-03-24 00:00,2026-03-31 00:00
+ORD2273,Trading Cards,Anime,Damaged,PayPal,Delivered,Paolo Mendoza,13682.82,5,16.5,4.3,210.7,2026-04-26 00:00,2026-04-27 00:00
+ORD2274,Trading Cards,Star Wars,Near Mint,Credit Card,Delivered,Jose Bautista,14617.73,8,3.9,1.2,1.87,2026-03-03 00:00,2026-03-07 00:00
+ORD2275,Action Figures,Anime,Near Mint,PayPal,Pending,Liza Flores,10360.44,3,0.7,4.5,283.9,2026-03-22 00:00,2026-03-31 00:00
+ORD2276,Vinyl Records,Gundam,Damaged,GCash,Returned,Maria Reyes,6978.44,4,36.4,3.2,420.04,2026-03-12 00:00,2026-03-15 00:00
+ORD2277,Board Games,Pokemon,Good,Cash on Delivery,Delivered,Ramon Aquino,2771.85,7,12.9,4.5,197.61,2026-03-21 00:00,2026-03-27 00:00
+ORD2278,Trading Cards,Gundam,Mint,GCash,Returned,Faith Ramos,4397.28,6,34.5,2.9,28.5,2026-04-02 00:00,2026-04-10 00:00
+ORD2279,Action Figures,Gundam,Used,Credit Card,Shipped,Anna Cruz,9356.42,1,16.4,2.8,410.35,2026-04-12 00:00,2026-04-13 00:00
+ORD2280,Action Figures,Anime,Damaged,Credit Card,Returned,Jose Ramos,14331.51,6,3.3,3.1,198.24,2026-03-10 00:00,2026-03-19 00:00
+ORD2281,Action Figures,Star Wars,Mint,Credit Card,Delivered,Anna Bautista,6716.92,5,28.5,3.6,476.4,2026-04-04 00:00,2026-04-12 00:00
+ORD2282,Trading Cards,Pokemon,Good,Credit Card,Cancelled,Julius Ramos,6720.06,4,25.3,1.4,265.88,2026-04-20 00:00,2026-04-24 00:00
+ORD2283,Action Figures,Gundam,Damaged,Credit Card,Shipped,Hazel Garcia,2237.45,3,20.7,2.8,189.72,2026-03-15 00:00,2026-03-16 00:00
+ORD2284,Action Figures,Gundam,Good,Cash on Delivery,Delivered,Victor Flores,13920.71,7,37.9,4.9,429.86,2026-03-07 00:00,2026-03-14 00:00
+ORD2285,Trading Cards,Anime,Mint,GCash,Delivered,Victor Mendoza,3094.32,1,16.0,1.3,212.16,2026-03-03 00:00,2026-03-04 00:00
+ORD2286,Vinyl Records,Star Wars,Near Mint,Bank Transfer,Cancelled,Julius Garcia,798.8,6,8.7,3.4,99.68,2026-04-24 00:00,2026-04-27 00:00
+ORD2287,Model Kits,Pokemon,Mint,GCash,Delivered,Victor Torres,638.62,6,11.0,2.2,439.36,2026-04-14 00:00,2026-04-17 00:00
+ORD2288,Trading Cards,Star Wars,Good,Cash on Delivery,Delivered,Julius Santos,12956.36,1,27.8,1.9,457.92,2026-04-15 00:00,2026-04-16 00:00
+ORD2289,Trading Cards,Marvel,Near Mint,Cash on Delivery,Delivered,Ella Cruz,12556.06,9,21.9,1.2,214.99,2026-04-24 00:00,2026-04-27 00:00
+ORD2290,Trading Cards,Anime,Near Mint,GCash,Returned,Paolo Garcia,1481.91,7,32.7,3.7,217.65,2026-03-29 00:00,2026-04-02 00:00
+ORD2291,Vinyl Records,Marvel,Near Mint,PayPal,Delivered,Miguel Mendoza,6613.32,1,33.0,1.8,250.41,2026-03-03 00:00,2026-03-10 00:00
+ORD2292,Vinyl Records,Vintage Toys,Good,GCash,Cancelled,Victor Cruz,9038.48,6,18.6,2.4,119.34,2026-03-08 00:00,2026-03-17 00:00
+ORD2293,Vinyl Records,Anime,Good,Bank Transfer,Delivered,Jose Reyes,669.88,8,37.2,3.6,278.06,2026-03-22 00:00,2026-03-23 00:00
+ORD2294,Action Figures,Marvel,Mint,PayPal,Cancelled,Ella Ramos,6053.2,3,21.5,1.2,491.53,2026-03-21 00:00,2026-03-25 00:00
+ORD2295,Action Figures,Anime,Near Mint,GCash,Pending,Diego Garcia,14870.92,7,4.7,5.0,238.43,2026-03-04 00:00,2026-03-11 00:00
+ORD2296,Model Kits,Pokemon,Used,Cash on Delivery,Delivered,Ella Aquino,10737.39,1,19.9,4.3,23.23,2026-04-15 00:00,2026-04-17 00:00
+ORD2297,Model Kits,Marvel,Near Mint,Credit Card,Cancelled,Jose Santos,1383.44,5,35.5,1.7,334.1,2026-03-11 00:00,2026-03-19 00:00
+ORD2298,Board Games,Star Wars,Damaged,Cash on Delivery,Delivered,Miguel Cruz,4934.38,3,23.4,2.5,55.68,2026-04-15 00:00,2026-04-21 00:00
+ORD2299,Action Figures,Anime,Near Mint,Cash on Delivery,Delivered,Maria Cruz,8015.34,1,25.1,2.8,479.61,2026-03-18 00:00,2026-03-24 00:00
+ORD2300,Trading Cards,Anime,Used,PayPal,Cancelled,Marco Reyes,13831.05,3,16.1,3.7,476.45,2026-04-07 00:00,2026-04-09 00:00
+ORD2301,Board Games,Marvel,Good,Cash on Delivery,Delivered,Carlos Bautista,5698.96,4,38.9,3.6,362.48,2026-04-19 00:00,2026-04-25 00:00
+ORD2302,Trading Cards,Vintage Toys,Damaged,GCash,Returned,Hazel Ramos,5879.71,4,20.6,2.8,235.27,2026-04-15 00:00,2026-04-17 00:00
+ORD2303,Board Games,Star Wars,Mint,Bank Transfer,Delivered,Grace Castillo,6738.28,1,19.8,4.1,54.52,2026-04-05 00:00,2026-04-09 00:00
+ORD2304,Trading Cards,Pokemon,Used,Credit Card,Delivered,Diego Mendoza,5809.91,1,30.7,3.1,336.44,2026-03-09 00:00,2026-03-13 00:00
+ORD2305,Model Kits,Gundam,Used,GCash,Delivered,Grace Garcia,4123.5,1,23.8,4.8,303.57,2026-03-29 00:00,2026-04-07 00:00
+ORD2306,Vinyl Records,Pokemon,Mint,Credit Card,Returned,Ella Bautista,1717.88,4,28.5,3.8,486.09,2026-03-18 00:00,2026-03-21 00:00
+ORD2307,Trading Cards,Anime,Mint,Bank Transfer,Returned,Ramon Cruz,4758.45,6,4.3,4.3,82.35,2026-04-25 00:00,2026-04-27 00:00
+ORD2308,Action Figures,Vintage Toys,Good,Cash on Delivery,Delivered,Grace Reyes,5320.55,9,29.1,1.9,378.61,2026-04-17 00:00,2026-04-22 00:00
+ORD2309,Board Games,Pokemon,Mint,GCash,Cancelled,Nina Santos,4681.81,9,0.8,1.7,466.46,2026-04-04 00:00,2026-04-11 00:00
+ORD2310,Vinyl Records,Marvel,Used,Cash on Delivery,Pending,Paolo Reyes,10602.83,7,17.4,3.9,230.61,2026-03-13 00:00,2026-03-14 00:00
+ORD2311,Action Figures,Marvel,Good,Bank Transfer,Delivered,Carlos Bautista,13188.03,3,14.5,1.4,315.18,2026-03-25 00:00,2026-03-30 00:00
+ORD2312,Model Kits,Pokemon,Good,Bank Transfer,Pending,Maria Flores,11994.57,9,20.2,4.7,17.37,2026-03-03 00:00,2026-03-08 00:00
+ORD2313,Model Kits,Gundam,Mint,Cash on Delivery,Returned,Victor Torres,9071.07,7,1.8,1.1,203.54,2026-03-03 00:00,2026-03-06 00:00
+ORD2314,Board Games,Gundam,Near Mint,PayPal,Pending,Anna Bautista,5558.88,8,35.3,3.4,310.48,2026-03-27 00:00,2026-03-28 00:00
+ORD2315,Action Figures,Star Wars,Mint,PayPal,Delivered,Bea Reyes,5821.42,2,29.8,2.3,182.99,2026-04-01 00:00,2026-04-05 00:00
+ORD2316,Vinyl Records,Star Wars,Used,Bank Transfer,Shipped,Carlos Ramos,13235.73,3,12.8,5.0,410.64,2026-04-22 00:00,2026-05-01 00:00
+ORD2317,Trading Cards,Star Wars,Used,Bank Transfer,Shipped,Julius Ramos,3129.44,3,9.7,1.6,210.6,2026-03-25 00:00,2026-04-02 00:00
+ORD2318,Trading Cards,Marvel,Mint,GCash,Delivered,Jose Aquino,2827.49,3,37.5,2.5,69.45,2026-04-13 00:00,2026-04-18 00:00
+ORD2319,Action Figures,Anime,Good,Cash on Delivery,Returned,Paolo Cruz,4566.89,4,32.2,4.2,244.7,2026-03-04 00:00,2026-03-10 00:00
+ORD2320,Action Figures,Anime,Mint,GCash,Delivered,Carlos Diaz,13692.04,3,32.0,4.6,411.37,2026-04-13 00:00,2026-04-21 00:00
+ORD2321,Action Figures,Anime,Mint,Credit Card,Delivered,Nina Torres,14488.33,1,35.2,1.7,384.36,2026-04-24 00:00,2026-05-02 00:00
+ORD2322,Model Kits,Gundam,Near Mint,GCash,Pending,Nina Ramos,10858.17,8,8.4,3.2,280.87,2026-03-29 00:00,2026-04-06 00:00
+ORD2323,Board Games,Pokemon,Mint,PayPal,Shipped,Carlos Cruz,14421.43,7,18.3,3.6,380.7,2026-04-19 00:00,2026-04-20 00:00
+ORD2324,Model Kits,Marvel,Used,Cash on Delivery,Delivered,Jose Santos,7671.66,2,23.5,4.0,146.46,2026-04-23 00:00,2026-04-30 00:00
+ORD2325,Model Kits,Vintage Toys,Near Mint,GCash,Delivered,Anna Garcia,9621.81,1,17.0,2.8,162.99,2026-04-26 00:00,2026-05-05 00:00
+ORD2326,Action Figures,Star Wars,Damaged,GCash,Returned,Liza Flores,12911.24,9,15.3,4.1,290.36,2026-03-27 00:00,2026-03-29 00:00
+ORD2327,Model Kits,Anime,Mint,Cash on Delivery,Cancelled,Marco Torres,132.57,1,19.3,2.2,211.33,2026-03-03 00:00,2026-03-08 00:00
+ORD2328,Board Games,Vintage Toys,Damaged,GCash,Returned,Paolo Castillo,9827.28,3,7.9,2.6,358.98,2026-03-05 00:00,2026-03-10 00:00
+ORD2329,Board Games,Anime,Near Mint,GCash,Delivered,Carlos Santos,4469.84,5,32.8,3.4,153.37,2026-04-13 00:00,2026-04-14 00:00
+ORD2330,Action Figures,Marvel,Near Mint,GCash,Delivered,Ramon Bautista,4843.95,9,17.9,4.9,213.08,2026-03-23 00:00,2026-03-31 00:00
+ORD2331,Action Figures,Pokemon,Mint,GCash,Pending,Bea Garcia,3317.26,5,3.7,2.7,48.2,2026-03-30 00:00,2026-04-07 00:00
+ORD2332,Model Kits,Star Wars,Mint,PayPal,Delivered,Paolo Torres,12665.39,2,3.8,4.0,166.92,2026-04-24 00:00,2026-04-29 00:00
+ORD2333,Action Figures,Marvel,Damaged,GCash,Returned,Hazel Bautista,9691.77,6,12.9,1.7,372.19,2026-04-27 00:00,2026-05-04 00:00
+ORD2334,Trading Cards,Marvel,Near Mint,Credit Card,Shipped,Nina Ramos,14461.98,4,31.7,4.7,299.82,2026-04-01 00:00,2026-04-21 00:00
+ORD2335,Action Figures,Marvel,Good,Bank Transfer,Returned,Liza Reyes,3527.93,8,29.7,2.3,325.76,2026-04-19 00:00,2026-04-26 00:00
+ORD2336,Trading Cards,Vintage Toys,Near Mint,Credit Card,Returned,Diego Aquino,1516.18,2,28.6,4.6,373.32,2026-03-06 00:00,2026-03-13 00:00
+ORD2337,Vinyl Records,Anime,Good,Bank Transfer,Delivered,Paolo Mendoza,5570.57,8,36.1,4.2,396.51,2026-03-01 00:00,2026-03-06 00:00
+ORD2338,Board Games,Vintage Toys,Near Mint,GCash,Returned,Paolo Santos,14520.46,7,25.2,1.1,19.28,2026-03-04 00:00,2026-03-12 00:00
+ORD2339,Vinyl Records,Vintage Toys,Near Mint,Credit Card,Delivered,Ella Aquino,1463.98,5,0.0,3.1,252.14,2026-03-09 00:00,2026-03-14 00:00
+ORD2340,Trading Cards,Vintage Toys,Mint,Cash on Delivery,Shipped,Ella Diaz,2221.86,7,37.9,4.8,485.0,2026-04-08 00:00,2026-04-16 00:00
+ORD2341,Board Games,Anime,Used,GCash,Delivered,Liza Mendoza,12151.04,2,10.5,1.3,45.96,2026-04-02 00:00,2026-04-03 00:00
+ORD2342,Action Figures,Anime,Used,PayPal,Delivered,Miguel Torres,13201.15,9,37.3,4.1,191.88,2026-03-08 00:00,2026-03-14 00:00
+ORD2343,Action Figures,Pokemon,Near Mint,Bank Transfer,Returned,Diego Torres,10416.79,7,24.9,3.0,383.51,2026-04-12 00:00,2026-04-15 00:00
+ORD2344,Vinyl Records,Vintage Toys,Used,Credit Card,Delivered,Diego Torres,732.57,2,36.9,4.8,136.2,2026-03-13 00:00,2026-03-17 00:00
+ORD2345,Action Figures,Pokemon,Good,Bank Transfer,Pending,Paolo Bautista,13696.31,8,5.5,3.8,188.0,2026-04-21 00:00,2026-04-27 00:00
+ORD2346,Vinyl Records,Pokemon,Used,Cash on Delivery,Delivered,Faith Reyes,893.82,1,39.8,3.2,305.09,2026-03-09 00:00,2026-03-11 00:00
+ORD2347,Board Games,Gundam,Good,Credit Card,Cancelled,Carlos Castillo,3251.82,7,5.5,3.4,416.16,2026-03-16 00:00,2026-03-20 00:00
+ORD2348,Vinyl Records,Marvel,Good,Bank Transfer,Delivered,Faith Ramos,8050.79,2,21.6,1.4,265.15,2026-04-12 00:00,2026-04-15 00:00
+ORD2349,Board Games,Vintage Toys,Mint,Cash on Delivery,Shipped,Paolo Flores,6102.18,6,0.7,4.5,119.61,2026-04-20 00:00,2026-04-23 00:00
+ORD2350,Vinyl Records,Vintage Toys,Damaged,Cash on Delivery,Returned,Grace Santos,12734.17,7,7.9,4.9,50.71,2026-03-07 00:00,2026-03-11 00:00
+ORD2351,Model Kits,Star Wars,Mint,GCash,Shipped,Marco Castillo,13691.65,2,6.6,2.3,105.74,2026-03-19 00:00,2026-03-25 00:00
+ORD2352,Action Figures,Vintage Toys,Near Mint,GCash,Pending,Hazel Garcia,3994.41,7,20.4,1.6,203.59,2026-04-01 00:00,2026-04-10 00:00
+ORD2353,Model Kits,Gundam,Damaged,Credit Card,Returned,Miguel Mendoza,1917.27,9,13.1,1.1,191.63,2026-03-31 00:00,2026-04-01 00:00
+ORD2354,Board Games,Star Wars,Mint,Credit Card,Delivered,Julius Flores,5014.27,3,19.6,2.1,363.29,2026-04-19 00:00,2026-04-23 00:00
+ORD2355,Vinyl Records,Pokemon,Mint,PayPal,Delivered,Bea Cruz,6338.72,4,18.8,4.3,109.35,2026-04-04 00:00,2026-04-05 00:00
+ORD2356,Model Kits,Star Wars,Mint,PayPal,Returned,Julius Diaz,3449.94,3,3.1,3.5,468.47,2026-03-25 00:00,2026-04-02 00:00
+ORD2357,Action Figures,Pokemon,Damaged,GCash,Delivered,Nina Mendoza,10338.95,9,27.9,3.8,62.84,2026-03-08 00:00,2026-03-16 00:00
+ORD2358,Model Kits,Vintage Toys,Damaged,Credit Card,Pending,Victor Ramos,1909.18,2,17.8,2.6,97.83,2026-04-22 00:00,2026-04-25 00:00
+ORD2359,Model Kits,Anime,Mint,GCash,Delivered,Maria Bautista,8155.63,3,24.2,2.6,432.97,2026-04-06 00:00,2026-04-07 00:00
+ORD2360,Model Kits,Anime,Used,Cash on Delivery,Delivered,Bea Santos,2994.52,2,18.5,4.9,310.18,2026-04-02 00:00,2026-04-26 00:00
+ORD2361,Model Kits,Vintage Toys,Mint,Credit Card,Delivered,Victor Reyes,12159.31,7,32.5,2.5,135.5,2026-04-05 00:00,2026-04-11 00:00
+ORD2362,Vinyl Records,Star Wars,Mint,Credit Card,Delivered,Julius Flores,8568.46,8,15.4,3.6,490.05,2026-04-03 00:00,2026-04-12 00:00
+ORD2363,Vinyl Records,Vintage Toys,Used,Credit Card,Delivered,Ramon Santos,10463.37,2,33.3,4.9,76.14,2026-04-19 00:00,2026-04-25 00:00
+ORD2364,Model Kits,Anime,Mint,Bank Transfer,Delivered,Nina Reyes,14988.19,3,14.5,1.3,391.34,2026-04-18 00:00,2026-04-20 00:00
+ORD2365,Vinyl Records,Marvel,Near Mint,GCash,Delivered,Jose Castillo,8701.88,3,12.0,3.7,450.57,2026-03-07 00:00,2026-03-10 00:00
+ORD2366,Model Kits,Vintage Toys,Mint,Bank Transfer,Pending,Paolo Garcia,9301.24,5,13.7,2.8,313.41,2026-03-13 00:00,2026-03-19 00:00
+ORD2367,Model Kits,Pokemon,Near Mint,PayPal,Delivered,Maria Flores,7708.28,6,16.5,3.8,406.28,2026-03-24 00:00,2026-03-29 00:00
+ORD2368,Vinyl Records,Vintage Toys,Mint,Cash on Delivery,Delivered,Julius Diaz,5981.14,4,33.7,3.6,486.94,2026-04-15 00:00,2026-04-21 00:00
+ORD2369,Action Figures,Gundam,Used,PayPal,Shipped,Anna Garcia,14892.32,5,9.6,1.5,144.71,2026-03-22 00:00,2026-03-30 00:00
+ORD2370,Board Games,Pokemon,Used,GCash,Delivered,Ella Santos,1680.09,6,2.6,4.8,173.55,2026-04-04 00:00,2026-03-18 00:00
+ORD2371,Trading Cards,Gundam,Good,Bank Transfer,Delivered,Anna Reyes,6653.77,1,5.1,2.2,97.93,2026-04-11 00:00,2026-04-20 00:00
+ORD2372,Action Figures,Star Wars,Near Mint,PayPal,Delivered,Ramon Ramos,677.91,7,39.9,2.7,461.51,2026-04-19 00:00,2026-04-22 00:00
+ORD2373,Vinyl Records,Marvel,Damaged,PayPal,Pending,Grace Reyes,10434.7,8,3.5,2.4,165.73,2026-03-22 00:00,2026-03-23 00:00
+ORD2374,Vinyl Records,Marvel,Damaged,Cash on Delivery,Delivered,Ramon Torres,10480.6,4,11.1,3.8,207.97,2026-03-17 00:00,2026-03-22 00:00
+ORD2375,Model Kits,Star Wars,Damaged,Cash on Delivery,Returned,Victor Aquino,11635.75,4,36.5,1.6,499.0,2026-04-27 00:00,2026-05-02 00:00
+ORD2376,Action Figures,Star Wars,Mint,Credit Card,Delivered,Ramon Garcia,6580.99,6,28.6,4.8,84.44,2026-04-10 00:00,2026-04-11 00:00
+ORD2377,Action Figures,Pokemon,Near Mint,Bank Transfer,Delivered,Ella Flores,13634.6,7,37.6,4.3,173.3,2026-04-01 00:00,2026-04-04 00:00
+ORD2378,Action Figures,Star Wars,Damaged,Bank Transfer,Returned,Carlos Castillo,10433.21,7,36.3,3.7,491.57,2026-03-20 00:00,2026-03-28 00:00
+ORD2379,Trading Cards,Star Wars,Good,PayPal,Pending,Grace Mendoza,3070.04,1,23.2,2.6,381.72,2026-03-20 00:00,2026-03-21 00:00
+ORD2380,Model Kits,Anime,Near Mint,PayPal,Cancelled,Paolo Mendoza,4416.55,2,14.2,2.4,89.51,2026-04-17 00:00,2026-04-22 00:00
+ORD2381,Model Kits,Vintage Toys,Good,Cash on Delivery,Shipped,Anna Flores,3865.79,3,6.2,2.9,91.64,2026-03-28 00:00,2026-04-02 00:00
+ORD2382,Vinyl Records,Pokemon,Good,PayPal,Delivered,Ramon Diaz,4694.85,5,17.1,2.9,171.2,2026-04-13 00:00,2026-04-15 00:00
+ORD2383,Vinyl Records,Star Wars,Near Mint,Bank Transfer,Shipped,Julius Ramos,8497.06,8,14.4,3.6,413.24,2026-03-15 00:00,2026-03-23 00:00
+ORD2384,Board Games,Anime,Near Mint,Cash on Delivery,Delivered,Jose Bautista,3192.03,6,14.7,3.2,481.35,2026-04-27 00:00,2026-04-30 00:00
+ORD2385,Model Kits,Gundam,Damaged,Bank Transfer,Pending,Miguel Santos,457.89,6,22.0,1.5,329.56,2026-04-06 00:00,2026-04-08 00:00
+ORD2386,Vinyl Records,Star Wars,Mint,Credit Card,Delivered,Liza Santos,2513.28,3,7.9,3.2,218.82,2026-04-12 00:00,2026-04-16 00:00
+ORD2387,Model Kits,Gundam,Good,GCash,Delivered,Bea Santos,600.49,6,18.4,1.1,302.44,2026-04-03 00:00,2026-04-11 00:00
+ORD2388,Action Figures,Marvel,Used,Credit Card,Delivered,Anna Bautista,10571.92,6,11.0,3.4,164.96,2026-04-11 00:00,2026-04-12 00:00
+ORD2389,Board Games,Marvel,Good,GCash,Delivered,Anna Flores,1349.88,2,32.2,3.1,233.68,2026-03-07 00:00,2026-03-10 00:00
+ORD2390,Vinyl Records,Gundam,Near Mint,Bank Transfer,Cancelled,Maria Santos,14809.2,5,22.8,2.9,444.15,2026-04-03 00:00,2026-04-09 00:00
+ORD2391,Model Kits,Anime,Damaged,Credit Card,Pending,Miguel Flores,195.85,1,23.1,1.6,280.67,2026-04-19 00:00,2026-04-20 00:00
+ORD2392,Model Kits,Vintage Toys,Mint,Bank Transfer,Pending,Ella Ramos,5181.84,4,16.1,1.0,214.39,2026-04-14 00:00,2026-04-20 00:00
+ORD2393,Action Figures,Marvel,Near Mint,Credit Card,Delivered,Diego Diaz,2997.08,9,34.7,3.5,50.5,2026-04-15 00:00,2026-04-18 00:00
+ORD2394,Trading Cards,Star Wars,Mint,Cash on Delivery,Cancelled,Nina Ramos,13431.25,7,20.0,2.2,159.13,2026-04-02 00:00,2026-04-03 00:00
+ORD2395,Vinyl Records,Vintage Toys,Mint,GCash,Delivered,Paolo Santos,1249.01,4,23.8,4.9,138.34,2026-04-08 00:00,2026-04-10 00:00
+ORD2396,Board Games,Star Wars,Damaged,Credit Card,Returned,Faith Diaz,2952.35,6,11.1,1.4,447.86,2026-04-17 00:00,2026-04-24 00:00
+ORD2397,Model Kits,Gundam,Mint,PayPal,Pending,Faith Torres,14183.49,6,29.1,1.4,186.39,2026-04-08 00:00,2026-04-16 00:00
+ORD2398,Trading Cards,Pokemon,Mint,Credit Card,Returned,Maria Cruz,2359.65,3,13.8,2.0,255.23,2026-04-16 00:00,2026-04-22 00:00
+ORD2399,Trading Cards,Marvel,Good,Bank Transfer,Returned,Diego Mendoza,8000.4,2,8.0,2.5,161.97,2026-04-03 00:00,2026-04-12 00:00
+ORD2400,Vinyl Records,Gundam,Good,GCash,Shipped,Maria Reyes,5015.44,9,13.0,3.8,243.87,2026-03-31 00:00,2026-04-08 00:00
+ORD2401,Trading Cards,Marvel,Good,PayPal,Shipped,Paolo Ramos,3540.77,8,9.6,4.5,180.85,2026-03-25 00:00,2026-04-01 00:00
+ORD2402,Vinyl Records,Anime,Mint,Bank Transfer,Shipped,Victor Santos,9175.82,8,30.1,4.9,149.61,2026-03-05 00:00,2026-03-06 00:00
+ORD2403,Vinyl Records,Star Wars,Mint,Cash on Delivery,Delivered,Maria Aquino,11587.3,2,22.3,1.2,439.15,2026-04-23 00:00,2026-05-01 00:00
+ORD2404,Model Kits,Marvel,Near Mint,Bank Transfer,Delivered,Marco Flores,6915.28,6,24.3,3.2,311.82,2026-04-18 00:00,2026-04-24 00:00
+ORD2405,Trading Cards,Marvel,Used,GCash,Shipped,Miguel Torres,8800.81,3,20.0,4.6,106.6,2026-03-24 00:00,2026-03-26 00:00
+ORD2406,Model Kits,Pokemon,Mint,Credit Card,Shipped,Ramon Bautista,4854.62,7,26.6,1.1,273.09,2026-04-18 00:00,2026-04-20 00:00
+ORD2407,Trading Cards,Gundam,Damaged,Bank Transfer,Returned,Carlos Diaz,6749.01,3,20.4,4.3,223.69,2026-03-12 00:00,2026-03-21 00:00
+ORD2408,Board Games,Star Wars,Used,PayPal,Delivered,Liza Mendoza,2101.6,3,12.1,3.4,133.66,2026-04-16 00:00,2026-04-17 00:00
+ORD2409,Board Games,Anime,Damaged,Bank Transfer,Returned,Grace Garcia,303.13,1,15.0,2.1,437.64,2026-03-24 00:00,2026-03-25 00:00
+ORD2410,Model Kits,Anime,Near Mint,Bank Transfer,Delivered,Ella Castillo,3823.17,3,2.1,4.6,14.34,2026-04-18 00:00,2026-04-19 00:00
+ORD2411,Board Games,Pokemon,Near Mint,PayPal,Delivered,Maria Cruz,11996.79,2,5.0,2.2,375.93,2026-04-05 00:00,2026-04-07 00:00
+ORD2412,Vinyl Records,Star Wars,Near Mint,Credit Card,Returned,Ella Aquino,11627.18,5,1.8,3.2,394.88,2026-03-09 00:00,2026-03-12 00:00
+ORD2413,Model Kits,Pokemon,Near Mint,PayPal,Delivered,Ella Cruz,10568.75,6,35.9,3.6,499.48,2026-04-09 00:00,2026-04-10 00:00
+ORD2414,Model Kits,Marvel,Mint,GCash,Delivered,Carlos Diaz,10267.15,2,27.6,3.4,191.41,2026-03-30 00:00,2026-04-05 00:00
+ORD2415,Action Figures,Vintage Toys,Mint,Cash on Delivery,Delivered,Maria Ramos,2750.77,6,34.2,2.9,185.28,2026-03-20 00:00,2026-03-25 00:00
+ORD2416,Model Kits,Gundam,Mint,PayPal,Delivered,Miguel Bautista,4593.55,6,33.9,3.8,360.74,2026-04-06 00:00,2026-04-07 00:00
+ORD2417,Vinyl Records,Star Wars,Good,GCash,Cancelled,Carlos Reyes,3127.58,2,4.4,2.0,112.35,2026-03-14 00:00,2026-03-23 00:00
+ORD2418,Vinyl Records,Marvel,Near Mint,Cash on Delivery,Delivered,Liza Flores,3364.58,7,22.3,1.7,241.06,2026-04-01 00:00,2026-03-20 00:00
+ORD2419,Trading Cards,Gundam,Near Mint,PayPal,Delivered,Anna Reyes,12644.96,1,13.6,3.7,206.35,2026-04-18 00:00,2026-04-26 00:00
+ORD2420,Vinyl Records,Pokemon,Near Mint,Credit Card,Shipped,Julius Garcia,5468.54,1,19.0,3.4,70.73,2026-04-12 00:00,2026-04-20 00:00
+ORD2421,Model Kits,Anime,Mint,GCash,Delivered,Grace Cruz,5845.25,3,14.5,4.8,6.7,2026-04-26 00:00,2026-05-01 00:00
+ORD2422,Action Figures,Marvel,Mint,Bank Transfer,Pending,Maria Flores,12625.51,8,37.4,2.6,7.92,2026-04-17 00:00,2026-04-26 00:00
+ORD2423,Trading Cards,Marvel,Used,PayPal,Cancelled,Miguel Flores,7424.62,7,36.3,4.5,23.25,2026-04-05 00:00,2026-04-11 00:00
+ORD2424,Action Figures,Pokemon,Mint,GCash,Shipped,Paolo Castillo,108.18,4,19.0,4.6,30.38,2026-04-09 00:00,2026-04-14 00:00
+ORD2425,Trading Cards,Star Wars,Damaged,Cash on Delivery,Delivered,Ramon Flores,5678.23,4,35.3,1.5,105.23,2026-03-02 00:00,2026-03-11 00:00
+ORD2426,Vinyl Records,Vintage Toys,Near Mint,GCash,Pending,Victor Bautista,7446.54,8,11.1,3.1,250.12,2026-03-01 00:00,2026-03-04 00:00
+ORD2427,Model Kits,Pokemon,Damaged,PayPal,Returned,Jose Ramos,3567.19,9,10.9,1.5,195.93,2026-03-24 00:00,2026-03-27 00:00
+ORD2428,Model Kits,Vintage Toys,Mint,GCash,Delivered,Julius Garcia,6130.58,3,5.1,4.6,186.66,2026-04-24 00:00,2026-04-28 00:00
+ORD2429,Vinyl Records,Anime,Mint,Bank Transfer,Pending,Ramon Ramos,2602.26,7,21.1,4.3,81.7,2026-03-24 00:00,2026-03-31 00:00
+ORD2430,Board Games,Marvel,Near Mint,Cash on Delivery,Shipped,Ramon Flores,12874.11,6,28.3,2.3,243.05,2026-04-04 00:00,2026-04-13 00:00
+ORD2431,Board Games,Anime,Near Mint,GCash,Cancelled,Jose Mendoza,4256.41,8,16.2,4.5,103.67,2026-03-23 00:00,2026-03-30 00:00
+ORD2432,Vinyl Records,Marvel,Near Mint,Bank Transfer,Shipped,Julius Santos,12648.92,4,15.9,4.3,56.38,2026-04-13 00:00,2026-04-22 00:00
+ORD2433,Vinyl Records,Anime,Near Mint,Cash on Delivery,Shipped,Nina Reyes,11033.41,3,39.7,1.3,159.4,2026-03-16 00:00,2026-03-19 00:00
+ORD2434,Trading Cards,Vintage Toys,Mint,PayPal,Cancelled,Victor Torres,6493.72,1,23.0,2.0,211.06,2026-03-13 00:00,2026-03-21 00:00
+ORD2435,Action Figures,Marvel,Used,Credit Card,Pending,Miguel Mendoza,13461.82,9,39.5,4.1,1.23,2026-04-28 00:00,2026-05-02 00:00
+ORD2436,Action Figures,Star Wars,Mint,GCash,Delivered,Marco Mendoza,11517.23,9,10.1,4.4,409.59,2026-03-03 00:00,2026-03-05 00:00
+ORD2437,Model Kits,Marvel,Near Mint,Cash on Delivery,Shipped,Julius Cruz,6474.2,1,14.2,4.6,76.47,2026-03-22 00:00,2026-03-25 00:00
+ORD2438,Action Figures,Gundam,Used,Credit Card,Delivered,Julius Ramos,4424.64,8,11.0,1.5,127.67,2026-04-06 00:00,2026-04-12 00:00
+ORD2439,Trading Cards,Marvel,Mint,Bank Transfer,Delivered,Julius Ramos,14603.66,7,15.3,1.2,404.09,2026-04-26 00:00,2026-04-28 00:00
+ORD2440,Board Games,Marvel,Mint,PayPal,Delivered,Victor Bautista,8451.72,7,21.3,3.4,65.47,2026-03-09 00:00,2026-03-12 00:00
+ORD2441,Trading Cards,Gundam,Mint,Bank Transfer,Delivered,Liza Mendoza,6174.95,5,10.7,4.7,471.48,2026-04-08 00:00,2026-04-09 00:00
+ORD2442,Model Kits,Star Wars,Near Mint,PayPal,Delivered,Miguel Torres,551.15,1,5.0,3.6,39.17,2026-03-17 00:00,2026-03-18 00:00
+ORD2443,Trading Cards,Star Wars,Good,GCash,Cancelled,Hazel Cruz,8423.04,2,18.6,2.2,143.97,2026-03-29 00:00,2026-04-06 00:00
+ORD2444,Trading Cards,Star Wars,Near Mint,GCash,Delivered,Marco Cruz,4776.85,4,37.3,3.3,285.26,2026-03-30 00:00,2026-03-31 00:00
+ORD2445,Action Figures,Pokemon,Near Mint,Credit Card,Delivered,Grace Flores,13171.39,1,27.7,4.8,153.24,2026-03-14 00:00,2026-03-17 00:00
+ORD2446,Trading Cards,Star Wars,Near Mint,Cash on Delivery,Shipped,Liza Torres,4445.69,3,34.3,2.8,409.9,2026-03-24 00:00,2026-03-27 00:00
+ORD2447,Action Figures,Vintage Toys,Mint,GCash,Shipped,Anna Diaz,4383.02,5,7.8,3.4,304.55,2026-03-09 00:00,2026-03-10 00:00
+ORD2448,Action Figures,Pokemon,Used,Bank Transfer,Delivered,Anna Diaz,8497.52,3,1.3,4.4,484.11,2026-04-05 00:00,2026-04-07 00:00
+ORD2449,Action Figures,Star Wars,Damaged,Bank Transfer,Delivered,Liza Bautista,1070.79,1,18.3,1.2,490.19,2026-04-08 00:00,2026-04-11 00:00
+ORD2450,Board Games,Gundam,Near Mint,Credit Card,Delivered,Bea Diaz,6483.55,7,11.4,1.6,157.59,2026-03-02 00:00,2026-03-08 00:00
+ORD2451,Trading Cards,Vintage Toys,Damaged,Credit Card,Returned,Ella Flores,8302.85,1,25.8,1.3,487.81,2026-04-01 00:00,2026-04-05 00:00
+ORD2452,Model Kits,Anime,Near Mint,Cash on Delivery,Delivered,Bea Santos,4743.84,3,27.7,4.4,441.91,2026-03-06 00:00,2026-03-08 00:00
+ORD2453,Action Figures,Pokemon,Good,Cash on Delivery,Delivered,Carlos Santos,10713.71,8,7.0,2.3,168.07,2026-04-16 00:00,2026-04-19 00:00
+ORD2454,Board Games,Gundam,Damaged,Bank Transfer,Delivered,Grace Bautista,4417.11,9,0.5,1.4,346.16,2026-04-07 00:00,2026-04-16 00:00
+ORD2455,Board Games,Gundam,Good,Bank Transfer,Cancelled,Paolo Flores,10486.14,6,15.1,3.0,421.81,2026-04-01 00:00,2026-03-31 00:00
+ORD2456,Vinyl Records,Marvel,Used,Credit Card,Delivered,Ramon Santos,11454.08,9,14.7,4.4,273.9,2026-03-06 00:00,2026-03-15 00:00
+ORD2457,Trading Cards,Gundam,Damaged,Bank Transfer,Cancelled,Grace Cruz,9621.18,4,16.2,3.8,265.62,2026-04-20 00:00,2026-04-27 00:00
+ORD2458,Board Games,Gundam,Damaged,GCash,Cancelled,Julius Castillo,341.3,8,0.6,3.5,166.47,2026-04-21 00:00,2026-04-28 00:00
+ORD2459,Vinyl Records,Anime,Mint,Cash on Delivery,Delivered,Nina Mendoza,12938.35,9,14.7,2.9,267.7,2026-03-11 00:00,2026-03-19 00:00
+ORD2460,Action Figures,Vintage Toys,Used,PayPal,Delivered,Maria Mendoza,14229.23,7,14.5,4.4,398.68,2026-03-27 00:00,2026-03-31 00:00
+ORD2461,Trading Cards,Vintage Toys,Damaged,Credit Card,Pending,Carlos Torres,1397.06,6,24.1,3.8,372.8,2026-04-17 00:00,2026-04-25 00:00
+ORD2462,Model Kits,Marvel,Used,GCash,Delivered,Miguel Torres,3591.53,3,31.0,2.8,418.89,2026-04-02 00:00,2026-03-11 00:00
+ORD2463,Trading Cards,Anime,Used,GCash,Cancelled,Carlos Ramos,9444.93,4,23.3,4.1,404.3,2026-04-02 00:00,2026-04-09 00:00
+ORD2464,Vinyl Records,Anime,Good,Cash on Delivery,Shipped,Carlos Ramos,395.77,1,9.9,2.1,103.68,2026-03-21 00:00,2026-03-24 00:00
+ORD2465,Board Games,Pokemon,Mint,PayPal,Shipped,Liza Santos,12728.78,4,34.9,2.6,62.96,2026-03-16 00:00,2026-03-17 00:00
+ORD2466,Vinyl Records,Pokemon,Good,Bank Transfer,Delivered,Faith Ramos,12898.86,6,3.4,2.2,17.05,2026-04-02 00:00,2026-03-30 00:00
+ORD2467,Model Kits,Star Wars,Mint,Bank Transfer,Delivered,Ramon Diaz,2958.35,2,15.3,4.8,180.02,2026-04-10 00:00,2026-04-15 00:00
+ORD2468,Action Figures,Pokemon,Mint,GCash,Delivered,Liza Diaz,6467.34,7,11.4,4.9,439.08,2026-03-14 00:00,2026-03-21 00:00
+ORD2469,Vinyl Records,Gundam,Mint,Cash on Delivery,Delivered,Grace Mendoza,12164.17,3,3.8,5.0,117.78,2026-03-23 00:00,2026-03-26 00:00
+ORD2470,Trading Cards,Vintage Toys,Used,Bank Transfer,Pending,Anna Aquino,5889.07,5,24.2,2.3,478.13,2026-04-02 00:00,2026-04-20 00:00
+ORD2471,Vinyl Records,Star Wars,Good,Credit Card,Cancelled,Grace Reyes,7854.25,5,25.0,1.3,29.72,2026-03-13 00:00,2026-03-15 00:00
+ORD2472,Trading Cards,Pokemon,Mint,GCash,Delivered,Nina Garcia,6070.57,9,12.9,2.4,13.55,2026-04-20 00:00,2026-04-29 00:00
+ORD2473,Model Kits,Star Wars,Damaged,Cash on Delivery,Pending,Jose Bautista,3147.16,5,1.5,4.3,63.63,2026-03-30 00:00,2026-03-31 00:00
+ORD2474,Board Games,Star Wars,Mint,Bank Transfer,Cancelled,Marco Santos,12483.18,2,12.3,3.3,155.5,2026-03-30 00:00,2026-04-01 00:00
+ORD2475,Model Kits,Vintage Toys,Mint,Bank Transfer,Returned,Faith Garcia,4525.15,2,2.8,3.6,363.24,2026-04-28 00:00,2026-05-02 00:00
+ORD2476,Vinyl Records,Pokemon,Mint,Cash on Delivery,Delivered,Miguel Diaz,14002.69,4,18.0,3.5,458.37,2026-04-04 00:00,2026-04-30 00:00
+ORD2477,Action Figures,Gundam,Damaged,Bank Transfer,Returned,Faith Reyes,10608.85,4,8.9,4.8,82.02,2026-03-28 00:00,2026-04-05 00:00
+ORD2478,Board Games,Marvel,Used,Cash on Delivery,Cancelled,Nina Reyes,3847.69,6,13.1,1.9,220.69,2026-04-29 00:00,2026-05-07 00:00
+ORD2479,Trading Cards,Anime,Near Mint,Credit Card,Delivered,Paolo Torres,14609.28,7,8.9,2.7,138.08,2026-04-11 00:00,2026-04-17 00:00
+ORD2480,Model Kits,Vintage Toys,Used,PayPal,Pending,Maria Cruz,5576.27,7,25.5,2.7,457.51,2026-04-03 00:00,2026-04-12 00:00
+ORD2481,Vinyl Records,Gundam,Near Mint,Cash on Delivery,Cancelled,Hazel Diaz,13627.15,2,39.3,4.4,305.2,2026-03-26 00:00,2026-03-31 00:00
+ORD2482,Trading Cards,Pokemon,Used,PayPal,Returned,Faith Bautista,6638.53,8,26.1,1.4,36.04,2026-03-18 00:00,2026-03-24 00:00
+ORD2483,Model Kits,Pokemon,Damaged,PayPal,Delivered,Anna Castillo,12552.54,2,16.7,1.9,390.49,2026-04-04 00:00,2026-04-16 00:00
+ORD2484,Board Games,Star Wars,Used,Cash on Delivery,Returned,Ramon Diaz,4479.1,9,37.0,2.2,224.09,2026-03-19 00:00,2026-03-22 00:00
+ORD2485,Model Kits,Anime,Good,Credit Card,Delivered,Carlos Aquino,10866.14,1,24.0,3.3,247.86,2026-03-03 00:00,2026-03-09 00:00
+ORD2486,Vinyl Records,Vintage Toys,Mint,Bank Transfer,Delivered,Diego Bautista,2355.47,9,30.8,2.1,29.52,2026-03-25 00:00,2026-04-03 00:00
+ORD2487,Model Kits,Star Wars,Damaged,GCash,Delivered,Miguel Reyes,5157.05,3,14.8,2.2,10.68,2026-03-28 00:00,2026-04-01 00:00
+ORD2488,Board Games,Anime,Near Mint,Bank Transfer,Delivered,Faith Aquino,5143.69,4,6.4,1.9,450.75,2026-04-15 00:00,2026-04-17 00:00
+ORD2489,Vinyl Records,Star Wars,Used,Credit Card,Delivered,Diego Bautista,12078.9,7,9.7,3.9,35.71,2026-04-11 00:00,2026-04-16 00:00
+ORD2490,Board Games,Gundam,Mint,Credit Card,Delivered,Paolo Castillo,14095.52,7,13.6,1.7,62.3,2026-04-21 00:00,2026-04-27 00:00
+ORD2491,Board Games,Marvel,Near Mint,PayPal,Cancelled,Liza Cruz,2027.72,9,2.7,4.1,499.48,2026-04-16 00:00,2026-04-23 00:00
+ORD2492,Vinyl Records,Pokemon,Near Mint,PayPal,Shipped,Marco Garcia,947.34,7,18.1,4.1,271.58,2026-04-01 00:00,2026-04-08 00:00
+ORD2493,Board Games,Vintage Toys,Used,Bank Transfer,Returned,Victor Cruz,2437.35,3,6.7,3.6,386.46,2026-04-23 00:00,2026-04-30 00:00
+ORD2494,Trading Cards,Star Wars,Near Mint,Bank Transfer,Returned,Liza Mendoza,14202.19,5,30.3,2.7,79.52,2026-03-12 00:00,2026-03-20 00:00
+ORD2495,Board Games,Anime,Mint,GCash,Cancelled,Grace Aquino,13772.29,6,9.7,2.7,30.09,2026-04-06 00:00,2026-04-14 00:00
+ORD2496,Vinyl Records,Anime,Good,PayPal,Shipped,Ramon Bautista,4010.46,4,30.6,3.0,35.01,2026-03-15 00:00,2026-03-16 00:00
+ORD2497,Board Games,Marvel,Damaged,Credit Card,Returned,Anna Aquino,14648.29,3,38.9,1.7,360.16,2026-03-18 00:00,2026-03-24 00:00
+ORD2498,Trading Cards,Anime,Good,GCash,Delivered,Carlos Mendoza,10657.17,5,24.9,3.2,368.77,2026-04-04 00:00,2026-04-10 00:00
+ORD2499,Board Games,Marvel,Good,GCash,Pending,Grace Bautista,14574.03,8,4.5,2.5,209.75,2026-04-05 00:00,2026-04-07 00:00
+ORD2500,Model Kits,Gundam,Near Mint,Cash on Delivery,Returned,Nina Torres,8350.47,3,3.9,3.3,239.28,2026-04-01 00:00,2026-04-06 00:00
+ORD2501,Action Figures,Gundam,Damaged,GCash,Returned,Jose Torres,9375.5,7,27.5,2.6,42.58,2026-04-01 00:00,2026-04-07 00:00
+ORD2502,Vinyl Records,Vintage Toys,Near Mint,Bank Transfer,Cancelled,Bea Mendoza,8271.13,8,36.0,4.3,51.34,2026-03-10 00:00,2026-03-19 00:00
+ORD2503,Trading Cards,Gundam,Good,Bank Transfer,Delivered,Victor Bautista,12020.69,8,4.1,2.4,443.95,2026-04-07 00:00,2026-04-09 00:00
+ORD2504,Action Figures,Gundam,Mint,PayPal,Pending,Ella Aquino,1174.47,9,32.9,2.9,489.4,2026-03-10 00:00,2026-03-17 00:00
+ORD2505,Action Figures,Gundam,Used,GCash,Pending,Maria Garcia,3851.77,7,8.2,2.3,146.53,2026-03-30 00:00,2026-04-07 00:00
+ORD2506,Board Games,Pokemon,Near Mint,GCash,Shipped,Diego Garcia,9228.27,9,34.4,1.5,330.7,2026-03-08 00:00,2026-03-17 00:00
+ORD2507,Model Kits,Gundam,Mint,GCash,Cancelled,Bea Ramos,7309.73,5,3.2,4.6,256.94,2026-04-25 00:00,2026-04-27 00:00
+ORD2508,Board Games,Anime,Near Mint,Cash on Delivery,Pending,Ella Garcia,12395.46,6,36.9,1.7,429.79,2026-04-23 00:00,2026-05-01 00:00
+ORD2509,Action Figures,Star Wars,Mint,Bank Transfer,Pending,Faith Garcia,5853.28,6,31.6,4.7,320.65,2026-04-10 00:00,2026-04-12 00:00
+ORD2510,Board Games,Star Wars,Damaged,Credit Card,Returned,Liza Santos,12355.98,1,7.0,2.3,256.54,2026-03-26 00:00,2026-04-01 00:00
+ORD2511,Model Kits,Pokemon,Mint,Credit Card,Delivered,Victor Mendoza,2437.66,5,31.5,2.6,12.87,2026-04-06 00:00,2026-04-08 00:00
+ORD2512,Trading Cards,Marvel,Mint,Bank Transfer,Delivered,Carlos Reyes,4997.11,1,6.7,1.9,337.12,2026-04-21 00:00,2026-04-29 00:00
+ORD2513,Model Kits,Star Wars,Mint,GCash,Pending,Jose Torres,13199.89,6,33.2,2.9,392.78,2026-03-06 00:00,2026-03-08 00:00
+ORD2514,Trading Cards,Anime,Near Mint,GCash,Delivered,Faith Ramos,11092.85,5,29.6,1.3,416.83,2026-04-03 00:00,2026-04-11 00:00
+ORD2515,Model Kits,Gundam,Used,Credit Card,Delivered,Anna Reyes,5207.54,7,1.6,2.3,320.29,2026-03-27 00:00,2026-03-28 00:00
+ORD2516,Action Figures,Marvel,Mint,Cash on Delivery,Cancelled,Maria Bautista,13886.16,1,38.7,4.6,99.42,2026-03-28 00:00,2026-03-29 00:00
+ORD2517,Board Games,Star Wars,Good,Credit Card,Delivered,Anna Santos,13967.03,1,14.2,4.2,212.89,2026-04-05 00:00,2026-04-13 00:00
+ORD2518,Model Kits,Star Wars,Mint,Cash on Delivery,Delivered,Miguel Torres,3915.63,4,13.4,4.8,414.59,2026-04-17 00:00,2026-04-18 00:00
+ORD2519,Trading Cards,Anime,Good,Credit Card,Shipped,Ella Ramos,3157.04,3,16.8,2.1,442.39,2026-04-20 00:00,2026-04-27 00:00
+ORD2520,Trading Cards,Vintage Toys,Good,PayPal,Delivered,Jose Garcia,13843.08,3,1.8,1.9,309.02,2026-03-02 00:00,2026-03-07 00:00
+ORD2521,Vinyl Records,Anime,Good,GCash,Cancelled,Paolo Castillo,9554.51,1,2.9,4.2,65.57,2026-04-15 00:00,2026-04-23 00:00
+ORD2522,Model Kits,Star Wars,Good,PayPal,Returned,Anna Flores,298.27,9,27.5,4.4,148.14,2026-04-05 00:00,2026-04-06 00:00
+ORD2523,Action Figures,Marvel,Used,Credit Card,Pending,Ella Ramos,9505.8,9,23.8,1.8,111.82,2026-04-06 00:00,2026-04-07 00:00
+ORD2524,Action Figures,Pokemon,Used,Cash on Delivery,Returned,Diego Cruz,3039.09,3,30.0,4.9,491.82,2026-04-21 00:00,2026-04-30 00:00
+ORD2525,Model Kits,Star Wars,Mint,Credit Card,Pending,Hazel Bautista,12720.64,3,9.9,4.8,244.57,2026-04-02 00:00,2026-04-06 00:00
+ORD2526,Action Figures,Anime,Mint,Bank Transfer,Delivered,Anna Diaz,13169.97,4,36.4,3.8,299.37,2026-04-23 00:00,2026-05-01 00:00
+ORD2527,Action Figures,Gundam,Good,GCash,Returned,Bea Garcia,9317.9,3,27.3,4.0,47.37,2026-03-18 00:00,2026-03-19 00:00
+ORD2528,Vinyl Records,Gundam,Mint,GCash,Returned,Marco Ramos,3494.06,1,34.2,3.4,167.82,2026-03-02 00:00,2026-03-09 00:00
+ORD2529,Vinyl Records,Marvel,Mint,PayPal,Delivered,Julius Santos,1160.77,8,20.9,3.9,162.72,2026-03-20 00:00,2026-03-28 00:00
+ORD2530,Model Kits,Vintage Toys,Good,Credit Card,Delivered,Liza Diaz,10030.4,8,11.6,2.1,88.52,2026-04-03 00:00,2026-04-04 00:00
+ORD2531,Trading Cards,Star Wars,Used,Credit Card,Delivered,Faith Diaz,14442.67,5,26.9,4.8,412.39,2026-03-27 00:00,2026-03-31 00:00
+ORD2532,Action Figures,Anime,Used,PayPal,Delivered,Bea Aquino,5482.84,4,9.9,4.7,451.89,2026-04-07 00:00,2026-04-13 00:00
+ORD2533,Model Kits,Marvel,Damaged,Bank Transfer,Returned,Diego Castillo,9501.26,9,20.6,4.0,443.49,2026-04-25 00:00,2026-04-29 00:00
+ORD2534,Vinyl Records,Gundam,Damaged,Bank Transfer,Delivered,Ella Castillo,7896.52,8,33.3,1.3,0.62,2026-03-06 00:00,2026-03-14 00:00
+ORD2535,Trading Cards,Pokemon,Damaged,Cash on Delivery,Delivered,Hazel Bautista,12523.39,2,20.4,4.4,184.58,2026-04-04 00:00,2026-04-05 00:00
+ORD2536,Action Figures,Pokemon,Near Mint,Cash on Delivery,Pending,Carlos Diaz,6315.97,3,19.8,3.1,367.28,2026-03-15 00:00,2026-03-22 00:00
+ORD2537,Vinyl Records,Anime,Mint,Cash on Delivery,Returned,Victor Diaz,3565.03,4,13.3,1.9,269.41,2026-03-26 00:00,2026-04-03 00:00
+ORD2538,Action Figures,Pokemon,Mint,Bank Transfer,Delivered,Carlos Torres,8714.33,9,2.6,3.3,351.99,2026-04-14 00:00,2026-04-15 00:00
+ORD2539,Vinyl Records,Star Wars,Near Mint,Bank Transfer,Delivered,Julius Mendoza,2134.72,3,5.6,3.5,34.68,2026-03-23 00:00,2026-03-25 00:00
+ORD2540,Trading Cards,Anime,Good,Cash on Delivery,Cancelled,Miguel Flores,3688.58,4,20.6,1.6,67.62,2026-04-01 00:00,2026-04-06 00:00
+ORD2541,Trading Cards,Marvel,Used,PayPal,Cancelled,Anna Mendoza,14909.45,4,37.6,2.9,350.99,2026-03-08 00:00,2026-03-17 00:00
+ORD2542,Vinyl Records,Star Wars,Mint,Cash on Delivery,Cancelled,Jose Ramos,8389.11,6,36.1,1.6,402.27,2026-03-24 00:00,2026-03-28 00:00
+ORD2543,Board Games,Marvel,Damaged,Bank Transfer,Returned,Anna Flores,11397.0,4,5.8,2.8,22.2,2026-03-31 00:00,2026-04-09 00:00
+ORD2544,Board Games,Anime,Good,GCash,Pending,Liza Cruz,5270.27,7,20.9,3.2,135.81,2026-03-26 00:00,2026-04-02 00:00
+ORD2545,Vinyl Records,Vintage Toys,Used,GCash,Delivered,Victor Garcia,2148.99,8,39.4,1.2,449.6,2026-03-18 00:00,2026-03-22 00:00
+ORD2546,Vinyl Records,Anime,Damaged,GCash,Delivered,Jose Garcia,116.55,6,26.6,1.2,333.89,2026-03-02 00:00,2026-03-10 00:00
+ORD2547,Vinyl Records,Vintage Toys,Near Mint,Credit Card,Delivered,Hazel Santos,2770.52,5,37.4,1.6,297.01,2026-03-25 00:00,2026-03-26 00:00
+ORD2548,Action Figures,Gundam,Mint,GCash,Returned,Ella Ramos,4749.27,3,12.7,1.8,19.39,2026-03-15 00:00,2026-03-24 00:00
+ORD2549,Board Games,Gundam,Near Mint,Credit Card,Pending,Nina Aquino,7211.62,6,31.1,3.3,449.23,2026-04-02 00:00,2026-04-09 00:00
+ORD2550,Board Games,Vintage Toys,Good,Cash on Delivery,Cancelled,Maria Aquino,1231.12,5,29.0,3.6,409.18,2026-03-30 00:00,2026-04-05 00:00
+ORD2551,Board Games,Gundam,Good,PayPal,Shipped,Anna Garcia,4905.06,1,13.6,1.2,48.78,2026-03-07 00:00,2026-03-08 00:00
+ORD2552,Vinyl Records,Marvel,Mint,Cash on Delivery,Pending,Paolo Reyes,9938.24,7,24.2,2.9,93.74,2026-04-03 00:00,2026-04-05 00:00
+ORD2553,Trading Cards,Vintage Toys,Used,Cash on Delivery,Shipped,Victor Aquino,11190.67,6,32.9,2.0,401.14,2026-04-07 00:00,2026-04-08 00:00
+ORD2554,Model Kits,Star Wars,Mint,Cash on Delivery,Delivered,Ella Cruz,11856.79,9,6.7,1.5,140.86,2026-04-10 00:00,2026-04-16 00:00
+ORD2555,Board Games,Anime,Near Mint,GCash,Shipped,Victor Reyes,14769.58,3,23.7,1.6,388.66,2026-04-21 00:00,2026-04-23 00:00
+ORD2556,Board Games,Star Wars,Near Mint,Cash on Delivery,Delivered,Maria Garcia,2406.21,3,38.4,1.8,141.36,2026-04-13 00:00,2026-04-16 00:00
+ORD2557,Vinyl Records,Star Wars,Near Mint,Cash on Delivery,Shipped,Victor Garcia,5561.28,5,27.1,4.0,132.61,2026-04-21 00:00,2026-04-25 00:00
+ORD2558,Board Games,Pokemon,Used,Credit Card,Delivered,Miguel Aquino,5262.08,5,8.5,4.5,108.49,2026-03-27 00:00,2026-03-30 00:00
+ORD2559,Model Kits,Vintage Toys,Mint,PayPal,Cancelled,Jose Mendoza,4841.02,1,36.3,3.6,77.42,2026-03-22 00:00,2026-03-30 00:00
+ORD2560,Trading Cards,Gundam,Mint,Credit Card,Delivered,Victor Torres,4439.55,2,4.0,5.0,228.43,2026-04-28 00:00,2026-04-29 00:00
+ORD2561,Action Figures,Pokemon,Damaged,GCash,Returned,Faith Aquino,3752.11,9,9.6,2.6,154.17,2026-03-10 00:00,2026-03-16 00:00
+ORD2562,Vinyl Records,Pokemon,Near Mint,GCash,Delivered,Victor Cruz,180.73,4,29.4,1.5,427.14,2026-03-12 00:00,2026-03-20 00:00
+ORD2563,Action Figures,Gundam,Damaged,Credit Card,Delivered,Paolo Castillo,6250.45,5,4.5,2.2,458.38,2026-04-29 00:00,2026-05-02 00:00
+ORD2564,Vinyl Records,Vintage Toys,Mint,Bank Transfer,Delivered,Diego Garcia,6419.43,1,16.5,2.7,470.59,2026-04-05 00:00,2026-04-14 00:00
+ORD2565,Action Figures,Marvel,Good,Credit Card,Pending,Jose Santos,2970.64,1,39.1,2.8,74.05,2026-03-06 00:00,2026-03-10 00:00
+ORD2566,Trading Cards,Gundam,Damaged,GCash,Delivered,Diego Garcia,14974.85,5,20.2,2.8,425.31,2026-04-12 00:00,2026-04-18 00:00
+ORD2567,Action Figures,Pokemon,Near Mint,PayPal,Delivered,Miguel Cruz,11664.95,3,19.6,4.4,335.05,2026-04-04 00:00,2026-04-13 00:00
+ORD2568,Model Kits,Pokemon,Good,PayPal,Cancelled,Ramon Cruz,11486.93,4,2.8,4.9,480.4,2026-03-05 00:00,2026-03-11 00:00
+ORD2569,Action Figures,Pokemon,Near Mint,Credit Card,Delivered,Ramon Santos,11996.64,2,35.2,3.0,426.49,2026-04-10 00:00,2026-04-18 00:00
+ORD2570,Vinyl Records,Vintage Toys,Good,Cash on Delivery,Cancelled,Hazel Cruz,10416.98,7,18.9,1.2,62.64,2026-04-09 00:00,2026-04-12 00:00
+ORD2571,Board Games,Anime,Mint,PayPal,Shipped,Faith Bautista,9292.62,9,1.6,3.9,237.92,2026-04-19 00:00,2026-04-27 00:00
+ORD2572,Model Kits,Star Wars,Damaged,Cash on Delivery,Shipped,Bea Bautista,7833.51,9,27.0,4.7,329.97,2026-03-12 00:00,2026-03-20 00:00
+ORD2573,Trading Cards,Marvel,Mint,GCash,Shipped,Miguel Mendoza,9268.88,4,34.4,2.6,80.43,2026-03-23 00:00,2026-03-24 00:00
+ORD2574,Vinyl Records,Vintage Toys,Mint,Cash on Delivery,Returned,Victor Cruz,8037.42,6,7.5,4.7,268.32,2026-03-07 00:00,2026-03-16 00:00
+ORD2575,Model Kits,Anime,Mint,GCash,Delivered,Faith Castillo,6518.77,2,11.7,1.5,441.93,2026-03-05 00:00,2026-03-06 00:00
+ORD2576,Model Kits,Vintage Toys,Mint,Cash on Delivery,Delivered,Miguel Torres,3570.16,5,35.0,1.7,360.68,2026-04-02 00:00,2026-04-06 00:00
+ORD2577,Vinyl Records,Star Wars,Used,Credit Card,Delivered,Victor Diaz,1280.58,6,12.3,4.6,306.61,2026-03-28 00:00,2026-03-29 00:00
+ORD2578,Model Kits,Star Wars,Damaged,Bank Transfer,Delivered,Carlos Torres,9751.09,2,3.5,4.1,356.03,2026-04-03 00:00,2026-04-10 00:00
+ORD2579,Model Kits,Pokemon,Mint,GCash,Delivered,Anna Garcia,147.65,4,7.4,2.5,313.6,2026-04-12 00:00,2026-04-16 00:00
+ORD2580,Model Kits,Anime,Used,Bank Transfer,Shipped,Nina Aquino,3839.11,7,33.5,3.3,88.73,2026-04-16 00:00,2026-04-21 00:00
+ORD2581,Action Figures,Gundam,Near Mint,GCash,Delivered,Faith Aquino,8856.39,7,2.7,1.9,489.44,2026-03-30 00:00,2026-04-06 00:00
+ORD2582,Vinyl Records,Marvel,Good,Credit Card,Delivered,Victor Bautista,14535.37,7,18.2,2.3,79.88,2026-03-12 00:00,2026-03-16 00:00
+ORD2583,Model Kits,Vintage Toys,Near Mint,PayPal,Delivered,Diego Torres,254.26,7,9.3,3.2,28.66,2026-04-03 00:00,2026-04-07 00:00
+ORD2584,Board Games,Anime,Mint,Credit Card,Delivered,Jose Mendoza,7112.52,8,12.6,3.9,334.5,2026-04-05 00:00,2026-04-07 00:00
+ORD2585,Vinyl Records,Anime,Near Mint,Cash on Delivery,Shipped,Carlos Reyes,355.94,5,5.0,1.4,346.13,2026-04-21 00:00,2026-04-30 00:00
+ORD2586,Vinyl Records,Star Wars,Used,Credit Card,Shipped,Paolo Torres,14185.89,4,21.8,3.2,305.28,2026-04-17 00:00,2026-04-24 00:00
+ORD2587,Vinyl Records,Anime,Good,Bank Transfer,Delivered,Marco Castillo,7159.83,3,9.4,1.7,45.53,2026-03-06 00:00,2026-03-07 00:00
+ORD2588,Action Figures,Pokemon,Near Mint,PayPal,Shipped,Faith Torres,8134.61,8,26.3,2.9,155.16,2026-04-19 00:00,2026-04-21 00:00
+ORD2589,Action Figures,Vintage Toys,Used,PayPal,Delivered,Anna Flores,1409.05,6,24.9,4.4,349.59,2026-04-22 00:00,2026-04-27 00:00
+ORD2590,Model Kits,Star Wars,Good,GCash,Delivered,Diego Garcia,5377.69,7,23.9,1.8,464.93,2026-03-15 00:00,2026-03-17 00:00
+ORD2591,Board Games,Gundam,Good,GCash,Pending,Carlos Torres,81.47,1,28.3,1.0,193.19,2026-03-23 00:00,2026-04-01 00:00
+ORD2592,Model Kits,Anime,Near Mint,PayPal,Pending,Grace Aquino,5311.74,5,34.5,3.7,193.84,2026-03-21 00:00,2026-03-29 00:00
+ORD2593,Vinyl Records,Vintage Toys,Used,PayPal,Delivered,Anna Mendoza,7070.74,4,16.2,1.4,93.14,2026-03-20 00:00,2026-03-22 00:00
+ORD2594,Vinyl Records,Anime,Good,Bank Transfer,Delivered,Diego Ramos,3310.7,1,13.5,2.0,194.11,2026-03-31 00:00,2026-04-05 00:00
+ORD2595,Action Figures,Marvel,Used,GCash,Delivered,Hazel Garcia,4128.09,6,18.0,4.6,299.84,2026-03-15 00:00,2026-03-19 00:00
+ORD2596,Vinyl Records,Vintage Toys,Good,Credit Card,Delivered,Anna Castillo,13836.93,5,5.2,1.2,25.19,2026-04-02 00:00,2026-04-09 00:00
+ORD2597,Trading Cards,Anime,Good,Bank Transfer,Shipped,Faith Torres,5340.98,6,31.5,1.7,179.93,2026-04-21 00:00,2026-04-22 00:00
+ORD2598,Board Games,Anime,Good,Credit Card,Delivered,Victor Reyes,8918.24,3,33.7,2.8,375.83,2026-04-14 00:00,2026-04-18 00:00
+ORD2599,Board Games,Gundam,Mint,Bank Transfer,Delivered,Liza Santos,8049.72,2,26.8,3.8,104.21,2026-04-12 00:00,2026-04-17 00:00
+ORD2600,Trading Cards,Gundam,Near Mint,Cash on Delivery,Shipped,Carlos Bautista,14238.74,3,19.3,5.0,160.62,2026-04-14 00:00,2026-04-18 00:00
+ORD2601,Trading Cards,Vintage Toys,Mint,Credit Card,Delivered,Bea Garcia,13568.57,6,37.8,2.7,470.55,2026-03-25 00:00,2026-03-27 00:00
+ORD2602,Trading Cards,Pokemon,Mint,Bank Transfer,Delivered,Ramon Bautista,1670.0,7,19.2,3.1,98.26,2026-03-30 00:00,2026-04-01 00:00
+ORD2603,Board Games,Gundam,Good,PayPal,Delivered,Faith Santos,13895.1,9,20.1,2.1,121.11,2026-04-08 00:00,2026-04-14 00:00
+ORD2604,Model Kits,Anime,Used,Cash on Delivery,Delivered,Victor Ramos,9874.54,9,25.3,4.3,326.04,2026-04-07 00:00,2026-04-15 00:00
+ORD2605,Action Figures,Pokemon,Used,Credit Card,Returned,Maria Torres,13109.59,5,38.9,4.8,378.82,2026-03-13 00:00,2026-03-20 00:00
+ORD2606,Model Kits,Gundam,Mint,GCash,Cancelled,Miguel Mendoza,11416.46,7,29.2,3.3,328.95,2026-04-03 00:00,2026-04-11 00:00
+ORD2607,Action Figures,Gundam,Mint,Cash on Delivery,Delivered,Ella Reyes,8551.91,6,10.3,1.5,327.25,2026-03-08 00:00,2026-03-15 00:00
+ORD2608,Trading Cards,Star Wars,Used,Bank Transfer,Delivered,Paolo Bautista,3423.15,9,6.3,3.7,386.83,2026-04-16 00:00,2026-04-18 00:00
+ORD2609,Vinyl Records,Gundam,Mint,Bank Transfer,Delivered,Grace Reyes,4578.32,6,5.8,4.6,61.32,2026-04-05 00:00,2026-04-09 00:00
+ORD2610,Action Figures,Pokemon,Used,Cash on Delivery,Cancelled,Anna Diaz,5335.78,6,12.0,4.6,19.12,2026-03-19 00:00,2026-03-28 00:00
+ORD2611,Model Kits,Anime,Mint,GCash,Pending,Ella Garcia,11971.25,9,4.0,2.2,244.01,2026-03-04 00:00,2026-03-12 00:00
+ORD2612,Vinyl Records,Vintage Toys,Used,Credit Card,Pending,Hazel Bautista,3237.8,2,33.3,3.1,122.62,2026-04-07 00:00,2026-04-14 00:00
+ORD2613,Vinyl Records,Anime,Good,Bank Transfer,Shipped,Paolo Ramos,7669.79,9,20.7,2.6,201.66,2026-03-17 00:00,2026-03-18 00:00
+ORD2614,Trading Cards,Pokemon,Mint,Bank Transfer,Cancelled,Grace Mendoza,9602.39,9,4.2,2.7,233.32,2026-04-13 00:00,2026-04-17 00:00
+ORD2615,Board Games,Vintage Toys,Mint,GCash,Returned,Ella Reyes,3216.7,3,11.0,1.2,344.11,2026-04-21 00:00,2026-04-22 00:00
+ORD2616,Action Figures,Anime,Good,PayPal,Delivered,Paolo Bautista,9789.06,2,27.0,4.1,68.85,2026-04-07 00:00,2026-04-11 00:00
+ORD2617,Vinyl Records,Gundam,Mint,PayPal,Cancelled,Diego Aquino,9499.99,1,22.2,3.9,47.02,2026-03-30 00:00,2026-03-31 00:00
+ORD2618,Trading Cards,Vintage Toys,Used,Cash on Delivery,Returned,Maria Garcia,9232.91,9,28.7,3.6,103.32,2026-03-02 00:00,2026-03-11 00:00
+ORD2619,Model Kits,Star Wars,Near Mint,Bank Transfer,Delivered,Jose Diaz,14843.7,4,15.3,2.6,401.52,2026-04-27 00:00,2026-05-05 00:00
+ORD2620,Trading Cards,Anime,Mint,Credit Card,Shipped,Nina Cruz,8467.74,8,3.2,1.8,270.19,2026-04-01 00:00,2026-03-03 00:00
+ORD2621,Vinyl Records,Anime,Good,Bank Transfer,Delivered,Maria Bautista,192.99,6,16.6,4.2,102.23,2026-04-05 00:00,2026-04-14 00:00
+ORD2622,Model Kits,Marvel,Used,GCash,Delivered,Carlos Mendoza,5201.0,9,24.5,4.8,409.97,2026-04-01 00:00,2026-04-07 00:00
+ORD2623,Model Kits,Gundam,Good,Cash on Delivery,Shipped,Anna Santos,13814.51,4,21.0,1.7,321.95,2026-04-23 00:00,2026-04-28 00:00
+ORD2624,Action Figures,Pokemon,Mint,PayPal,Returned,Jose Ramos,14270.75,2,14.4,2.4,488.05,2026-04-18 00:00,2026-04-23 00:00
+ORD2625,Model Kits,Vintage Toys,Damaged,Credit Card,Delivered,Jose Torres,3818.34,5,28.0,2.0,88.47,2026-03-03 00:00,2026-03-05 00:00
+ORD2626,Trading Cards,Anime,Mint,PayPal,Shipped,Grace Reyes,5734.02,3,12.2,2.4,354.46,2026-03-25 00:00,2026-03-28 00:00
+ORD2627,Vinyl Records,Pokemon,Mint,PayPal,Delivered,Jose Torres,677.26,9,11.1,4.5,39.73,2026-04-02 00:00,2026-04-04 00:00
+ORD2628,Action Figures,Vintage Toys,Mint,Credit Card,Delivered,Hazel Diaz,8504.53,2,30.9,3.2,253.74,2026-03-06 00:00,2026-03-08 00:00
+ORD2629,Trading Cards,Vintage Toys,Near Mint,GCash,Delivered,Nina Diaz,14429.79,6,9.8,1.6,449.57,2026-04-22 00:00,2026-04-26 00:00
+ORD2630,Model Kits,Gundam,Used,Cash on Delivery,Delivered,Bea Santos,124.1,7,33.5,1.2,428.84,2026-04-21 00:00,2026-04-26 00:00
+ORD2631,Action Figures,Gundam,Mint,Credit Card,Delivered,Faith Castillo,1859.57,6,35.1,3.4,231.32,2026-04-25 00:00,2026-04-26 00:00
+ORD2632,Vinyl Records,Star Wars,Used,Cash on Delivery,Shipped,Jose Bautista,3187.7,8,32.6,2.6,308.68,2026-03-22 00:00,2026-03-31 00:00
+ORD2633,Board Games,Gundam,Good,GCash,Delivered,Jose Santos,12359.05,9,8.3,1.9,197.27,2026-04-26 00:00,2026-05-02 00:00
+ORD2634,Trading Cards,Star Wars,Used,GCash,Delivered,Liza Bautista,11316.69,7,4.1,3.3,296.97,2026-04-19 00:00,2026-04-26 00:00
+ORD2635,Action Figures,Pokemon,Damaged,Credit Card,Returned,Jose Castillo,5514.88,9,13.7,5.0,195.21,2026-04-10 00:00,2026-04-19 00:00
+ORD2636,Board Games,Anime,Good,GCash,Shipped,Carlos Ramos,4334.0,5,33.5,2.4,307.82,2026-04-07 00:00,2026-04-10 00:00
+ORD2637,Trading Cards,Vintage Toys,Near Mint,Bank Transfer,Shipped,Nina Flores,10432.26,3,29.0,3.4,431.27,2026-04-20 00:00,2026-04-29 00:00
+ORD2638,Board Games,Vintage Toys,Good,Bank Transfer,Pending,Nina Aquino,666.38,6,11.5,1.4,324.9,2026-04-09 00:00,2026-04-14 00:00
+ORD2639,Action Figures,Anime,Near Mint,Credit Card,Delivered,Miguel Aquino,2573.26,4,12.2,2.0,90.33,2026-04-13 00:00,2026-04-21 00:00
+ORD2640,Model Kits,Anime,Damaged,Bank Transfer,Delivered,Carlos Torres,11526.68,9,22.5,4.9,256.21,2026-03-09 00:00,2026-03-16 00:00
+ORD2641,Action Figures,Star Wars,Good,GCash,Shipped,Victor Castillo,330.2,7,9.9,3.2,327.17,2026-03-01 00:00,2026-03-02 00:00
+ORD2642,Trading Cards,Star Wars,Used,Bank Transfer,Shipped,Diego Garcia,14261.09,3,1.8,1.9,219.12,2026-04-04 00:00,2026-04-08 00:00
+ORD2643,Board Games,Anime,Damaged,PayPal,Delivered,Paolo Ramos,6171.24,2,22.5,1.5,19.3,2026-04-25 00:00,2026-05-03 00:00
+ORD2644,Trading Cards,Vintage Toys,Near Mint,Cash on Delivery,Returned,Ramon Santos,14774.44,8,14.2,4.8,349.33,2026-03-04 00:00,2026-03-11 00:00
+ORD2645,Model Kits,Marvel,Near Mint,Cash on Delivery,Delivered,Ella Flores,4993.41,8,26.0,3.7,262.02,2026-03-15 00:00,2026-03-17 00:00
+ORD2646,Vinyl Records,Gundam,Near Mint,GCash,Delivered,Marco Bautista,12965.44,2,29.8,1.0,359.48,2026-04-22 00:00,2026-04-28 00:00
+ORD2647,Action Figures,Gundam,Good,PayPal,Delivered,Ramon Castillo,3327.85,6,2.8,3.7,494.27,2026-03-20 00:00,2026-03-24 00:00
+ORD2648,Trading Cards,Pokemon,Good,PayPal,Returned,Carlos Aquino,6566.65,7,31.8,2.1,166.45,2026-04-12 00:00,2026-04-13 00:00
+ORD2649,Trading Cards,Vintage Toys,Good,Bank Transfer,Shipped,Hazel Torres,10650.44,2,8.1,1.3,221.49,2026-03-28 00:00,2026-04-03 00:00
+ORD2650,Action Figures,Pokemon,Mint,Bank Transfer,Delivered,Diego Ramos,4389.6,3,31.3,3.7,363.52,2026-04-02 00:00,2026-04-07 00:00
+ORD2651,Trading Cards,Star Wars,Damaged,PayPal,Cancelled,Ella Cruz,4213.98,6,15.5,3.2,16.8,2026-03-30 00:00,2026-04-08 00:00
+ORD2652,Board Games,Anime,Good,PayPal,Delivered,Nina Reyes,8468.31,1,14.2,3.9,355.57,2026-03-02 00:00,2026-03-09 00:00
+ORD2653,Action Figures,Marvel,Used,GCash,Delivered,Hazel Flores,12188.24,9,16.2,4.7,281.1,2026-03-12 00:00,2026-03-17 00:00
+ORD2654,Trading Cards,Vintage Toys,Good,Credit Card,Delivered,Julius Reyes,14549.72,1,36.9,3.0,461.64,2026-03-07 00:00,2026-03-09 00:00
+ORD2655,Vinyl Records,Star Wars,Good,Bank Transfer,Delivered,Marco Castillo,1245.63,9,30.7,3.2,110.46,2026-04-26 00:00,2026-04-28 00:00
+ORD2656,Trading Cards,Marvel,Near Mint,Credit Card,Delivered,Diego Aquino,3025.04,8,23.7,1.3,455.87,2026-03-24 00:00,2026-04-02 00:00
+ORD2657,Vinyl Records,Gundam,Used,PayPal,Returned,Diego Torres,6600.62,5,8.3,2.1,47.07,2026-04-01 00:00,2026-04-02 00:00
+ORD2658,Trading Cards,Gundam,Good,Cash on Delivery,Delivered,Ella Mendoza,12760.54,9,10.6,3.2,484.44,2026-04-28 00:00,2026-05-01 00:00
+ORD2659,Trading Cards,Gundam,Good,GCash,Delivered,Victor Aquino,5661.99,7,37.5,3.3,169.06,2026-03-28 00:00,2026-03-31 00:00
+ORD2660,Action Figures,Vintage Toys,Good,Bank Transfer,Delivered,Ella Mendoza,6412.03,4,11.5,3.5,430.63,2026-03-28 00:00,2026-04-03 00:00
+ORD2661,Vinyl Records,Marvel,Used,Bank Transfer,Shipped,Maria Castillo,14184.66,7,37.6,3.2,456.58,2026-04-15 00:00,2026-04-21 00:00
+ORD2662,Trading Cards,Anime,Mint,Bank Transfer,Returned,Julius Garcia,14956.22,2,2.0,4.0,76.25,2026-04-26 00:00,2026-04-30 00:00
+ORD2663,Trading Cards,Vintage Toys,Mint,GCash,Delivered,Diego Garcia,1009.22,9,28.6,1.3,389.41,2026-03-01 00:00,2026-03-06 00:00
+ORD2664,Trading Cards,Vintage Toys,Near Mint,PayPal,Shipped,Maria Diaz,5794.13,9,8.4,2.3,452.39,2026-04-28 00:00,2026-05-06 00:00
+ORD2665,Action Figures,Pokemon,Good,PayPal,Delivered,Bea Ramos,11945.09,1,38.9,2.6,218.9,2026-04-27 00:00,2026-05-06 00:00
+ORD2666,Vinyl Records,Pokemon,Used,Credit Card,Delivered,Ramon Santos,4331.38,6,27.2,2.5,391.77,2026-03-10 00:00,2026-03-19 00:00
+ORD2667,Board Games,Gundam,Used,Cash on Delivery,Returned,Grace Diaz,4042.43,7,23.5,3.7,95.47,2026-03-20 00:00,2026-03-25 00:00
+ORD2668,Action Figures,Star Wars,Near Mint,GCash,Returned,Bea Diaz,497.14,4,21.0,2.8,463.85,2026-03-10 00:00,2026-03-15 00:00
+ORD2669,Action Figures,Pokemon,Used,GCash,Delivered,Julius Aquino,9928.36,1,36.2,3.6,485.58,2026-04-17 00:00,2026-04-23 00:00
+ORD2670,Model Kits,Gundam,Mint,GCash,Delivered,Julius Garcia,9760.82,4,31.3,3.9,50.19,2026-03-31 00:00,2026-04-03 00:00
+ORD2671,Trading Cards,Gundam,Mint,Cash on Delivery,Cancelled,Jose Aquino,2710.06,5,37.2,1.9,471.86,2026-03-24 00:00,2026-03-25 00:00
+ORD2672,Model Kits,Anime,Good,Credit Card,Delivered,Maria Flores,1041.57,5,1.9,4.8,425.26,2026-03-04 00:00,2026-03-11 00:00
+ORD2673,Vinyl Records,Gundam,Good,Bank Transfer,Shipped,Grace Flores,10907.95,4,0.4,2.9,128.25,2026-03-13 00:00,2026-03-20 00:00
+ORD2674,Trading Cards,Pokemon,Used,Credit Card,Delivered,Bea Bautista,11927.66,7,20.0,2.1,407.84,2026-03-09 00:00,2026-03-13 00:00
+ORD2675,Vinyl Records,Gundam,Mint,Credit Card,Delivered,Liza Reyes,12871.64,7,15.6,3.1,354.11,2026-04-24 00:00,2026-04-26 00:00
+ORD2676,Trading Cards,Gundam,Good,Bank Transfer,Delivered,Julius Garcia,9930.75,6,7.8,1.6,404.88,2026-03-29 00:00,2026-04-04 00:00
+ORD2677,Vinyl Records,Vintage Toys,Mint,Credit Card,Delivered,Diego Ramos,9407.99,3,32.7,4.3,388.81,2026-04-04 00:00,2026-03-29 00:00
+ORD2678,Board Games,Star Wars,Mint,Bank Transfer,Delivered,Faith Garcia,13994.38,1,7.4,3.9,223.83,2026-04-25 00:00,2026-04-30 00:00
+ORD2679,Action Figures,Star Wars,Used,Cash on Delivery,Delivered,Faith Cruz,8634.42,6,15.4,4.9,193.79,2026-04-09 00:00,2026-04-15 00:00
+ORD2680,Model Kits,Vintage Toys,Damaged,PayPal,Delivered,Victor Reyes,11219.59,4,22.4,4.3,416.62,2026-03-28 00:00,2026-03-31 00:00
+ORD2681,Board Games,Gundam,Damaged,GCash,Returned,Nina Garcia,9433.2,2,30.7,2.7,83.89,2026-03-20 00:00,2026-03-27 00:00
+ORD2682,Model Kits,Star Wars,Mint,Cash on Delivery,Delivered,Bea Torres,13040.15,9,32.0,3.9,275.72,2026-03-21 00:00,2026-03-25 00:00
+ORD2683,Action Figures,Star Wars,Mint,Cash on Delivery,Delivered,Diego Ramos,14855.95,6,16.6,2.7,61.04,2026-03-03 00:00,2026-03-09 00:00
+ORD2684,Vinyl Records,Gundam,Damaged,GCash,Shipped,Jose Aquino,10244.23,2,12.1,1.2,443.83,2026-03-08 00:00,2026-03-09 00:00
+ORD2685,Action Figures,Anime,Used,Credit Card,Delivered,Hazel Castillo,2262.85,6,3.2,3.6,267.67,2026-04-17 00:00,2026-04-19 00:00
+ORD2686,Board Games,Pokemon,Mint,Cash on Delivery,Shipped,Paolo Garcia,11300.24,4,18.5,4.4,251.02,2026-04-21 00:00,2026-04-24 00:00
+ORD2687,Trading Cards,Gundam,Used,GCash,Returned,Carlos Santos,9544.04,9,15.0,2.0,49.42,2026-04-02 00:00,2026-04-05 00:00
+ORD2688,Board Games,Star Wars,Near Mint,GCash,Shipped,Grace Garcia,2208.83,1,0.7,1.2,148.73,2026-03-27 00:00,2026-03-28 00:00
+ORD2689,Board Games,Vintage Toys,Damaged,GCash,Shipped,Nina Aquino,2764.55,1,20.4,4.7,490.95,2026-03-25 00:00,2026-03-31 00:00
+ORD2690,Action Figures,Marvel,Damaged,Cash on Delivery,Returned,Ramon Flores,8482.96,2,22.5,4.9,33.51,2026-04-03 00:00,2026-05-06 00:00
+ORD2691,Vinyl Records,Star Wars,Near Mint,Cash on Delivery,Shipped,Paolo Garcia,4959.58,9,19.4,1.7,110.3,2026-03-17 00:00,2026-03-20 00:00
+ORD2692,Model Kits,Star Wars,Mint,Credit Card,Delivered,Ella Torres,12958.32,1,2.1,2.6,494.28,2026-04-11 00:00,2026-04-13 00:00
+ORD2693,Vinyl Records,Pokemon,Good,Cash on Delivery,Pending,Paolo Reyes,10380.32,2,23.6,2.4,307.83,2026-03-10 00:00,2026-03-12 00:00
+ORD2694,Trading Cards,Pokemon,Good,Bank Transfer,Delivered,Ella Reyes,13552.71,1,5.0,4.0,216.64,2026-03-17 00:00,2026-03-25 00:00
+ORD2695,Board Games,Anime,Near Mint,Credit Card,Delivered,Carlos Reyes,12421.92,7,20.1,4.7,353.77,2026-04-11 00:00,2026-04-19 00:00
+ORD2696,Action Figures,Vintage Toys,Used,Credit Card,Shipped,Marco Torres,8362.09,4,35.8,3.7,144.51,2026-03-21 00:00,2026-03-30 00:00
+ORD2697,Model Kits,Anime,Mint,Bank Transfer,Returned,Carlos Torres,2883.64,6,18.6,3.7,42.09,2026-04-15 00:00,2026-04-18 00:00
+ORD2698,Trading Cards,Marvel,Mint,PayPal,Cancelled,Julius Castillo,7097.76,7,34.4,1.8,2.76,2026-04-29 00:00,2026-05-02 00:00
+ORD2699,Vinyl Records,Pokemon,Good,GCash,Delivered,Anna Bautista,8548.86,3,33.8,2.3,30.43,2026-03-07 00:00,2026-03-15 00:00
+ORD2700,Action Figures,Gundam,Good,Cash on Delivery,Delivered,Diego Torres,10242.78,8,26.8,3.4,333.28,2026-03-17 00:00,2026-03-18 00:00
+ORD2701,Board Games,Star Wars,Good,Credit Card,Returned,Jose Castillo,13904.14,2,16.2,3.3,105.83,2026-04-09 00:00,2026-04-16 00:00
+ORD2702,Model Kits,Gundam,Damaged,GCash,Pending,Diego Garcia,8345.44,6,12.8,4.1,194.26,2026-04-03 00:00,2026-04-08 00:00
+ORD2703,Action Figures,Vintage Toys,Good,Bank Transfer,Delivered,Diego Cruz,12131.97,2,16.9,3.5,280.43,2026-03-23 00:00,2026-03-27 00:00
+ORD2704,Board Games,Marvel,Mint,PayPal,Pending,Liza Santos,1795.45,7,3.7,3.1,33.18,2026-03-31 00:00,2026-04-08 00:00
+ORD2705,Board Games,Star Wars,Good,GCash,Delivered,Hazel Mendoza,3427.69,3,14.7,4.1,466.71,2026-03-08 00:00,2026-03-16 00:00
+ORD2706,Board Games,Star Wars,Near Mint,Cash on Delivery,Pending,Faith Diaz,11221.52,7,15.7,2.7,470.95,2026-04-07 00:00,2026-04-09 00:00
+ORD2707,Model Kits,Marvel,Used,Bank Transfer,Pending,Ella Cruz,9820.07,7,32.5,3.1,164.29,2026-04-22 00:00,2026-04-23 00:00
+ORD2708,Action Figures,Star Wars,Damaged,Bank Transfer,Delivered,Faith Aquino,7695.63,3,18.8,3.4,473.46,2026-04-21 00:00,2026-04-23 00:00
+ORD2709,Trading Cards,Gundam,Damaged,Credit Card,Delivered,Liza Bautista,1407.66,6,21.7,4.8,359.7,2026-04-28 00:00,2026-05-01 00:00
+ORD2710,Model Kits,Gundam,Good,PayPal,Returned,Hazel Aquino,3349.76,6,17.2,4.0,198.23,2026-03-09 00:00,2026-03-10 00:00
+ORD2711,Board Games,Marvel,Mint,Cash on Delivery,Delivered,Jose Aquino,4855.29,5,7.2,4.0,305.82,2026-04-20 00:00,2026-04-22 00:00
+ORD2712,Model Kits,Gundam,Mint,Cash on Delivery,Shipped,Ramon Mendoza,8770.46,5,22.8,4.7,312.26,2026-04-06 00:00,2026-04-14 00:00
+ORD2713,Model Kits,Marvel,Used,Cash on Delivery,Delivered,Victor Castillo,11298.54,3,4.6,1.1,135.88,2026-04-03 00:00,2026-04-07 00:00
+ORD2714,Model Kits,Star Wars,Good,Cash on Delivery,Delivered,Hazel Santos,10827.91,9,12.1,2.9,403.97,2026-04-01 00:00,2026-04-06 00:00
+ORD2715,Board Games,Pokemon,Near Mint,PayPal,Returned,Paolo Castillo,14360.92,8,22.5,2.8,333.14,2026-03-29 00:00,2026-04-06 00:00
+ORD2716,Board Games,Star Wars,Mint,PayPal,Delivered,Grace Flores,2322.47,3,38.6,3.8,194.11,2026-03-17 00:00,2026-03-21 00:00
+ORD2717,Board Games,Pokemon,Used,Credit Card,Shipped,Hazel Aquino,2833.57,8,22.7,1.3,31.73,2026-03-09 00:00,2026-03-18 00:00
+ORD2718,Model Kits,Marvel,Mint,Credit Card,Pending,Diego Castillo,3277.48,6,16.4,4.8,105.26,2026-04-22 00:00,2026-04-30 00:00
+ORD2719,Board Games,Marvel,Good,PayPal,Delivered,Carlos Santos,9894.32,1,30.1,2.3,79.13,2026-03-13 00:00,2026-03-14 00:00
+ORD2720,Board Games,Star Wars,Near Mint,Bank Transfer,Shipped,Carlos Flores,13870.61,3,3.3,4.3,267.37,2026-03-14 00:00,2026-03-23 00:00
+ORD2721,Vinyl Records,Gundam,Good,GCash,Shipped,Carlos Santos,13912.72,3,29.5,3.6,462.04,2026-03-28 00:00,2026-03-29 00:00
+ORD2722,Vinyl Records,Vintage Toys,Near Mint,GCash,Delivered,Ramon Cruz,14990.98,8,35.5,4.1,223.24,2026-03-07 00:00,2026-03-10 00:00
+ORD2723,Model Kits,Star Wars,Mint,Bank Transfer,Shipped,Diego Torres,11346.41,9,10.7,3.6,175.29,2026-03-24 00:00,2026-03-31 00:00
+ORD2724,Model Kits,Star Wars,Mint,Cash on Delivery,Delivered,Anna Santos,5123.03,4,18.3,3.6,464.24,2026-04-04 00:00,2026-04-02 00:00
+ORD2725,Action Figures,Pokemon,Mint,GCash,Delivered,Victor Santos,850.3,1,25.7,1.7,424.26,2026-04-09 00:00,2026-04-17 00:00
+ORD2726,Vinyl Records,Vintage Toys,Mint,Bank Transfer,Delivered,Maria Aquino,14481.76,5,3.1,3.4,459.76,2026-04-04 00:00,2026-03-25 00:00
+ORD2727,Board Games,Anime,Near Mint,GCash,Delivered,Ella Cruz,7046.23,9,18.3,3.3,15.99,2026-04-10 00:00,2026-04-12 00:00
+ORD2728,Vinyl Records,Vintage Toys,Damaged,Bank Transfer,Pending,Julius Mendoza,9252.47,9,12.2,3.4,339.41,2026-04-28 00:00,2026-05-06 00:00
+ORD2729,Model Kits,Star Wars,Near Mint,GCash,Delivered,Carlos Bautista,13154.14,3,30.8,1.3,385.55,2026-03-15 00:00,2026-03-17 00:00
+ORD2730,Trading Cards,Anime,Mint,Credit Card,Delivered,Diego Diaz,13846.6,4,28.2,2.3,441.82,2026-04-19 00:00,2026-04-28 00:00
+ORD2731,Model Kits,Star Wars,Mint,PayPal,Shipped,Faith Cruz,4167.24,1,29.5,2.2,142.92,2026-03-20 00:00,2026-03-27 00:00
+ORD2732,Model Kits,Gundam,Mint,GCash,Pending,Hazel Diaz,4772.08,1,7.4,4.6,375.37,2026-03-25 00:00,2026-03-26 00:00
+ORD2733,Vinyl Records,Marvel,Good,Bank Transfer,Pending,Faith Diaz,7362.27,6,18.5,3.4,54.25,2026-04-21 00:00,2026-04-23 00:00
+ORD2734,Vinyl Records,Anime,Mint,PayPal,Delivered,Liza Mendoza,14231.48,9,29.9,4.1,229.05,2026-03-24 00:00,2026-04-01 00:00
+ORD2735,Trading Cards,Pokemon,Good,GCash,Delivered,Anna Bautista,12664.69,4,19.2,3.2,280.34,2026-04-08 00:00,2026-04-16 00:00
+ORD2736,Trading Cards,Anime,Near Mint,Bank Transfer,Shipped,Carlos Mendoza,9174.77,1,7.3,3.3,214.96,2026-03-08 00:00,2026-03-17 00:00
+ORD2737,Trading Cards,Marvel,Good,Cash on Delivery,Cancelled,Grace Diaz,5959.14,2,34.7,1.8,339.83,2026-04-16 00:00,2026-04-20 00:00
+ORD2738,Vinyl Records,Gundam,Mint,Cash on Delivery,Delivered,Julius Aquino,3186.09,4,8.3,4.9,471.54,2026-04-27 00:00,2026-04-30 00:00
+ORD2739,Board Games,Anime,Mint,Credit Card,Delivered,Bea Reyes,788.67,1,13.4,2.8,2.62,2026-03-21 00:00,2026-03-26 00:00
+ORD2740,Action Figures,Anime,Mint,Cash on Delivery,Returned,Bea Mendoza,14840.46,5,12.8,2.2,339.57,2026-03-27 00:00,2026-03-30 00:00
+ORD2741,Model Kits,Gundam,Good,Bank Transfer,Delivered,Maria Diaz,11244.14,8,30.1,3.6,115.07,2026-04-23 00:00,2026-04-28 00:00
+ORD2742,Action Figures,Marvel,Damaged,GCash,Returned,Liza Torres,8903.12,2,39.0,1.2,222.12,2026-04-17 00:00,2026-04-24 00:00
+ORD2743,Model Kits,Gundam,Near Mint,PayPal,Delivered,Miguel Aquino,7642.86,7,22.9,3.7,453.01,2026-03-09 00:00,2026-03-10 00:00
+ORD2744,Board Games,Star Wars,Near Mint,Cash on Delivery,Returned,Liza Aquino,13556.95,4,39.0,2.9,138.29,2026-04-15 00:00,2026-04-19 00:00
+ORD2745,Model Kits,Pokemon,Mint,Bank Transfer,Returned,Bea Santos,6436.66,5,36.1,4.0,7.11,2026-04-17 00:00,2026-04-20 00:00
+ORD2746,Action Figures,Star Wars,Damaged,GCash,Delivered,Grace Castillo,11274.46,7,7.8,4.9,281.43,2026-04-10 00:00,2026-04-19 00:00
+ORD2747,Vinyl Records,Marvel,Damaged,Bank Transfer,Delivered,Nina Reyes,11997.58,4,31.8,3.8,117.6,2026-04-21 00:00,2026-04-22 00:00
+ORD2748,Action Figures,Vintage Toys,Near Mint,Credit Card,Cancelled,Paolo Torres,4187.11,4,37.5,3.1,354.71,2026-03-23 00:00,2026-03-24 00:00
+ORD2749,Action Figures,Marvel,Mint,PayPal,Pending,Ramon Aquino,14937.0,6,36.0,4.0,191.72,2026-04-10 00:00,2026-04-16 00:00
+ORD2750,Model Kits,Pokemon,Used,PayPal,Delivered,Faith Bautista,12068.27,2,3.7,2.3,487.54,2026-03-01 00:00,2026-03-05 00:00
+ORD2751,Board Games,Vintage Toys,Mint,Credit Card,Cancelled,Julius Garcia,1019.13,4,4.3,1.5,315.71,2026-04-13 00:00,2026-04-19 00:00
+ORD2752,Vinyl Records,Star Wars,Used,PayPal,Cancelled,Carlos Bautista,9854.51,3,15.7,5.0,158.28,2026-04-14 00:00,2026-04-20 00:00
+ORD2753,Vinyl Records,Vintage Toys,Mint,GCash,Cancelled,Paolo Reyes,1040.78,5,14.8,4.1,384.19,2026-03-10 00:00,2026-03-13 00:00
+ORD2754,Trading Cards,Star Wars,Good,PayPal,Delivered,Jose Torres,1784.33,9,21.1,3.8,474.13,2026-04-07 00:00,2026-04-09 00:00
+ORD2755,Action Figures,Gundam,Mint,PayPal,Cancelled,Grace Cruz,7988.11,6,31.3,3.2,191.69,2026-03-20 00:00,2026-03-26 00:00
+ORD2756,Vinyl Records,Marvel,Near Mint,Cash on Delivery,Delivered,Victor Aquino,6441.65,7,29.8,3.0,184.76,2026-03-11 00:00,2026-03-16 00:00
+ORD2757,Vinyl Records,Vintage Toys,Good,PayPal,Delivered,Liza Diaz,7600.81,7,37.0,1.0,386.49,2026-04-21 00:00,2026-04-24 00:00
+ORD2758,Vinyl Records,Gundam,Mint,Cash on Delivery,Cancelled,Diego Aquino,3626.89,5,4.9,2.6,280.45,2026-04-11 00:00,2026-04-16 00:00
+ORD2759,Model Kits,Marvel,Good,PayPal,Pending,Ella Castillo,6247.42,7,10.3,4.2,109.08,2026-03-16 00:00,2026-03-21 00:00
+ORD2760,Model Kits,Pokemon,Mint,GCash,Delivered,Hazel Torres,1873.39,3,26.5,1.6,139.96,2026-04-08 00:00,2026-04-09 00:00
+ORD2761,Action Figures,Gundam,Mint,PayPal,Delivered,Nina Flores,8722.38,2,39.2,4.1,473.17,2026-04-06 00:00,2026-04-10 00:00
+ORD2762,Action Figures,Pokemon,Used,Bank Transfer,Shipped,Jose Flores,4870.72,6,36.7,2.4,161.26,2026-04-23 00:00,2026-04-28 00:00
+ORD2763,Vinyl Records,Vintage Toys,Near Mint,PayPal,Delivered,Faith Reyes,1287.65,5,23.5,3.4,298.12,2026-04-02 00:00,2026-04-05 00:00
+ORD2764,Board Games,Star Wars,Mint,Bank Transfer,Delivered,Jose Reyes,7708.39,3,36.5,3.8,258.0,2026-04-09 00:00,2026-04-12 00:00
+ORD2765,Vinyl Records,Marvel,Good,PayPal,Delivered,Diego Bautista,12794.3,6,31.3,4.3,23.0,2026-04-25 00:00,2026-05-02 00:00
+ORD2766,Action Figures,Gundam,Good,PayPal,Delivered,Carlos Diaz,13159.34,3,24.0,4.8,104.19,2026-04-12 00:00,2026-04-21 00:00
+ORD2767,Action Figures,Marvel,Good,PayPal,Delivered,Paolo Garcia,2824.34,4,23.8,3.7,446.01,2026-03-16 00:00,2026-03-22 00:00
+ORD2768,Model Kits,Vintage Toys,Good,Bank Transfer,Returned,Maria Ramos,1298.38,5,22.6,2.2,268.23,2026-04-26 00:00,2026-05-04 00:00
+ORD2769,Vinyl Records,Vintage Toys,Damaged,Credit Card,Returned,Ramon Castillo,633.43,2,19.2,2.0,40.0,2026-04-20 00:00,2026-04-27 00:00
+ORD2770,Model Kits,Vintage Toys,Good,Credit Card,Shipped,Paolo Flores,12839.15,1,4.4,4.1,264.28,2026-04-17 00:00,2026-04-25 00:00
+ORD2771,Board Games,Pokemon,Mint,GCash,Pending,Faith Santos,2082.84,7,20.4,1.7,356.02,2026-03-20 00:00,2026-03-25 00:00
+ORD2772,Vinyl Records,Star Wars,Damaged,Bank Transfer,Shipped,Julius Ramos,11927.09,4,14.5,1.8,448.54,2026-04-09 00:00,2026-04-11 00:00
+ORD2773,Model Kits,Vintage Toys,Damaged,PayPal,Returned,Bea Santos,683.45,8,17.8,2.0,192.12,2026-04-29 00:00,2026-04-30 00:00
+ORD2774,Trading Cards,Marvel,Mint,Bank Transfer,Delivered,Maria Aquino,10454.29,6,30.0,3.5,447.06,2026-04-21 00:00,2026-04-25 00:00
+ORD2775,Board Games,Marvel,Good,GCash,Delivered,Victor Diaz,7696.21,2,37.8,3.4,154.54,2026-03-10 00:00,2026-03-16 00:00
+ORD2776,Board Games,Marvel,Mint,GCash,Delivered,Hazel Reyes,11761.59,1,1.2,2.7,141.02,2026-03-24 00:00,2026-04-01 00:00
+ORD2777,Model Kits,Pokemon,Used,Cash on Delivery,Pending,Ella Castillo,12092.33,2,34.9,2.8,179.59,2026-03-26 00:00,2026-03-30 00:00
+ORD2778,Trading Cards,Pokemon,Mint,PayPal,Pending,Hazel Santos,4726.99,6,23.4,1.7,458.66,2026-03-15 00:00,2026-03-16 00:00
+ORD2779,Vinyl Records,Star Wars,Near Mint,Credit Card,Delivered,Diego Ramos,1022.65,4,18.8,4.3,231.05,2026-04-19 00:00,2026-04-24 00:00
+ORD2780,Vinyl Records,Vintage Toys,Mint,Cash on Delivery,Delivered,Nina Reyes,5399.85,5,36.1,1.4,243.03,2026-04-02 00:00,2026-04-21 00:00
+ORD2781,Vinyl Records,Anime,Mint,Credit Card,Returned,Jose Flores,2734.6,1,37.2,4.5,399.97,2026-04-21 00:00,2026-04-24 00:00
+ORD2782,Trading Cards,Gundam,Used,Credit Card,Delivered,Miguel Mendoza,8741.9,2,5.7,4.8,22.31,2026-03-30 00:00,2026-04-03 00:00
+ORD2783,Board Games,Star Wars,Near Mint,Bank Transfer,Shipped,Nina Aquino,7170.6,9,35.9,4.6,492.23,2026-03-21 00:00,2026-03-30 00:00
+ORD2784,Trading Cards,Marvel,Near Mint,Bank Transfer,Delivered,Paolo Flores,12495.14,2,11.2,1.5,57.73,2026-03-24 00:00,2026-03-28 00:00
+ORD2785,Action Figures,Gundam,Near Mint,Credit Card,Delivered,Grace Diaz,5701.32,9,19.0,3.8,464.54,2026-03-06 00:00,2026-03-07 00:00
+ORD2786,Board Games,Star Wars,Damaged,GCash,Cancelled,Julius Reyes,12090.77,3,38.1,4.0,369.34,2026-03-07 00:00,2026-03-15 00:00
+ORD2787,Model Kits,Anime,Mint,PayPal,Cancelled,Liza Garcia,7016.26,2,2.6,3.2,462.15,2026-04-25 00:00,2026-05-03 00:00
+ORD2788,Action Figures,Anime,Mint,Bank Transfer,Pending,Bea Ramos,1593.0,1,12.9,1.0,331.07,2026-03-26 00:00,2026-04-04 00:00
+ORD2789,Action Figures,Vintage Toys,Near Mint,Credit Card,Delivered,Ramon Bautista,4740.09,9,35.4,3.9,4.53,2026-03-04 00:00,2026-03-06 00:00
+ORD2790,Vinyl Records,Marvel,Used,PayPal,Delivered,Marco Garcia,12175.81,7,23.9,4.2,233.77,2026-03-22 00:00,2026-03-25 00:00
+ORD2791,Trading Cards,Pokemon,Near Mint,PayPal,Delivered,Carlos Diaz,5761.24,4,30.2,4.1,399.15,2026-04-11 00:00,2026-04-15 00:00
+ORD2792,Trading Cards,Pokemon,Used,Cash on Delivery,Delivered,Liza Santos,7895.01,7,26.7,3.8,334.45,2026-04-11 00:00,2026-04-19 00:00
+ORD2793,Trading Cards,Vintage Toys,Used,PayPal,Pending,Ella Santos,1411.74,6,18.3,3.4,349.93,2026-04-27 00:00,2026-04-30 00:00
+ORD2794,Trading Cards,Vintage Toys,Used,GCash,Pending,Liza Reyes,12194.32,8,7.3,4.2,191.07,2026-04-22 00:00,2026-04-24 00:00
+ORD2795,Vinyl Records,Gundam,Good,Credit Card,Shipped,Ella Cruz,11946.55,1,12.7,2.1,320.56,2026-04-08 00:00,2026-04-12 00:00
+ORD2796,Model Kits,Gundam,Used,Bank Transfer,Returned,Paolo Garcia,3808.46,4,10.0,2.7,393.56,2026-04-04 00:00,2026-04-09 00:00
+ORD2797,Vinyl Records,Marvel,Mint,Cash on Delivery,Cancelled,Miguel Castillo,992.16,9,21.7,3.7,102.06,2026-04-14 00:00,2026-04-19 00:00
+ORD2798,Action Figures,Star Wars,Mint,GCash,Returned,Nina Reyes,9083.89,5,24.7,4.8,384.23,2026-03-10 00:00,2026-03-19 00:00
+ORD2799,Action Figures,Pokemon,Damaged,PayPal,Delivered,Ramon Garcia,13758.6,1,11.1,4.3,305.77,2026-04-28 00:00,2026-05-01 00:00
+ORD2800,Model Kits,Vintage Toys,Damaged,PayPal,Returned,Nina Santos,7432.55,3,11.2,2.3,230.28,2026-03-09 00:00,2026-03-16 00:00
+ORD2801,Trading Cards,Star Wars,Near Mint,Credit Card,Delivered,Liza Santos,1433.33,6,9.9,1.7,353.34,2026-04-23 00:00,2026-04-27 00:00
+ORD2802,Vinyl Records,Anime,Near Mint,PayPal,Pending,Julius Flores,5230.39,3,22.4,1.3,488.46,2026-04-08 00:00,2026-04-11 00:00
+ORD2803,Board Games,Gundam,Used,Cash on Delivery,Returned,Liza Mendoza,8061.2,9,16.5,1.8,85.67,2026-03-21 00:00,2026-03-23 00:00
+ORD2804,Trading Cards,Pokemon,Damaged,Cash on Delivery,Returned,Diego Bautista,7230.78,5,22.1,2.4,372.8,2026-03-26 00:00,2026-04-03 00:00
+ORD2805,Trading Cards,Star Wars,Damaged,Bank Transfer,Delivered,Anna Castillo,9927.13,7,13.8,4.9,18.25,2026-03-04 00:00,2026-03-08 00:00
+ORD2806,Vinyl Records,Gundam,Good,Credit Card,Delivered,Diego Garcia,339.15,8,22.4,2.6,344.65,2026-03-31 00:00,2026-04-03 00:00
+ORD2807,Vinyl Records,Marvel,Near Mint,PayPal,Delivered,Ramon Santos,5719.55,4,26.0,2.3,425.46,2026-03-21 00:00,2026-03-26 00:00
+ORD2808,Action Figures,Pokemon,Damaged,PayPal,Delivered,Victor Mendoza,116.67,9,38.2,1.8,448.67,2026-03-02 00:00,2026-03-06 00:00
+ORD2809,Trading Cards,Gundam,Good,PayPal,Cancelled,Grace Santos,2392.4,4,5.6,3.5,171.01,2026-03-10 00:00,2026-03-11 00:00
+ORD2810,Board Games,Star Wars,Mint,Cash on Delivery,Shipped,Ramon Flores,8748.8,9,29.6,1.4,346.25,2026-03-19 00:00,2026-03-20 00:00
+ORD2811,Trading Cards,Anime,Good,GCash,Returned,Hazel Santos,11904.53,2,28.8,3.9,177.35,2026-03-02 00:00,2026-03-10 00:00
+ORD2812,Action Figures,Anime,Damaged,PayPal,Returned,Hazel Ramos,12223.81,2,19.1,2.2,127.38,2026-03-05 00:00,2026-03-06 00:00
+ORD2813,Trading Cards,Star Wars,Mint,PayPal,Delivered,Hazel Aquino,9364.51,4,28.1,2.3,467.49,2026-03-15 00:00,2026-03-19 00:00
+ORD2814,Trading Cards,Marvel,Mint,Credit Card,Shipped,Anna Bautista,8652.85,6,0.9,4.8,364.3,2026-03-13 00:00,2026-03-16 00:00
+ORD2815,Trading Cards,Gundam,Damaged,GCash,Returned,Julius Flores,946.02,9,20.2,1.9,451.98,2026-03-09 00:00,2026-03-14 00:00
+ORD2816,Board Games,Star Wars,Good,GCash,Cancelled,Diego Mendoza,842.96,7,19.3,1.5,63.28,2026-03-22 00:00,2026-03-23 00:00
+ORD2817,Action Figures,Vintage Toys,Good,Bank Transfer,Shipped,Carlos Bautista,871.8,5,8.6,3.5,347.27,2026-03-23 00:00,2026-03-25 00:00
+ORD2818,Action Figures,Vintage Toys,Used,Credit Card,Returned,Ramon Mendoza,3775.03,7,34.6,2.0,495.39,2026-03-17 00:00,2026-03-23 00:00
+ORD2819,Trading Cards,Gundam,Used,Cash on Delivery,Delivered,Ella Reyes,10640.46,8,25.6,4.8,58.95,2026-03-30 00:00,2026-03-31 00:00
+ORD2820,Model Kits,Anime,Good,Cash on Delivery,Delivered,Grace Aquino,14592.59,5,19.5,4.7,4.22,2026-04-03 00:00,2026-04-12 00:00
+ORD2821,Vinyl Records,Pokemon,Mint,GCash,Delivered,Julius Santos,5749.75,7,3.9,4.4,388.02,2026-03-28 00:00,2026-04-03 00:00
+ORD2822,Action Figures,Star Wars,Good,PayPal,Cancelled,Ramon Mendoza,6185.17,4,26.9,5.0,236.33,2026-03-03 00:00,2026-03-11 00:00
+ORD2823,Trading Cards,Gundam,Near Mint,Bank Transfer,Delivered,Nina Bautista,11211.83,6,6.7,3.6,208.93,2026-03-31 00:00,2026-04-04 00:00
+ORD2824,Board Games,Anime,Used,Cash on Delivery,Delivered,Liza Mendoza,11404.79,1,2.2,4.8,345.15,2026-03-30 00:00,2026-04-07 00:00
+ORD2825,Vinyl Records,Marvel,Good,Credit Card,Delivered,Marco Santos,14074.76,1,12.4,2.6,469.77,2026-04-26 00:00,2026-04-30 00:00
+ORD2826,Trading Cards,Vintage Toys,Mint,GCash,Delivered,Nina Flores,13317.2,5,0.7,2.3,239.16,2026-03-21 00:00,2026-03-29 00:00
+ORD2827,Vinyl Records,Vintage Toys,Damaged,Credit Card,Delivered,Jose Bautista,14775.94,5,2.9,3.8,143.01,2026-03-26 00:00,2026-03-27 00:00
+ORD2828,Action Figures,Vintage Toys,Mint,GCash,Delivered,Victor Diaz,1662.69,4,16.4,4.0,291.05,2026-03-19 00:00,2026-03-28 00:00
+ORD2829,Trading Cards,Gundam,Near Mint,Cash on Delivery,Delivered,Marco Castillo,6589.02,8,20.1,2.2,283.47,2026-03-12 00:00,2026-03-18 00:00
+ORD2830,Vinyl Records,Pokemon,Mint,Bank Transfer,Returned,Maria Garcia,4688.4,9,15.5,4.9,392.42,2026-03-10 00:00,2026-03-12 00:00
+ORD2831,Board Games,Pokemon,Near Mint,Bank Transfer,Shipped,Marco Cruz,13876.01,5,39.4,4.5,203.27,2026-04-28 00:00,2026-05-02 00:00
+ORD2832,Board Games,Anime,Used,Credit Card,Delivered,Julius Garcia,11052.38,3,15.0,4.1,6.67,2026-04-18 00:00,2026-04-22 00:00
+ORD2833,Board Games,Marvel,Mint,Cash on Delivery,Delivered,Maria Ramos,13589.75,5,38.8,3.4,54.62,2026-03-18 00:00,2026-03-26 00:00
+ORD2834,Model Kits,Marvel,Good,Cash on Delivery,Returned,Nina Torres,10890.75,6,0.2,2.2,168.77,2026-04-01 00:00,2026-04-10 00:00
+ORD2835,Trading Cards,Star Wars,Mint,GCash,Pending,Miguel Torres,3102.55,5,19.3,1.8,396.0,2026-04-28 00:00,2026-05-04 00:00
+ORD2836,Vinyl Records,Gundam,Mint,Bank Transfer,Delivered,Paolo Flores,6849.02,4,27.0,1.1,82.81,2026-03-12 00:00,2026-03-14 00:00
+ORD2837,Model Kits,Vintage Toys,Near Mint,Credit Card,Pending,Miguel Aquino,3713.79,7,39.9,4.7,442.67,2026-03-01 00:00,2026-03-08 00:00
+ORD2838,Vinyl Records,Marvel,Near Mint,GCash,Pending,Grace Mendoza,8971.99,4,31.4,4.2,465.09,2026-04-20 00:00,2026-04-28 00:00
+ORD2839,Model Kits,Marvel,Mint,Cash on Delivery,Cancelled,Ramon Castillo,5813.04,8,4.4,1.5,114.42,2026-04-10 00:00,2026-04-17 00:00
+ORD2840,Board Games,Vintage Toys,Damaged,Cash on Delivery,Delivered,Faith Castillo,3865.18,9,7.8,2.0,8.95,2026-04-15 00:00,2026-04-23 00:00
+ORD2841,Board Games,Gundam,Mint,Bank Transfer,Shipped,Ella Aquino,10827.94,4,8.0,2.2,69.24,2026-03-18 00:00,2026-03-27 00:00
+ORD2842,Trading Cards,Vintage Toys,Mint,GCash,Cancelled,Bea Reyes,1233.85,7,6.4,4.5,97.09,2026-04-19 00:00,2026-04-22 00:00
+ORD2843,Model Kits,Vintage Toys,Near Mint,Bank Transfer,Delivered,Jose Mendoza,6708.09,6,2.8,4.3,449.58,2026-04-06 00:00,2026-04-15 00:00
+ORD2844,Trading Cards,Gundam,Damaged,Cash on Delivery,Returned,Hazel Santos,10044.21,7,27.8,4.4,171.56,2026-04-08 00:00,2026-04-17 00:00
+ORD2845,Action Figures,Marvel,Mint,Bank Transfer,Returned,Ramon Santos,4688.02,1,34.8,3.5,291.89,2026-03-24 00:00,2026-03-26 00:00
+ORD2846,Action Figures,Marvel,Near Mint,GCash,Delivered,Paolo Santos,4773.97,4,31.2,2.9,454.0,2026-03-04 00:00,2026-03-05 00:00
+ORD2847,Trading Cards,Pokemon,Used,Bank Transfer,Shipped,Paolo Aquino,10410.55,8,10.3,1.8,56.38,2026-04-22 00:00,2026-04-26 00:00
+ORD2848,Action Figures,Star Wars,Damaged,Cash on Delivery,Delivered,Miguel Aquino,2591.73,8,39.9,1.4,460.53,2026-03-04 00:00,2026-03-09 00:00
+ORD2849,Board Games,Marvel,Mint,PayPal,Delivered,Paolo Ramos,14516.82,9,3.2,3.2,16.27,2026-04-25 00:00,2026-04-29 00:00
+ORD2850,Trading Cards,Gundam,Damaged,Cash on Delivery,Delivered,Marco Mendoza,9526.12,2,32.3,4.1,283.64,2026-04-21 00:00,2026-04-22 00:00
+ORD2851,Board Games,Pokemon,Good,GCash,Delivered,Marco Aquino,6638.39,4,17.5,4.5,122.37,2026-04-29 00:00,2026-05-04 00:00
+ORD2852,Model Kits,Pokemon,Used,Credit Card,Delivered,Ella Santos,5532.95,1,5.9,2.8,182.11,2026-03-30 00:00,2026-04-03 00:00
+ORD2853,Action Figures,Vintage Toys,Used,GCash,Cancelled,Faith Mendoza,13768.1,9,7.0,4.6,80.53,2026-04-19 00:00,2026-04-23 00:00
+ORD2854,Trading Cards,Marvel,Damaged,Credit Card,Delivered,Marco Aquino,9563.6,1,37.0,3.2,268.66,2026-04-23 00:00,2026-04-26 00:00
+ORD2855,Trading Cards,Gundam,Good,PayPal,Delivered,Hazel Santos,3550.26,1,0.2,1.3,100.84,2026-03-30 00:00,2026-04-05 00:00
+ORD2856,Vinyl Records,Gundam,Near Mint,Cash on Delivery,Delivered,Hazel Garcia,5953.08,2,14.8,1.9,36.95,2026-04-26 00:00,2026-05-05 00:00
+ORD2857,Model Kits,Marvel,Used,Bank Transfer,Shipped,Paolo Castillo,9262.34,1,19.1,3.8,180.05,2026-03-09 00:00,2026-03-13 00:00
+ORD2858,Board Games,Pokemon,Used,Cash on Delivery,Delivered,Maria Torres,2829.79,3,10.2,2.0,260.93,2026-03-26 00:00,2026-03-28 00:00
+ORD2859,Vinyl Records,Star Wars,Damaged,Credit Card,Returned,Paolo Reyes,14392.11,5,31.2,4.8,269.4,2026-03-11 00:00,2026-03-15 00:00
+ORD2860,Trading Cards,Anime,Mint,Credit Card,Delivered,Anna Mendoza,10827.94,9,32.9,1.8,487.24,2026-03-06 00:00,2026-03-09 00:00
+ORD2861,Board Games,Pokemon,Near Mint,Cash on Delivery,Shipped,Anna Bautista,13059.03,8,7.9,3.2,435.32,2026-04-21 00:00,2026-04-24 00:00
+ORD2862,Action Figures,Star Wars,Near Mint,Bank Transfer,Delivered,Maria Mendoza,2429.72,8,1.3,4.6,86.1,2026-03-08 00:00,2026-03-12 00:00
+ORD2863,Action Figures,Star Wars,Damaged,Cash on Delivery,Delivered,Paolo Cruz,1026.76,2,36.0,1.9,448.74,2026-03-29 00:00,2026-04-03 00:00
+ORD2864,Board Games,Marvel,Used,Credit Card,Returned,Hazel Castillo,2047.98,7,39.9,4.2,105.02,2026-04-01 00:00,2026-04-06 00:00
+ORD2865,Trading Cards,Marvel,Mint,Bank Transfer,Pending,Victor Diaz,1331.8,4,19.7,4.5,46.05,2026-03-18 00:00,2026-03-27 00:00
+ORD2866,Action Figures,Gundam,Near Mint,Cash on Delivery,Shipped,Carlos Flores,8697.28,1,17.7,3.8,92.37,2026-03-19 00:00,2026-03-25 00:00
+ORD2867,Vinyl Records,Star Wars,Good,Cash on Delivery,Pending,Jose Reyes,7550.66,3,30.3,4.5,158.39,2026-04-03 00:00,2026-05-01 00:00
+ORD2868,Vinyl Records,Vintage Toys,Damaged,Credit Card,Returned,Marco Reyes,7475.08,2,29.7,1.1,420.55,2026-04-05 00:00,2026-04-11 00:00
+ORD2869,Vinyl Records,Marvel,Used,Credit Card,Delivered,Victor Aquino,2023.83,2,34.3,2.6,136.02,2026-03-18 00:00,2026-03-25 00:00
+ORD2870,Action Figures,Marvel,Mint,Bank Transfer,Delivered,Nina Aquino,10094.61,9,37.8,2.1,177.04,2026-04-21 00:00,2026-04-25 00:00
+ORD2871,Action Figures,Star Wars,Used,PayPal,Delivered,Maria Torres,7111.95,4,39.9,2.3,345.5,2026-03-22 00:00,2026-03-26 00:00
+ORD2872,Trading Cards,Pokemon,Damaged,Bank Transfer,Returned,Ella Bautista,4007.5,4,11.7,1.0,365.34,2026-04-10 00:00,2026-04-13 00:00
+ORD2873,Board Games,Gundam,Near Mint,Cash on Delivery,Delivered,Ramon Reyes,13766.7,5,13.9,1.6,41.9,2026-03-24 00:00,2026-03-29 00:00
+ORD2874,Action Figures,Gundam,Damaged,PayPal,Returned,Nina Torres,5876.25,1,14.8,1.5,294.24,2026-04-01 00:00,2026-04-05 00:00
+ORD2875,Action Figures,Gundam,Mint,GCash,Pending,Faith Torres,1035.56,6,20.6,2.0,103.63,2026-04-02 00:00,2026-03-12 00:00
+ORD2876,Action Figures,Vintage Toys,Damaged,GCash,Delivered,Bea Ramos,13575.63,4,2.9,4.1,179.49,2026-04-02 00:00,2026-05-01 00:00
+ORD2877,Trading Cards,Gundam,Mint,Bank Transfer,Pending,Maria Reyes,2127.28,6,27.8,3.1,111.84,2026-03-02 00:00,2026-03-10 00:00
+ORD2878,Trading Cards,Marvel,Good,Bank Transfer,Delivered,Diego Castillo,14126.67,9,14.8,3.6,303.88,2026-03-21 00:00,2026-03-26 00:00
+ORD2879,Trading Cards,Star Wars,Near Mint,Cash on Delivery,Delivered,Nina Mendoza,4235.29,5,34.9,1.4,301.38,2026-04-21 00:00,2026-04-22 00:00
+ORD2880,Vinyl Records,Vintage Toys,Good,GCash,Returned,Bea Reyes,9828.75,7,29.9,4.6,108.44,2026-04-15 00:00,2026-04-17 00:00
+ORD2881,Model Kits,Pokemon,Near Mint,Credit Card,Shipped,Nina Castillo,13540.08,6,33.6,1.3,86.59,2026-04-01 00:00,2026-03-28 00:00
+ORD2882,Model Kits,Pokemon,Damaged,Bank Transfer,Delivered,Liza Cruz,11360.13,9,30.5,3.4,442.35,2026-03-04 00:00,2026-03-05 00:00
+ORD2883,Trading Cards,Vintage Toys,Good,Credit Card,Cancelled,Nina Castillo,7395.22,3,23.5,2.3,21.13,2026-04-02 00:00,2026-04-05 00:00
+ORD2884,Action Figures,Pokemon,Near Mint,Cash on Delivery,Cancelled,Victor Ramos,8398.75,9,28.9,4.2,50.25,2026-03-18 00:00,2026-03-27 00:00
+ORD2885,Trading Cards,Anime,Damaged,Bank Transfer,Returned,Jose Flores,4221.25,7,35.0,4.1,187.51,2026-04-14 00:00,2026-04-20 00:00
+ORD2886,Model Kits,Vintage Toys,Good,Bank Transfer,Delivered,Anna Castillo,337.06,5,5.4,3.0,230.73,2026-04-13 00:00,2026-04-19 00:00
+ORD2887,Vinyl Records,Star Wars,Mint,Credit Card,Delivered,Grace Bautista,537.71,1,9.4,3.9,468.35,2026-03-13 00:00,2026-03-14 00:00
+ORD2888,Board Games,Anime,Used,Credit Card,Pending,Bea Flores,3951.76,7,19.8,2.8,17.4,2026-03-18 00:00,2026-03-25 00:00
+ORD2889,Board Games,Vintage Toys,Good,Bank Transfer,Delivered,Julius Cruz,10694.6,1,32.1,2.8,126.2,2026-03-30 00:00,2026-04-04 00:00
+ORD2890,Board Games,Pokemon,Near Mint,PayPal,Delivered,Diego Torres,4062.85,9,35.3,1.2,343.98,2026-04-07 00:00,2026-04-12 00:00
+ORD2891,Model Kits,Pokemon,Mint,PayPal,Delivered,Jose Aquino,6269.65,9,38.0,3.1,449.45,2026-03-11 00:00,2026-03-15 00:00
+ORD2892,Model Kits,Pokemon,Mint,Credit Card,Returned,Liza Ramos,1694.18,1,27.3,2.5,436.86,2026-03-25 00:00,2026-03-30 00:00
+ORD2893,Vinyl Records,Star Wars,Mint,PayPal,Returned,Paolo Ramos,6254.31,3,32.1,1.3,122.03,2026-03-05 00:00,2026-03-07 00:00
+ORD2894,Model Kits,Marvel,Near Mint,Cash on Delivery,Delivered,Bea Reyes,1779.1,3,10.7,4.8,47.53,2026-04-25 00:00,2026-04-26 00:00
+ORD2895,Vinyl Records,Marvel,Used,PayPal,Shipped,Nina Santos,10546.2,3,5.9,4.5,287.86,2026-04-11 00:00,2026-04-19 00:00
+ORD2896,Action Figures,Gundam,Used,Credit Card,Delivered,Victor Bautista,9196.83,1,11.7,3.6,499.04,2026-03-19 00:00,2026-03-28 00:00
+ORD2897,Trading Cards,Pokemon,Mint,Cash on Delivery,Cancelled,Miguel Flores,3307.29,1,10.8,2.3,327.18,2026-04-24 00:00,2026-04-30 00:00
+ORD2898,Model Kits,Anime,Used,GCash,Delivered,Diego Torres,6227.49,5,3.3,1.1,428.53,2026-03-29 00:00,2026-04-05 00:00
+ORD2899,Trading Cards,Pokemon,Mint,Cash on Delivery,Cancelled,Julius Reyes,14965.01,7,21.7,4.7,253.15,2026-04-15 00:00,2026-04-17 00:00
+ORD2900,Board Games,Gundam,Used,Cash on Delivery,Delivered,Julius Santos,8078.87,9,18.4,3.1,466.6,2026-03-04 00:00,2026-03-07 00:00
+ORD2901,Trading Cards,Pokemon,Good,PayPal,Pending,Julius Torres,10328.45,9,32.5,4.2,404.41,2026-04-01 00:00,2026-03-18 00:00
+ORD2902,Action Figures,Vintage Toys,Mint,Cash on Delivery,Returned,Jose Santos,10012.23,9,5.6,4.6,44.62,2026-04-28 00:00,2026-05-04 00:00
+ORD2903,Model Kits,Star Wars,Mint,GCash,Delivered,Anna Reyes,1548.22,4,25.0,2.3,383.46,2026-04-10 00:00,2026-04-15 00:00
+ORD2904,Action Figures,Anime,Used,Bank Transfer,Cancelled,Anna Santos,8663.46,9,21.7,3.7,93.7,2026-04-04 00:00,2026-04-15 00:00
+ORD2905,Action Figures,Vintage Toys,Near Mint,PayPal,Shipped,Jose Cruz,8732.29,9,30.2,4.2,347.98,2026-04-17 00:00,2026-04-22 00:00
+ORD2906,Vinyl Records,Marvel,Good,Bank Transfer,Delivered,Anna Flores,13349.29,4,36.2,4.3,96.61,2026-04-01 00:00,2026-04-05 00:00
+ORD2907,Vinyl Records,Vintage Toys,Good,Bank Transfer,Shipped,Hazel Mendoza,7899.72,9,12.5,4.7,156.75,2026-03-29 00:00,2026-04-07 00:00
+ORD2908,Vinyl Records,Marvel,Near Mint,Cash on Delivery,Delivered,Jose Bautista,13613.86,5,36.8,4.8,362.56,2026-04-18 00:00,2026-04-21 00:00
+ORD2909,Action Figures,Vintage Toys,Mint,GCash,Delivered,Jose Aquino,6156.03,2,2.4,3.8,91.37,2026-04-03 00:00,2026-04-10 00:00
+ORD2910,Trading Cards,Anime,Good,PayPal,Delivered,Julius Mendoza,8579.26,5,10.0,3.0,44.76,2026-04-16 00:00,2026-04-23 00:00
+ORD2911,Vinyl Records,Marvel,Mint,Bank Transfer,Returned,Grace Bautista,7213.82,5,13.5,3.5,200.28,2026-03-12 00:00,2026-03-21 00:00
+ORD2912,Trading Cards,Gundam,Mint,Cash on Delivery,Pending,Bea Cruz,5350.33,5,26.4,4.5,84.36,2026-03-18 00:00,2026-03-22 00:00
+ORD2913,Action Figures,Vintage Toys,Near Mint,Cash on Delivery,Returned,Paolo Castillo,1309.13,8,4.7,3.3,284.17,2026-04-12 00:00,2026-04-16 00:00
+ORD2914,Board Games,Vintage Toys,Near Mint,GCash,Delivered,Maria Flores,3709.74,8,35.0,3.8,423.33,2026-04-25 00:00,2026-05-01 00:00
+ORD2915,Board Games,Anime,Near Mint,PayPal,Shipped,Liza Aquino,3981.01,1,5.0,1.5,421.78,2026-04-25 00:00,2026-05-01 00:00
+ORD2916,Board Games,Gundam,Good,Cash on Delivery,Returned,Anna Aquino,11567.66,2,22.8,3.3,376.65,2026-04-18 00:00,2026-04-27 00:00
+ORD2917,Vinyl Records,Marvel,Near Mint,PayPal,Delivered,Bea Bautista,14236.04,8,20.8,3.1,12.36,2026-04-13 00:00,2026-04-21 00:00
+ORD2918,Action Figures,Vintage Toys,Used,Bank Transfer,Delivered,Anna Diaz,5767.31,2,31.2,1.7,387.02,2026-03-23 00:00,2026-03-28 00:00
+ORD2919,Vinyl Records,Pokemon,Near Mint,Credit Card,Cancelled,Anna Aquino,11630.27,5,20.5,3.1,457.64,2026-04-13 00:00,2026-04-19 00:00
+ORD2920,Model Kits,Vintage Toys,Good,Credit Card,Delivered,Maria Santos,10151.24,2,20.3,3.4,64.64,2026-04-04 00:00,2026-03-25 00:00
+ORD2921,Vinyl Records,Pokemon,Near Mint,PayPal,Cancelled,Hazel Cruz,1914.71,9,21.6,2.7,140.1,2026-03-10 00:00,2026-03-17 00:00
+ORD2922,Trading Cards,Pokemon,Near Mint,PayPal,Delivered,Bea Cruz,4615.82,6,6.2,2.5,469.57,2026-04-15 00:00,2026-04-20 00:00
+ORD2923,Model Kits,Gundam,Mint,Cash on Delivery,Shipped,Marco Diaz,3286.54,9,13.7,2.2,93.05,2026-04-10 00:00,2026-04-18 00:00
+ORD2924,Action Figures,Marvel,Mint,Credit Card,Delivered,Nina Santos,297.46,7,22.0,3.6,318.46,2026-03-05 00:00,2026-03-12 00:00
+ORD2925,Vinyl Records,Pokemon,Used,PayPal,Delivered,Grace Ramos,9788.41,1,13.7,3.5,186.62,2026-04-19 00:00,2026-04-25 00:00
+ORD2926,Model Kits,Anime,Mint,Cash on Delivery,Delivered,Diego Ramos,11876.17,3,9.3,1.3,19.19,2026-03-27 00:00,2026-04-01 00:00
+ORD2927,Trading Cards,Gundam,Near Mint,Credit Card,Delivered,Grace Ramos,13856.93,8,1.7,4.8,252.43,2026-03-16 00:00,2026-03-22 00:00
+ORD2928,Board Games,Star Wars,Near Mint,Cash on Delivery,Returned,Bea Ramos,13467.07,5,33.5,5.0,330.39,2026-03-25 00:00,2026-04-01 00:00
+ORD2929,Action Figures,Star Wars,Mint,Credit Card,Returned,Paolo Bautista,2135.32,2,25.5,4.6,131.82,2026-03-02 00:00,2026-03-03 00:00
+ORD2930,Action Figures,Star Wars,Near Mint,GCash,Delivered,Marco Reyes,8044.57,2,8.5,4.1,104.09,2026-03-23 00:00,2026-03-27 00:00
+ORD2931,Action Figures,Vintage Toys,Near Mint,PayPal,Delivered,Ramon Cruz,4194.72,1,16.6,4.6,293.23,2026-04-18 00:00,2026-04-26 00:00
+ORD2932,Board Games,Marvel,Near Mint,PayPal,Cancelled,Julius Castillo,8482.17,7,16.2,3.0,7.44,2026-03-06 00:00,2026-03-14 00:00
+ORD2933,Action Figures,Marvel,Mint,PayPal,Delivered,Julius Santos,10976.45,7,22.7,4.7,114.86,2026-04-24 00:00,2026-04-26 00:00
+ORD2934,Action Figures,Vintage Toys,Near Mint,Credit Card,Delivered,Carlos Cruz,12163.31,7,28.8,4.1,95.99,2026-04-11 00:00,2026-04-17 00:00
+ORD2935,Board Games,Vintage Toys,Near Mint,Bank Transfer,Delivered,Carlos Aquino,7705.78,3,39.3,3.8,360.03,2026-04-04 00:00,2026-04-22 00:00
+ORD2936,Vinyl Records,Vintage Toys,Near Mint,Cash on Delivery,Delivered,Jose Flores,3066.84,8,15.6,3.4,415.98,2026-03-08 00:00,2026-03-13 00:00
+ORD2937,Vinyl Records,Marvel,Good,Credit Card,Delivered,Victor Aquino,6423.89,5,21.6,4.8,176.1,2026-04-09 00:00,2026-04-10 00:00
+ORD2938,Trading Cards,Pokemon,Mint,Cash on Delivery,Shipped,Marco Flores,14067.81,4,5.4,3.6,301.28,2026-03-11 00:00,2026-03-16 00:00
+ORD2939,Vinyl Records,Marvel,Good,GCash,Delivered,Miguel Castillo,12717.84,3,22.8,4.7,431.01,2026-03-22 00:00,2026-03-28 00:00
+ORD2940,Vinyl Records,Star Wars,Mint,Credit Card,Delivered,Diego Garcia,763.11,8,19.7,4.3,319.73,2026-03-07 00:00,2026-03-11 00:00
+ORD2941,Trading Cards,Pokemon,Near Mint,Cash on Delivery,Returned,Ramon Aquino,5911.95,4,19.9,1.3,301.75,2026-03-08 00:00,2026-03-12 00:00
+ORD2942,Board Games,Star Wars,Damaged,PayPal,Returned,Diego Diaz,8983.9,4,10.8,2.4,131.48,2026-04-26 00:00,2026-05-02 00:00
+ORD2943,Trading Cards,Star Wars,Near Mint,Bank Transfer,Delivered,Ramon Garcia,5568.63,7,2.5,3.1,227.1,2026-04-05 00:00,2026-04-10 00:00
+ORD2944,Model Kits,Marvel,Good,Bank Transfer,Delivered,Anna Cruz,574.64,4,24.0,1.7,472.14,2026-03-11 00:00,2026-03-20 00:00
+ORD2945,Board Games,Vintage Toys,Near Mint,GCash,Returned,Ramon Diaz,11247.72,4,7.5,2.4,29.35,2026-04-14 00:00,2026-04-16 00:00
+ORD2946,Action Figures,Vintage Toys,Near Mint,Bank Transfer,Shipped,Carlos Diaz,2714.64,3,3.6,1.2,358.25,2026-04-15 00:00,2026-04-19 00:00
+ORD2947,Model Kits,Vintage Toys,Damaged,Credit Card,Cancelled,Liza Castillo,8980.91,8,37.8,2.2,302.64,2026-03-08 00:00,2026-03-09 00:00
+ORD2948,Board Games,Gundam,Good,GCash,Shipped,Julius Ramos,447.43,8,30.3,2.3,382.72,2026-03-09 00:00,2026-03-15 00:00
+ORD2949,Action Figures,Pokemon,Good,PayPal,Delivered,Nina Bautista,140.39,8,11.4,3.9,119.75,2026-04-08 00:00,2026-04-10 00:00
+ORD2950,Vinyl Records,Anime,Mint,Bank Transfer,Delivered,Marco Mendoza,6197.43,2,15.6,2.2,268.03,2026-04-09 00:00,2026-04-17 00:00
+ORD2951,Trading Cards,Vintage Toys,Used,Credit Card,Delivered,Faith Flores,3222.91,2,0.5,1.4,391.42,2026-03-18 00:00,2026-03-23 00:00
+ORD2952,Action Figures,Pokemon,Mint,PayPal,Delivered,Paolo Flores,6167.21,3,7.1,1.1,454.34,2026-03-27 00:00,2026-03-28 00:00
+ORD2953,Vinyl Records,Star Wars,Damaged,PayPal,Delivered,Julius Aquino,4377.03,4,31.7,1.1,286.2,2026-04-13 00:00,2026-04-20 00:00
+ORD2954,Vinyl Records,Vintage Toys,Near Mint,Cash on Delivery,Returned,Miguel Castillo,4091.51,4,23.1,3.9,489.97,2026-03-03 00:00,2026-03-11 00:00
+ORD2955,Board Games,Marvel,Used,GCash,Delivered,Ramon Ramos,7565.95,3,19.4,4.3,114.78,2026-04-11 00:00,2026-04-14 00:00
+ORD2956,Action Figures,Marvel,Mint,Bank Transfer,Delivered,Carlos Bautista,8354.59,4,29.8,4.6,45.77,2026-04-04 00:00,2026-03-16 00:00
+ORD2957,Vinyl Records,Anime,Near Mint,GCash,Delivered,Faith Torres,337.32,7,34.9,1.2,246.25,2026-04-27 00:00,2026-05-06 00:00
+ORD2958,Model Kits,Star Wars,Good,Credit Card,Delivered,Faith Reyes,12572.96,6,15.3,3.7,223.74,2026-04-13 00:00,2026-04-15 00:00
+ORD2959,Board Games,Vintage Toys,Mint,GCash,Pending,Bea Reyes,10471.66,1,4.1,4.1,111.29,2026-04-23 00:00,2026-05-02 00:00
+ORD2960,Action Figures,Gundam,Used,PayPal,Cancelled,Julius Flores,1489.95,1,28.6,4.4,90.17,2026-04-19 00:00,2026-04-20 00:00
+ORD2961,Vinyl Records,Anime,Good,Cash on Delivery,Pending,Paolo Santos,4648.15,4,19.0,3.0,82.55,2026-03-25 00:00,2026-04-02 00:00
+ORD2962,Trading Cards,Star Wars,Mint,GCash,Delivered,Carlos Flores,12985.39,2,11.6,3.6,4.88,2026-04-03 00:00,2026-04-04 00:00
+ORD2963,Board Games,Anime,Used,PayPal,Returned,Grace Flores,13527.3,5,9.5,3.0,364.59,2026-04-05 00:00,2026-04-11 00:00
+ORD2964,Model Kits,Marvel,Good,Cash on Delivery,Delivered,Liza Garcia,3412.59,3,28.7,2.6,496.94,2026-03-22 00:00,2026-03-26 00:00
+ORD2965,Trading Cards,Anime,Mint,Bank Transfer,Returned,Maria Ramos,3077.16,4,18.7,4.2,260.93,2026-04-01 00:00,2026-04-13 00:00
+ORD2966,Vinyl Records,Vintage Toys,Near Mint,Bank Transfer,Delivered,Jose Castillo,8109.63,7,32.3,3.4,435.97,2026-04-19 00:00,2026-04-21 00:00
+ORD2967,Vinyl Records,Gundam,Used,Credit Card,Delivered,Liza Reyes,4043.97,6,30.2,1.3,78.81,2026-04-05 00:00,2026-04-06 00:00
+ORD2968,Vinyl Records,Star Wars,Near Mint,Bank Transfer,Delivered,Grace Bautista,2146.9,3,38.8,1.8,374.0,2026-04-24 00:00,2026-05-03 00:00
+ORD2969,Action Figures,Star Wars,Mint,Cash on Delivery,Delivered,Nina Reyes,5861.06,9,8.7,3.0,94.92,2026-04-11 00:00,2026-04-18 00:00
+ORD2970,Board Games,Star Wars,Near Mint,Credit Card,Delivered,Nina Mendoza,2209.61,2,38.6,4.5,442.39,2026-04-26 00:00,2026-04-30 00:00
+ORD2971,Trading Cards,Marvel,Mint,Credit Card,Delivered,Jose Santos,6563.6,5,6.9,1.4,287.17,2026-03-29 00:00,2026-04-04 00:00
+ORD2972,Action Figures,Star Wars,Damaged,Cash on Delivery,Returned,Nina Bautista,3419.04,5,18.7,1.0,162.64,2026-03-01 00:00,2026-03-03 00:00
+ORD2973,Vinyl Records,Gundam,Near Mint,PayPal,Pending,Miguel Garcia,7350.85,2,35.9,1.2,281.1,2026-04-17 00:00,2026-04-22 00:00
+ORD2974,Vinyl Records,Vintage Toys,Good,Credit Card,Delivered,Maria Ramos,14720.63,5,34.7,2.7,264.86,2026-03-05 00:00,2026-03-08 00:00
+ORD2975,Model Kits,Vintage Toys,Mint,Bank Transfer,Shipped,Liza Cruz,14129.86,1,36.6,3.5,264.32,2026-03-21 00:00,2026-03-26 00:00
+ORD2976,Model Kits,Vintage Toys,Good,GCash,Delivered,Bea Castillo,10200.33,7,26.8,4.1,406.69,2026-03-12 00:00,2026-03-18 00:00
+ORD2977,Vinyl Records,Star Wars,Mint,GCash,Delivered,Bea Reyes,54.89,5,24.0,4.5,459.33,2026-03-26 00:00,2026-04-02 00:00
+ORD2978,Vinyl Records,Star Wars,Near Mint,Credit Card,Cancelled,Diego Bautista,5410.91,6,1.5,4.6,389.04,2026-03-25 00:00,2026-04-03 00:00
+ORD2979,Model Kits,Star Wars,Used,Bank Transfer,Delivered,Nina Cruz,562.82,7,4.3,4.1,441.78,2026-03-08 00:00,2026-03-16 00:00
+ORD2980,Trading Cards,Star Wars,Good,GCash,Cancelled,Paolo Ramos,2990.8,5,15.3,2.8,289.7,2026-03-16 00:00,2026-03-20 00:00
+ORD2981,Board Games,Star Wars,Damaged,Bank Transfer,Delivered,Carlos Flores,4103.53,1,22.7,2.8,329.7,2026-04-20 00:00,2026-04-22 00:00
+ORD2982,Trading Cards,Gundam,Damaged,PayPal,Delivered,Bea Bautista,4540.75,6,4.6,3.5,281.64,2026-03-10 00:00,2026-03-11 00:00
+ORD2983,Board Games,Pokemon,Used,Credit Card,Delivered,Maria Aquino,13689.44,3,23.2,4.8,30.73,2026-03-16 00:00,2026-03-21 00:00
+ORD2984,Action Figures,Anime,Good,GCash,Pending,Jose Ramos,7222.86,3,22.3,3.0,13.61,2026-04-28 00:00,2026-05-07 00:00
+ORD2985,Action Figures,Anime,Damaged,PayPal,Delivered,Hazel Mendoza,13388.79,2,20.5,3.6,122.99,2026-03-01 00:00,2026-03-10 00:00
+ORD2986,Vinyl Records,Vintage Toys,Damaged,Cash on Delivery,Returned,Hazel Ramos,330.47,7,37.4,1.4,110.98,2026-04-04 00:00,2026-04-06 00:00
+ORD2987,Model Kits,Marvel,Mint,PayPal,Returned,Miguel Aquino,6489.85,1,23.0,3.0,23.72,2026-04-14 00:00,2026-04-20 00:00
+ORD2988,Vinyl Records,Vintage Toys,Near Mint,GCash,Delivered,Nina Reyes,11685.52,5,24.2,5.0,318.53,2026-03-26 00:00,2026-03-30 00:00
+ORD2989,Vinyl Records,Vintage Toys,Near Mint,Bank Transfer,Delivered,Marco Diaz,14150.56,4,6.0,4.1,222.31,2026-04-05 00:00,2026-04-09 00:00
+ORD2990,Action Figures,Marvel,Mint,Cash on Delivery,Delivered,Bea Flores,5106.56,5,5.8,1.6,114.95,2026-03-17 00:00,2026-03-20 00:00
+ORD2991,Board Games,Star Wars,Near Mint,GCash,Pending,Bea Ramos,14028.84,8,9.0,1.5,424.59,2026-04-24 00:00,2026-04-29 00:00
+ORD2992,Board Games,Pokemon,Damaged,Cash on Delivery,Shipped,Julius Reyes,7433.82,9,7.7,3.2,56.7,2026-03-13 00:00,2026-03-20 00:00
+ORD2993,Vinyl Records,Star Wars,Damaged,Bank Transfer,Returned,Carlos Diaz,10100.6,7,1.0,4.4,409.99,2026-03-01 00:00,2026-03-03 00:00
+ORD2994,Board Games,Anime,Good,Cash on Delivery,Shipped,Diego Garcia,1263.84,9,33.7,4.4,322.51,2026-04-19 00:00,2026-04-28 00:00
+ORD2995,Action Figures,Marvel,Good,GCash,Delivered,Ella Aquino,10653.2,6,4.0,1.2,59.51,2026-03-25 00:00,2026-03-29 00:00
+ORD2996,Trading Cards,Marvel,Near Mint,Credit Card,Cancelled,Nina Santos,13679.99,3,36.6,2.6,293.31,2026-04-18 00:00,2026-04-19 00:00
+ORD2997,Action Figures,Anime,Near Mint,GCash,Returned,Miguel Reyes,9905.46,6,27.7,2.4,430.8,2026-04-03 00:00,2026-03-20 00:00
+ORD2998,Trading Cards,Star Wars,Mint,GCash,Delivered,Diego Aquino,12816.74,3,12.9,2.2,391.86,2026-03-13 00:00,2026-03-19 00:00
+ORD2999,Action Figures,Gundam,Damaged,Credit Card,Returned,Jose Castillo,250.15,1,35.0,2.9,366.78,2026-04-23 00:00,2026-04-27 00:00
+ORD3000,Trading Cards,Anime,Near Mint,PayPal,Returned,Liza Aquino,5889.25,4,14.4,3.9,418.39,2026-04-18 00:00,2026-04-23 00:00
+ORD3001,Vinyl Records,Star Wars,Good,GCash,Shipped,Faith Garcia,13560.06,8,13.4,1.3,184.99,2026-03-26 00:00,2026-04-03 00:00
+ORD3002,Board Games,Anime,Near Mint,Bank Transfer,Shipped,Nina Ramos,8658.76,8,35.5,4.3,263.88,2026-04-05 00:00,2026-04-08 00:00
+ORD3003,Trading Cards,Pokemon,Good,Cash on Delivery,Delivered,Victor Mendoza,9810.09,4,21.4,1.4,372.47,2026-04-28 00:00,2026-05-04 00:00
+ORD3004,Action Figures,Vintage Toys,Mint,Bank Transfer,Returned,Carlos Torres,3044.82,7,33.0,3.7,475.28,2026-03-28 00:00,2026-04-02 00:00
+ORD3005,Vinyl Records,Gundam,Damaged,PayPal,Returned,Hazel Torres,3509.5,4,32.2,1.6,275.66,2026-03-01 00:00,2026-03-05 00:00
+ORD3006,Action Figures,Anime,Mint,Credit Card,Cancelled,Hazel Reyes,4400.74,5,2.7,1.6,22.79,2026-04-04 00:00,2026-04-13 00:00
+ORD3007,Board Games,Star Wars,Used,Credit Card,Delivered,Anna Ramos,12057.22,4,33.2,3.8,262.02,2026-04-28 00:00,2026-05-04 00:00
+ORD3008,Model Kits,Anime,Used,PayPal,Delivered,Victor Reyes,8490.83,9,33.9,4.6,84.02,2026-04-24 00:00,2026-04-26 00:00
+ORD3009,Action Figures,Star Wars,Near Mint,Bank Transfer,Returned,Grace Ramos,236.77,8,19.6,2.8,49.23,2026-04-01 00:00,2026-03-07 00:00
+ORD3010,Board Games,Marvel,Mint,Credit Card,Cancelled,Victor Torres,11409.79,5,13.7,1.5,185.04,2026-04-07 00:00,2026-04-12 00:00
+ORD3011,Vinyl Records,Pokemon,Used,Bank Transfer,Delivered,Victor Aquino,5738.09,2,36.4,1.1,381.11,2026-03-01 00:00,2026-03-09 00:00
+ORD3012,Vinyl Records,Marvel,Good,PayPal,Delivered,Bea Mendoza,14361.03,1,4.3,1.1,411.31,2026-04-25 00:00,2026-04-28 00:00
+ORD3013,Model Kits,Gundam,Near Mint,Credit Card,Pending,Hazel Mendoza,13187.36,9,20.9,4.3,368.24,2026-03-02 00:00,2026-03-07 00:00
+ORD3014,Vinyl Records,Star Wars,Near Mint,Bank Transfer,Delivered,Anna Torres,7544.2,2,33.5,4.2,78.42,2026-03-16 00:00,2026-03-19 00:00
+ORD3015,Trading Cards,Star Wars,Near Mint,Bank Transfer,Delivered,Diego Aquino,1505.15,9,11.7,4.0,248.9,2026-03-29 00:00,2026-04-03 00:00
+ORD3016,Vinyl Records,Marvel,Damaged,GCash,Cancelled,Carlos Garcia,12530.65,8,33.5,3.5,324.45,2026-04-18 00:00,2026-04-22 00:00
+ORD3017,Board Games,Gundam,Mint,Cash on Delivery,Delivered,Diego Torres,10028.34,5,34.2,2.3,312.31,2026-03-12 00:00,2026-03-13 00:00
+ORD3018,Board Games,Anime,Good,Credit Card,Delivered,Diego Diaz,4913.09,6,31.9,1.5,290.83,2026-03-20 00:00,2026-03-21 00:00
+ORD3019,Vinyl Records,Gundam,Good,Cash on Delivery,Delivered,Liza Garcia,9921.15,4,17.6,3.9,42.41,2026-03-17 00:00,2026-03-18 00:00
+ORD3020,Trading Cards,Anime,Damaged,Credit Card,Returned,Faith Flores,614.64,7,24.8,4.2,457.76,2026-04-13 00:00,2026-04-17 00:00
+ORD3021,Vinyl Records,Pokemon,Used,Cash on Delivery,Pending,Jose Cruz,10697.59,9,0.6,4.0,214.98,2026-03-31 00:00,2026-04-01 00:00
+ORD3022,Trading Cards,Anime,Good,GCash,Delivered,Carlos Flores,945.28,2,6.7,2.4,168.77,2026-03-25 00:00,2026-03-27 00:00
+ORD3023,Action Figures,Star Wars,Mint,GCash,Cancelled,Liza Cruz,9383.65,4,3.3,1.6,13.23,2026-04-07 00:00,2026-04-08 00:00
+ORD3024,Trading Cards,Anime,Used,Bank Transfer,Returned,Marco Diaz,9726.57,2,16.7,2.5,379.19,2026-03-01 00:00,2026-03-05 00:00
+ORD3025,Vinyl Records,Star Wars,Damaged,Credit Card,Delivered,Nina Mendoza,11405.59,6,36.5,1.7,132.01,2026-03-04 00:00,2026-03-10 00:00
+ORD3026,Trading Cards,Vintage Toys,Near Mint,Cash on Delivery,Delivered,Hazel Flores,12079.2,4,36.5,3.1,208.36,2026-04-19 00:00,2026-04-28 00:00
+ORD3027,Trading Cards,Marvel,Damaged,PayPal,Shipped,Nina Mendoza,8867.81,1,10.0,4.4,179.51,2026-03-29 00:00,2026-04-03 00:00
+ORD3028,Action Figures,Vintage Toys,Good,PayPal,Delivered,Hazel Flores,4409.95,1,31.0,2.8,89.12,2026-03-02 00:00,2026-03-03 00:00
+ORD3029,Board Games,Anime,Used,PayPal,Delivered,Faith Mendoza,11229.13,7,36.9,2.1,139.21,2026-04-04 00:00,2026-04-08 00:00
+ORD3030,Board Games,Gundam,Used,Credit Card,Cancelled,Nina Aquino,8501.43,3,9.8,1.4,169.47,2026-04-27 00:00,2026-05-06 00:00
+ORD3031,Model Kits,Marvel,Mint,PayPal,Shipped,Julius Bautista,4141.94,8,38.4,2.9,343.37,2026-03-31 00:00,2026-04-08 00:00
+ORD3032,Vinyl Records,Vintage Toys,Used,Bank Transfer,Delivered,Ramon Santos,14055.27,3,28.0,2.5,81.93,2026-03-02 00:00,2026-03-09 00:00
+ORD3033,Action Figures,Anime,Good,Cash on Delivery,Delivered,Ella Diaz,8795.09,9,34.5,1.3,39.88,2026-04-05 00:00,2026-04-09 00:00
+ORD3034,Trading Cards,Star Wars,Mint,Cash on Delivery,Delivered,Anna Garcia,13290.36,3,7.7,2.0,415.76,2026-03-27 00:00,2026-04-04 00:00
+ORD3035,Action Figures,Anime,Used,PayPal,Shipped,Marco Castillo,4978.09,1,24.4,2.3,370.6,2026-04-03 00:00,2026-04-05 00:00
+ORD3036,Action Figures,Marvel,Mint,GCash,Delivered,Julius Castillo,8536.27,6,15.0,3.7,476.24,2026-03-15 00:00,2026-03-18 00:00
+ORD3037,Action Figures,Star Wars,Used,Credit Card,Pending,Maria Reyes,3096.58,7,23.9,2.5,266.43,2026-03-22 00:00,2026-03-26 00:00
+ORD3038,Action Figures,Anime,Good,GCash,Delivered,Grace Santos,12415.85,1,4.3,2.5,394.39,2026-03-02 00:00,2026-03-06 00:00
+ORD3039,Vinyl Records,Marvel,Damaged,PayPal,Delivered,Miguel Flores,11048.17,1,36.7,3.6,437.76,2026-04-29 00:00,2026-05-08 00:00
+ORD3040,Trading Cards,Gundam,Used,Cash on Delivery,Pending,Ramon Garcia,7046.66,7,4.1,4.4,103.32,2026-04-22 00:00,2026-04-28 00:00
+ORD3041,Action Figures,Pokemon,Near Mint,Credit Card,Shipped,Liza Mendoza,6795.99,2,0.5,3.0,53.5,2026-04-05 00:00,2026-04-07 00:00
+ORD3042,Vinyl Records,Vintage Toys,Used,Bank Transfer,Shipped,Hazel Flores,7614.45,8,15.7,3.3,315.0,2026-04-13 00:00,2026-04-15 00:00
+ORD3043,Action Figures,Vintage Toys,Damaged,Bank Transfer,Delivered,Hazel Flores,9244.83,6,39.9,2.7,387.97,2026-04-06 00:00,2026-04-15 00:00
+ORD3044,Trading Cards,Gundam,Good,PayPal,Shipped,Liza Aquino,8642.51,8,5.4,1.2,199.07,2026-03-21 00:00,2026-03-22 00:00
+ORD3045,Board Games,Anime,Mint,Cash on Delivery,Returned,Marco Diaz,5985.26,2,26.7,2.4,164.47,2026-03-14 00:00,2026-03-22 00:00
+ORD3046,Action Figures,Pokemon,Mint,Credit Card,Returned,Paolo Reyes,8136.09,6,38.2,3.0,395.2,2026-04-15 00:00,2026-04-19 00:00
+ORD3047,Board Games,Pokemon,Near Mint,Credit Card,Delivered,Jose Garcia,1757.13,1,5.2,1.3,198.09,2026-03-02 00:00,2026-03-09 00:00
+ORD3048,Board Games,Pokemon,Mint,Credit Card,Returned,Nina Santos,14222.89,7,9.8,2.3,374.16,2026-03-10 00:00,2026-03-12 00:00
+ORD3049,Trading Cards,Vintage Toys,Damaged,Credit Card,Delivered,Miguel Cruz,14155.76,4,0.7,2.4,382.16,2026-04-03 00:00,2026-04-09 00:00
+ORD3050,Trading Cards,Vintage Toys,Near Mint,Credit Card,Delivered,Miguel Mendoza,6166.57,2,0.5,3.6,134.63,2026-03-17 00:00,2026-03-18 00:00
+ORD3051,Vinyl Records,Anime,Used,Bank Transfer,Delivered,Liza Diaz,9563.93,4,20.1,4.2,206.6,2026-04-26 00:00,2026-04-30 00:00
+ORD3052,Vinyl Records,Gundam,Used,Cash on Delivery,Shipped,Hazel Aquino,13267.5,4,24.1,3.6,128.41,2026-04-06 00:00,2026-04-15 00:00
+ORD3053,Board Games,Vintage Toys,Good,Credit Card,Pending,Victor Cruz,10150.29,2,6.2,4.3,373.68,2026-04-10 00:00,2026-04-18 00:00
+ORD3054,Action Figures,Gundam,Mint,PayPal,Delivered,Nina Santos,7521.89,7,27.7,4.2,445.83,2026-03-25 00:00,2026-03-27 00:00
+ORD3055,Trading Cards,Vintage Toys,Damaged,Cash on Delivery,Shipped,Ramon Diaz,3401.42,9,1.6,2.8,59.9,2026-04-04 00:00,2026-04-11 00:00
+ORD3056,Trading Cards,Vintage Toys,Near Mint,GCash,Delivered,Hazel Santos,6973.94,5,0.8,1.3,437.06,2026-04-22 00:00,2026-04-24 00:00
+ORD3057,Model Kits,Vintage Toys,Good,Bank Transfer,Delivered,Maria Garcia,10946.43,8,3.2,4.3,182.36,2026-04-24 00:00,2026-05-01 00:00
+ORD3058,Trading Cards,Vintage Toys,Mint,Cash on Delivery,Cancelled,Faith Garcia,12871.8,3,4.6,4.5,486.41,2026-03-12 00:00,2026-03-20 00:00
+ORD3059,Action Figures,Gundam,Used,Credit Card,Delivered,Anna Diaz,5265.16,8,16.2,4.5,60.94,2026-04-06 00:00,2026-04-11 00:00
+ORD3060,Vinyl Records,Anime,Mint,PayPal,Delivered,Diego Flores,461.84,4,10.5,1.6,225.67,2026-04-05 00:00,2026-04-07 00:00
+ORD3061,Model Kits,Vintage Toys,Near Mint,Bank Transfer,Delivered,Liza Ramos,9623.82,9,38.1,2.8,302.56,2026-03-09 00:00,2026-03-14 00:00
+ORD3062,Trading Cards,Star Wars,Damaged,Credit Card,Returned,Paolo Bautista,9724.98,7,31.1,1.8,499.52,2026-04-20 00:00,2026-04-23 00:00
+ORD3063,Action Figures,Anime,Mint,PayPal,Pending,Nina Mendoza,3091.21,7,4.6,1.5,328.48,2026-03-03 00:00,2026-03-08 00:00
+ORD3064,Model Kits,Star Wars,Mint,Credit Card,Returned,Nina Castillo,10903.36,8,19.6,2.1,364.59,2026-03-21 00:00,2026-03-28 00:00
+ORD3065,Model Kits,Anime,Used,PayPal,Shipped,Hazel Mendoza,5923.31,4,1.8,1.6,372.24,2026-03-23 00:00,2026-03-31 00:00
+ORD3066,Board Games,Star Wars,Used,PayPal,Returned,Paolo Cruz,6603.69,7,8.4,1.8,143.21,2026-03-02 00:00,2026-03-05 00:00
+ORD3067,Trading Cards,Vintage Toys,Used,Bank Transfer,Cancelled,Miguel Cruz,11928.25,8,33.7,3.5,103.89,2026-04-05 00:00,2026-04-07 00:00
+ORD3068,Board Games,Star Wars,Mint,Cash on Delivery,Delivered,Hazel Santos,9142.99,4,4.3,4.4,375.76,2026-03-03 00:00,2026-03-06 00:00
+ORD3069,Trading Cards,Anime,Mint,Cash on Delivery,Shipped,Miguel Diaz,2174.89,2,31.0,4.1,285.92,2026-03-26 00:00,2026-03-27 00:00
+ORD3070,Board Games,Gundam,Mint,Bank Transfer,Delivered,Liza Garcia,8514.11,7,15.8,3.1,121.48,2026-03-13 00:00,2026-03-16 00:00
+ORD3071,Vinyl Records,Vintage Toys,Used,PayPal,Shipped,Ramon Diaz,10184.0,9,23.1,3.6,350.96,2026-04-21 00:00,2026-04-27 00:00
+ORD3072,Board Games,Star Wars,Mint,PayPal,Delivered,Marco Torres,8761.02,7,19.6,4.8,21.08,2026-03-06 00:00,2026-03-15 00:00
+ORD3073,Vinyl Records,Vintage Toys,Good,PayPal,Delivered,Victor Aquino,2409.5,4,0.7,1.6,86.93,2026-03-30 00:00,2026-04-01 00:00
+ORD3074,Board Games,Vintage Toys,Damaged,Credit Card,Delivered,Ella Castillo,4794.79,2,1.1,3.6,192.53,2026-03-24 00:00,2026-03-29 00:00
+ORD3075,Trading Cards,Vintage Toys,Near Mint,Cash on Delivery,Delivered,Nina Castillo,12143.91,4,9.0,1.6,25.84,2026-04-03 00:00,2026-04-12 00:00
+ORD3076,Vinyl Records,Pokemon,Used,GCash,Delivered,Victor Torres,7506.24,5,1.6,3.4,95.55,2026-03-03 00:00,2026-03-07 00:00
+ORD3077,Model Kits,Marvel,Good,Credit Card,Shipped,Maria Santos,6226.18,3,38.3,2.0,150.43,2026-04-02 00:00,2026-03-04 00:00
+ORD3078,Model Kits,Star Wars,Used,Bank Transfer,Delivered,Hazel Mendoza,13021.89,4,4.2,2.9,411.18,2026-04-18 00:00,2026-04-21 00:00
+ORD3079,Model Kits,Pokemon,Near Mint,PayPal,Returned,Hazel Bautista,3171.42,9,18.2,3.9,230.03,2026-03-05 00:00,2026-03-06 00:00
+ORD3080,Model Kits,Vintage Toys,Good,PayPal,Shipped,Nina Diaz,4010.19,7,17.8,1.9,402.97,2026-03-02 00:00,2026-03-11 00:00
+ORD3081,Board Games,Vintage Toys,Near Mint,GCash,Shipped,Hazel Aquino,9780.58,5,31.4,3.1,472.05,2026-03-12 00:00,2026-03-15 00:00
+ORD3082,Model Kits,Gundam,Mint,PayPal,Cancelled,Liza Aquino,8036.95,2,38.0,3.2,214.9,2026-03-30 00:00,2026-04-07 00:00
+ORD3083,Board Games,Star Wars,Near Mint,PayPal,Delivered,Ramon Reyes,5968.09,9,35.3,1.2,173.01,2026-04-02 00:00,2026-04-04 00:00
+ORD3084,Board Games,Marvel,Near Mint,Cash on Delivery,Delivered,Ella Reyes,3597.47,9,3.6,4.0,307.71,2026-04-13 00:00,2026-04-20 00:00
+ORD3085,Action Figures,Star Wars,Good,GCash,Delivered,Bea Torres,13650.56,3,16.7,3.0,128.21,2026-03-11 00:00,2026-03-15 00:00
+ORD3086,Trading Cards,Star Wars,Near Mint,Bank Transfer,Shipped,Ramon Torres,5425.18,8,30.6,2.0,239.04,2026-04-27 00:00,2026-04-28 00:00
+ORD3087,Model Kits,Pokemon,Good,Bank Transfer,Cancelled,Victor Bautista,3623.85,5,33.0,2.9,65.82,2026-04-20 00:00,2026-04-21 00:00
+ORD3088,Action Figures,Gundam,Mint,PayPal,Delivered,Carlos Garcia,10274.67,8,5.7,4.2,28.71,2026-04-11 00:00,2026-04-12 00:00
+ORD3089,Model Kits,Marvel,Damaged,GCash,Cancelled,Marco Torres,9819.48,2,18.6,1.6,103.25,2026-04-19 00:00,2026-04-27 00:00
+ORD3090,Model Kits,Gundam,Damaged,Cash on Delivery,Delivered,Maria Bautista,5609.46,5,15.3,3.3,392.9,2026-04-10 00:00,2026-04-12 00:00
+ORD3091,Action Figures,Star Wars,Good,GCash,Shipped,Faith Ramos,5447.74,8,18.4,1.2,259.49,2026-04-16 00:00,2026-04-23 00:00
+ORD3092,Trading Cards,Gundam,Mint,Cash on Delivery,Delivered,Anna Garcia,10845.96,7,39.5,3.0,33.71,2026-04-14 00:00,2026-04-17 00:00
+ORD3093,Board Games,Anime,Mint,GCash,Returned,Grace Garcia,11660.12,2,29.3,4.7,328.69,2026-04-02 00:00,2026-04-03 00:00
+ORD3094,Board Games,Pokemon,Good,Credit Card,Returned,Liza Santos,9094.83,3,11.8,4.4,258.23,2026-04-04 00:00,2026-04-19 00:00
+ORD3095,Vinyl Records,Gundam,Near Mint,PayPal,Delivered,Liza Reyes,13446.71,4,27.1,4.1,207.83,2026-04-07 00:00,2026-04-16 00:00
+ORD3096,Vinyl Records,Pokemon,Used,Cash on Delivery,Delivered,Anna Santos,9769.86,4,37.2,1.8,490.97,2026-04-02 00:00,2026-04-04 00:00
+ORD3097,Model Kits,Marvel,Damaged,Cash on Delivery,Shipped,Diego Ramos,6229.58,7,3.5,2.9,321.78,2026-03-13 00:00,2026-03-20 00:00
+ORD3098,Board Games,Anime,Mint,GCash,Returned,Maria Castillo,11220.78,9,32.1,1.8,440.34,2026-03-29 00:00,2026-04-01 00:00
+ORD3099,Board Games,Anime,Mint,Credit Card,Delivered,Marco Aquino,4052.41,1,28.7,2.7,441.61,2026-04-16 00:00,2026-04-22 00:00
+ORD3100,Action Figures,Pokemon,Near Mint,PayPal,Delivered,Maria Diaz,232.04,3,10.3,3.8,271.07,2026-03-20 00:00,2026-03-28 00:00
+ORD3101,Model Kits,Star Wars,Mint,GCash,Delivered,Jose Aquino,13944.12,6,27.5,2.4,281.43,2026-04-27 00:00,2026-04-30 00:00
+ORD3102,Vinyl Records,Marvel,Good,PayPal,Pending,Victor Torres,14139.2,2,5.6,3.0,324.51,2026-04-10 00:00,2026-04-12 00:00
+ORD3103,Vinyl Records,Gundam,Good,GCash,Delivered,Diego Cruz,1142.51,6,2.3,4.4,73.76,2026-03-13 00:00,2026-03-14 00:00
+ORD3104,Board Games,Marvel,Used,Cash on Delivery,Cancelled,Nina Bautista,3640.15,4,20.9,4.3,101.07,2026-03-16 00:00,2026-03-20 00:00
+ORD3105,Trading Cards,Anime,Near Mint,Cash on Delivery,Delivered,Grace Reyes,8044.3,9,31.5,3.7,274.08,2026-03-14 00:00,2026-03-17 00:00
+ORD3106,Vinyl Records,Anime,Mint,GCash,Delivered,Carlos Torres,12161.98,2,13.0,2.8,256.82,2026-04-05 00:00,2026-04-09 00:00
+ORD3107,Board Games,Star Wars,Used,GCash,Pending,Ramon Diaz,14159.35,4,4.3,1.1,453.32,2026-03-25 00:00,2026-04-03 00:00
+ORD3108,Vinyl Records,Star Wars,Used,Cash on Delivery,Delivered,Jose Garcia,2610.0,4,16.3,1.0,229.63,2026-03-21 00:00,2026-03-29 00:00
+ORD3109,Trading Cards,Pokemon,Near Mint,Bank Transfer,Returned,Jose Torres,3482.44,3,38.9,1.5,321.14,2026-04-08 00:00,2026-04-13 00:00
+ORD3110,Board Games,Anime,Mint,Cash on Delivery,Returned,Marco Aquino,7939.47,5,35.7,1.1,359.77,2026-03-28 00:00,2026-04-05 00:00
+ORD3111,Trading Cards,Star Wars,Damaged,PayPal,Delivered,Carlos Mendoza,12529.3,3,36.8,2.1,239.53,2026-04-13 00:00,2026-04-20 00:00
+ORD3112,Model Kits,Star Wars,Near Mint,Credit Card,Delivered,Nina Santos,4658.43,7,7.6,4.1,151.79,2026-04-06 00:00,2026-04-14 00:00
+ORD3113,Trading Cards,Star Wars,Damaged,Cash on Delivery,Returned,Paolo Torres,9725.71,2,4.1,2.4,474.2,2026-03-23 00:00,2026-03-26 00:00
+ORD3114,Vinyl Records,Star Wars,Used,GCash,Cancelled,Anna Aquino,14430.74,9,27.7,1.8,378.79,2026-03-27 00:00,2026-04-01 00:00
+ORD3115,Board Games,Anime,Mint,Credit Card,Delivered,Julius Santos,7614.46,3,15.8,1.9,128.83,2026-03-25 00:00,2026-04-02 00:00
+ORD3116,Action Figures,Pokemon,Near Mint,Bank Transfer,Pending,Jose Bautista,6578.44,1,14.3,2.0,127.63,2026-03-28 00:00,2026-04-05 00:00
+ORD3117,Vinyl Records,Vintage Toys,Near Mint,Bank Transfer,Delivered,Grace Bautista,4641.47,7,5.1,3.6,177.36,2026-03-16 00:00,2026-03-19 00:00
+ORD3118,Model Kits,Vintage Toys,Mint,Credit Card,Delivered,Marco Diaz,12500.78,6,22.4,3.8,443.17,2026-03-09 00:00,2026-03-10 00:00
+ORD3119,Trading Cards,Gundam,Near Mint,GCash,Shipped,Ella Flores,14699.77,4,24.2,3.4,14.26,2026-03-10 00:00,2026-03-12 00:00
+ORD3120,Model Kits,Vintage Toys,Mint,GCash,Delivered,Ella Cruz,9341.99,7,30.5,2.4,81.49,2026-04-03 00:00,2026-04-06 00:00
+ORD3121,Vinyl Records,Gundam,Near Mint,Bank Transfer,Delivered,Marco Garcia,3225.73,4,24.0,3.3,392.46,2026-04-06 00:00,2026-04-09 00:00
+ORD3122,Board Games,Pokemon,Mint,Bank Transfer,Pending,Carlos Ramos,14445.2,7,34.9,1.9,213.07,2026-04-13 00:00,2026-04-19 00:00
+ORD3123,Model Kits,Marvel,Mint,Bank Transfer,Cancelled,Victor Diaz,354.05,2,8.8,3.2,357.28,2026-03-30 00:00,2026-04-07 00:00
+ORD3124,Trading Cards,Gundam,Near Mint,Credit Card,Delivered,Julius Ramos,10254.03,6,36.1,1.5,19.13,2026-04-23 00:00,2026-04-30 00:00
+ORD3125,Trading Cards,Vintage Toys,Near Mint,Bank Transfer,Delivered,Diego Torres,3615.75,7,0.3,2.7,100.92,2026-04-28 00:00,2026-05-03 00:00
+ORD3126,Action Figures,Star Wars,Good,Credit Card,Delivered,Nina Santos,8487.0,5,7.9,3.3,426.91,2026-03-26 00:00,2026-03-28 00:00
+ORD3127,Board Games,Star Wars,Good,Cash on Delivery,Shipped,Victor Reyes,12507.84,4,35.8,3.3,124.86,2026-03-10 00:00,2026-03-18 00:00
+ORD3128,Vinyl Records,Pokemon,Mint,Credit Card,Delivered,Marco Aquino,1114.63,7,7.3,4.7,37.79,2026-04-19 00:00,2026-04-28 00:00
+ORD3129,Trading Cards,Gundam,Good,Bank Transfer,Delivered,Paolo Diaz,13159.5,6,22.9,3.1,305.8,2026-04-21 00:00,2026-04-28 00:00
+ORD3130,Vinyl Records,Anime,Good,PayPal,Delivered,Jose Ramos,6199.17,8,9.9,1.6,462.47,2026-03-12 00:00,2026-03-14 00:00
+ORD3131,Model Kits,Star Wars,Used,Credit Card,Delivered,Jose Santos,10039.24,5,37.5,3.7,53.83,2026-03-18 00:00,2026-03-25 00:00
+ORD3132,Trading Cards,Star Wars,Mint,Cash on Delivery,Returned,Anna Ramos,14009.01,8,18.4,2.2,198.76,2026-03-04 00:00,2026-03-09 00:00
+ORD3133,Vinyl Records,Pokemon,Near Mint,Credit Card,Delivered,Anna Castillo,9408.65,9,22.9,4.3,24.42,2026-03-24 00:00,2026-03-26 00:00
+ORD3134,Action Figures,Gundam,Damaged,Credit Card,Returned,Anna Reyes,5299.47,2,21.4,4.3,366.88,2026-04-28 00:00,2026-05-04 00:00
+ORD3135,Model Kits,Gundam,Near Mint,Credit Card,Shipped,Jose Bautista,12627.9,9,24.5,2.0,288.38,2026-04-23 00:00,2026-04-28 00:00
+ORD3136,Trading Cards,Marvel,Good,GCash,Delivered,Victor Bautista,8587.83,9,31.3,1.9,276.27,2026-04-13 00:00,2026-04-16 00:00
+ORD3137,Action Figures,Vintage Toys,Mint,PayPal,Returned,Nina Mendoza,8247.21,1,39.4,1.6,364.74,2026-03-29 00:00,2026-04-01 00:00
+ORD3138,Action Figures,Pokemon,Used,Bank Transfer,Returned,Victor Flores,12790.27,8,25.9,2.4,298.06,2026-04-13 00:00,2026-04-18 00:00
+ORD3139,Board Games,Gundam,Near Mint,PayPal,Cancelled,Anna Diaz,9699.65,2,15.8,3.7,260.4,2026-03-20 00:00,2026-03-28 00:00
+ORD3140,Action Figures,Vintage Toys,Damaged,Bank Transfer,Returned,Nina Mendoza,14452.53,1,6.1,3.0,405.97,2026-04-04 00:00,2026-03-26 00:00
+ORD3141,Trading Cards,Pokemon,Damaged,GCash,Delivered,Jose Reyes,8200.31,2,27.3,3.3,91.26,2026-03-01 00:00,2026-03-04 00:00
+ORD3142,Board Games,Anime,Near Mint,Credit Card,Pending,Hazel Aquino,821.8,4,0.5,2.3,130.83,2026-04-22 00:00,2026-04-27 00:00
+ORD3143,Model Kits,Pokemon,Mint,GCash,Delivered,Anna Santos,11149.47,2,2.3,4.1,197.36,2026-03-01 00:00,2026-03-10 00:00
+ORD3144,Model Kits,Marvel,Used,Bank Transfer,Delivered,Bea Santos,14563.13,1,32.3,3.4,348.03,2026-04-15 00:00,2026-04-22 00:00
+ORD3145,Board Games,Vintage Toys,Used,Bank Transfer,Shipped,Liza Torres,5198.75,5,7.5,4.1,337.9,2026-03-25 00:00,2026-03-26 00:00
+ORD3146,Model Kits,Marvel,Mint,GCash,Delivered,Grace Garcia,7823.9,1,27.3,2.0,348.59,2026-04-24 00:00,2026-04-25 00:00
+ORD3147,Action Figures,Pokemon,Mint,GCash,Pending,Faith Flores,150.76,9,32.0,3.3,487.31,2026-04-28 00:00,2026-04-29 00:00
+ORD3148,Board Games,Vintage Toys,Used,Cash on Delivery,Returned,Faith Garcia,1344.45,9,32.2,3.7,181.48,2026-04-19 00:00,2026-04-27 00:00
+ORD3149,Model Kits,Star Wars,Good,Bank Transfer,Shipped,Ella Aquino,3864.7,9,9.2,3.9,478.35,2026-04-14 00:00,2026-04-18 00:00
+ORD3150,Trading Cards,Marvel,Mint,GCash,Delivered,Marco Santos,7388.7,9,34.2,1.9,323.99,2026-03-02 00:00,2026-03-06 00:00
+ORD3151,Model Kits,Gundam,Good,GCash,Delivered,Jose Aquino,8917.03,3,10.4,1.6,80.54,2026-04-29 00:00,2026-05-08 00:00
+ORD3152,Trading Cards,Gundam,Good,Credit Card,Delivered,Maria Garcia,6804.94,6,3.7,3.1,249.52,2026-04-11 00:00,2026-04-19 00:00
+ORD3153,Board Games,Marvel,Good,Bank Transfer,Returned,Diego Torres,6505.91,5,28.5,3.2,208.2,2026-03-04 00:00,2026-03-11 00:00
+ORD3154,Model Kits,Marvel,Near Mint,Cash on Delivery,Delivered,Marco Garcia,7849.45,2,25.5,1.5,100.08,2026-04-21 00:00,2026-04-27 00:00
+ORD3155,Trading Cards,Marvel,Used,GCash,Delivered,Diego Castillo,3654.59,8,21.7,4.4,218.29,2026-04-07 00:00,2026-04-10 00:00
+ORD3156,Vinyl Records,Anime,Good,Cash on Delivery,Delivered,Faith Ramos,11691.02,9,22.9,2.0,256.57,2026-03-13 00:00,2026-03-19 00:00
+ORD3157,Action Figures,Marvel,Good,Cash on Delivery,Returned,Miguel Flores,5602.49,1,3.9,3.6,249.3,2026-04-09 00:00,2026-04-18 00:00
+ORD3158,Vinyl Records,Pokemon,Mint,Credit Card,Cancelled,Maria Diaz,10849.36,1,25.8,2.7,408.64,2026-03-06 00:00,2026-03-10 00:00
+ORD3159,Model Kits,Marvel,Mint,PayPal,Shipped,Ramon Reyes,6691.5,3,2.2,1.1,338.04,2026-04-11 00:00,2026-04-14 00:00
+ORD3160,Model Kits,Vintage Toys,Near Mint,GCash,Delivered,Ramon Ramos,2047.15,7,32.2,2.5,124.5,2026-03-24 00:00,2026-03-28 00:00
+ORD3161,Board Games,Vintage Toys,Used,Cash on Delivery,Delivered,Miguel Reyes,5102.04,2,2.4,2.8,226.22,2026-03-03 00:00,2026-03-08 00:00
+ORD3162,Trading Cards,Star Wars,Good,Cash on Delivery,Delivered,Anna Aquino,11181.2,1,7.6,1.6,123.26,2026-04-11 00:00,2026-04-16 00:00
+ORD3163,Action Figures,Gundam,Good,Cash on Delivery,Shipped,Grace Castillo,11347.8,9,5.5,1.9,54.67,2026-03-03 00:00,2026-03-09 00:00
+ORD3164,Vinyl Records,Pokemon,Mint,Bank Transfer,Shipped,Bea Bautista,9987.75,7,27.9,2.4,94.82,2026-04-28 00:00,2026-05-05 00:00
+ORD3165,Trading Cards,Vintage Toys,Mint,Cash on Delivery,Delivered,Liza Reyes,1151.94,5,11.9,4.0,107.27,2026-04-20 00:00,2026-04-21 00:00
+ORD3166,Action Figures,Star Wars,Used,GCash,Delivered,Hazel Aquino,3856.7,6,9.7,3.8,359.65,2026-04-03 00:00,2026-04-06 00:00
+ORD3167,Board Games,Star Wars,Near Mint,PayPal,Shipped,Grace Aquino,1355.83,8,11.9,1.5,402.43,2026-04-20 00:00,2026-04-28 00:00
+ORD3168,Vinyl Records,Star Wars,Near Mint,Bank Transfer,Cancelled,Bea Cruz,12013.05,1,30.7,2.7,387.23,2026-04-15 00:00,2026-04-22 00:00
+ORD3169,Board Games,Vintage Toys,Damaged,PayPal,Shipped,Carlos Castillo,8205.13,9,20.4,4.1,457.61,2026-04-02 00:00,2026-04-09 00:00
+ORD3170,Model Kits,Vintage Toys,Near Mint,Bank Transfer,Shipped,Ella Ramos,13178.14,5,22.7,3.8,384.02,2026-03-13 00:00,2026-03-16 00:00
+ORD3171,Trading Cards,Gundam,Mint,Bank Transfer,Delivered,Liza Diaz,6244.15,1,31.0,2.0,436.0,2026-03-17 00:00,2026-03-18 00:00
+ORD3172,Trading Cards,Star Wars,Damaged,Cash on Delivery,Delivered,Liza Ramos,7799.36,8,10.8,2.7,65.53,2026-04-21 00:00,2026-04-22 00:00
+ORD3173,Vinyl Records,Pokemon,Used,Bank Transfer,Delivered,Faith Castillo,11295.6,7,17.1,1.6,264.18,2026-04-07 00:00,2026-04-13 00:00
+ORD3174,Model Kits,Anime,Near Mint,Cash on Delivery,Shipped,Diego Garcia,3539.46,2,3.8,4.6,345.06,2026-04-29 00:00,2026-05-04 00:00
+ORD3175,Action Figures,Pokemon,Used,Cash on Delivery,Pending,Marco Ramos,13870.32,2,8.1,1.1,66.23,2026-04-15 00:00,2026-04-18 00:00
+ORD3176,Vinyl Records,Anime,Near Mint,Credit Card,Shipped,Julius Diaz,11239.8,1,5.5,2.3,467.19,2026-03-02 00:00,2026-03-03 00:00
+ORD3177,Board Games,Gundam,Near Mint,Cash on Delivery,Delivered,Nina Garcia,11868.41,4,27.0,4.6,418.43,2026-04-09 00:00,2026-04-16 00:00
+ORD3178,Model Kits,Marvel,Near Mint,PayPal,Pending,Hazel Reyes,8694.64,6,33.0,3.5,56.22,2026-03-02 00:00,2026-03-10 00:00
+ORD3179,Vinyl Records,Anime,Mint,Bank Transfer,Cancelled,Hazel Torres,4376.97,5,17.2,4.8,448.1,2026-04-28 00:00,2026-05-03 00:00
+ORD3180,Board Games,Marvel,Used,Bank Transfer,Delivered,Anna Garcia,4789.05,7,6.1,1.6,486.23,2026-04-18 00:00,2026-04-22 00:00
+ORD3181,Trading Cards,Marvel,Near Mint,Bank Transfer,Delivered,Julius Cruz,10726.76,3,14.2,1.5,406.19,2026-04-04 00:00,2026-04-06 00:00
+ORD3182,Model Kits,Vintage Toys,Good,Credit Card,Delivered,Maria Santos,11248.08,6,8.6,4.8,113.47,2026-04-22 00:00,2026-04-26 00:00
+ORD3183,Vinyl Records,Pokemon,Mint,GCash,Delivered,Ramon Reyes,12209.15,3,19.7,3.1,72.0,2026-04-12 00:00,2026-04-13 00:00
+ORD3184,Vinyl Records,Gundam,Used,Bank Transfer,Delivered,Ella Diaz,9667.08,3,28.7,1.6,127.68,2026-03-07 00:00,2026-03-16 00:00
+ORD3185,Action Figures,Gundam,Damaged,GCash,Pending,Carlos Garcia,5809.96,9,36.5,1.4,158.77,2026-03-08 00:00,2026-03-10 00:00
+ORD3186,Model Kits,Anime,Good,Cash on Delivery,Returned,Maria Aquino,8626.21,9,32.8,2.6,468.82,2026-04-21 00:00,2026-04-29 00:00
+ORD3187,Board Games,Marvel,Near Mint,GCash,Delivered,Anna Ramos,8538.89,4,11.6,1.0,215.42,2026-04-06 00:00,2026-04-12 00:00
+ORD3188,Vinyl Records,Anime,Near Mint,Bank Transfer,Delivered,Ella Flores,1345.43,3,31.3,3.1,397.11,2026-04-26 00:00,2026-05-03 00:00
+ORD3189,Board Games,Pokemon,Mint,Credit Card,Delivered,Carlos Torres,9069.25,5,34.5,5.0,364.8,2026-04-29 00:00,2026-05-07 00:00
+ORD3190,Vinyl Records,Gundam,Mint,Credit Card,Delivered,Bea Flores,6175.74,3,9.0,1.9,382.19,2026-04-08 00:00,2026-04-14 00:00
+ORD3191,Board Games,Marvel,Damaged,Credit Card,Delivered,Marco Flores,13804.91,4,9.1,2.0,278.05,2026-03-03 00:00,2026-03-05 00:00
+ORD3192,Board Games,Vintage Toys,Mint,PayPal,Returned,Ramon Diaz,14832.16,4,39.4,1.2,477.52,2026-04-10 00:00,2026-04-12 00:00
+ORD3193,Action Figures,Pokemon,Used,GCash,Delivered,Jose Reyes,1546.17,4,15.9,4.2,416.19,2026-03-03 00:00,2026-03-09 00:00
+ORD3194,Model Kits,Anime,Mint,Cash on Delivery,Shipped,Miguel Aquino,404.23,8,35.6,3.4,197.72,2026-03-04 00:00,2026-03-06 00:00
+ORD3195,Vinyl Records,Vintage Toys,Good,Credit Card,Delivered,Jose Ramos,4716.22,6,36.1,1.6,247.61,2026-04-16 00:00,2026-04-19 00:00
+ORD3196,Action Figures,Anime,Good,GCash,Delivered,Marco Santos,7000.26,2,4.1,3.8,52.36,2026-03-30 00:00,2026-03-31 00:00
+ORD3197,Model Kits,Gundam,Near Mint,GCash,Delivered,Grace Aquino,11400.64,8,15.5,4.3,189.33,2026-03-11 00:00,2026-03-20 00:00
+ORD3198,Action Figures,Pokemon,Near Mint,Bank Transfer,Shipped,Liza Reyes,3615.44,7,26.0,3.1,323.89,2026-03-20 00:00,2026-03-21 00:00
+ORD3199,Model Kits,Gundam,Good,GCash,Delivered,Ella Ramos,12257.18,9,6.3,1.6,218.0,2026-04-02 00:00,2026-03-25 00:00
+ORD3200,Board Games,Star Wars,Damaged,Cash on Delivery,Shipped,Faith Bautista,2533.77,5,1.3,2.3,95.07,2026-04-07 00:00,2026-04-16 00:00
+ORD3201,Vinyl Records,Gundam,Good,Cash on Delivery,Delivered,Ramon Reyes,11019.24,3,29.5,4.6,244.29,2026-04-18 00:00,2026-04-26 00:00
+ORD3202,Trading Cards,Marvel,Mint,Credit Card,Returned,Diego Diaz,14148.11,8,23.8,2.1,15.37,2026-03-07 00:00,2026-03-09 00:00
+ORD3203,Trading Cards,Marvel,Good,PayPal,Delivered,Hazel Aquino,9066.98,2,16.7,3.5,58.82,2026-03-27 00:00,2026-04-03 00:00
+ORD3204,Trading Cards,Gundam,Mint,GCash,Delivered,Liza Mendoza,3908.75,9,38.2,4.4,278.63,2026-04-04 00:00,2026-04-13 00:00
+ORD3205,Model Kits,Anime,Good,Cash on Delivery,Pending,Victor Reyes,7087.23,8,15.3,4.0,247.41,2026-04-23 00:00,2026-04-29 00:00
+ORD3206,Trading Cards,Star Wars,Mint,PayPal,Shipped,Julius Mendoza,14606.58,9,22.1,4.1,60.22,2026-03-07 00:00,2026-03-13 00:00
+ORD3207,Trading Cards,Star Wars,Mint,GCash,Returned,Grace Flores,14808.49,7,1.3,3.5,420.08,2026-03-31 00:00,2026-04-03 00:00
+ORD3208,Model Kits,Gundam,Used,Cash on Delivery,Returned,Grace Diaz,8258.08,6,17.7,2.8,353.6,2026-03-18 00:00,2026-03-26 00:00
+ORD3209,Vinyl Records,Anime,Mint,GCash,Cancelled,Paolo Castillo,6388.17,8,33.9,2.6,496.55,2026-04-14 00:00,2026-04-16 00:00
+ORD3210,Board Games,Pokemon,Near Mint,Bank Transfer,Returned,Liza Garcia,1223.94,8,31.3,3.0,430.57,2026-04-12 00:00,2026-04-16 00:00
+ORD3211,Action Figures,Gundam,Mint,Credit Card,Returned,Marco Garcia,12610.92,9,24.0,2.1,8.7,2026-03-25 00:00,2026-03-31 00:00
+ORD3212,Action Figures,Pokemon,Near Mint,Credit Card,Delivered,Julius Torres,358.42,3,3.8,5.0,104.46,2026-03-22 00:00,2026-03-30 00:00
+ORD3213,Vinyl Records,Anime,Near Mint,Cash on Delivery,Pending,Ramon Garcia,8535.24,1,24.7,4.3,415.33,2026-04-21 00:00,2026-04-30 00:00
+ORD3214,Model Kits,Vintage Toys,Near Mint,Bank Transfer,Pending,Bea Ramos,1262.75,9,16.4,3.0,301.09,2026-04-22 00:00,2026-04-30 00:00
+ORD3215,Action Figures,Gundam,Near Mint,GCash,Pending,Jose Diaz,10934.78,7,4.6,1.4,243.95,2026-03-19 00:00,2026-03-28 00:00
+ORD3216,Vinyl Records,Gundam,Near Mint,PayPal,Cancelled,Hazel Santos,2121.43,5,23.9,1.4,432.61,2026-03-08 00:00,2026-03-17 00:00
+ORD3217,Action Figures,Vintage Toys,Damaged,PayPal,Returned,Julius Castillo,5815.81,8,1.1,2.0,325.25,2026-03-17 00:00,2026-03-22 00:00
+ORD3218,Board Games,Star Wars,Good,Cash on Delivery,Returned,Jose Santos,12042.3,5,36.4,1.3,402.39,2026-04-16 00:00,2026-04-19 00:00
+ORD3219,Vinyl Records,Anime,Mint,Credit Card,Pending,Diego Garcia,1327.4,9,29.8,1.4,291.94,2026-03-27 00:00,2026-04-05 00:00
+ORD3220,Trading Cards,Anime,Mint,GCash,Delivered,Maria Garcia,6145.32,2,3.2,1.1,366.48,2026-04-29 00:00,2026-05-03 00:00
+ORD3221,Action Figures,Gundam,Good,Bank Transfer,Pending,Paolo Ramos,3484.51,3,24.1,1.5,274.18,2026-04-13 00:00,2026-04-20 00:00
+ORD3222,Vinyl Records,Anime,Mint,Cash on Delivery,Delivered,Maria Torres,4913.96,5,27.3,1.6,458.13,2026-04-03 00:00,2026-04-07 00:00
+ORD3223,Board Games,Pokemon,Near Mint,GCash,Shipped,Paolo Cruz,8095.09,2,32.1,1.9,391.95,2026-03-18 00:00,2026-03-27 00:00
+ORD3224,Vinyl Records,Vintage Toys,Damaged,Credit Card,Returned,Julius Santos,12818.63,9,23.0,2.2,302.05,2026-03-08 00:00,2026-03-15 00:00
+ORD3225,Trading Cards,Pokemon,Good,GCash,Delivered,Maria Diaz,14373.97,2,36.7,2.7,275.08,2026-03-20 00:00,2026-03-27 00:00
+ORD3226,Model Kits,Pokemon,Good,Credit Card,Returned,Jose Torres,8823.76,2,26.9,4.9,349.86,2026-04-06 00:00,2026-04-07 00:00
+ORD3227,Action Figures,Star Wars,Near Mint,Credit Card,Delivered,Nina Garcia,4570.14,2,6.7,1.1,225.69,2026-03-29 00:00,2026-04-04 00:00
+ORD3228,Board Games,Pokemon,Mint,Bank Transfer,Delivered,Bea Aquino,372.91,1,0.9,4.2,184.21,2026-03-18 00:00,2026-03-22 00:00
+ORD3229,Action Figures,Pokemon,Good,Cash on Delivery,Delivered,Hazel Flores,5665.27,9,27.2,1.2,286.0,2026-04-29 00:00,2026-05-08 00:00
+ORD3230,Vinyl Records,Gundam,Near Mint,PayPal,Delivered,Faith Cruz,7844.71,1,38.0,3.5,470.11,2026-03-05 00:00,2026-03-11 00:00
+ORD3231,Vinyl Records,Anime,Good,Bank Transfer,Delivered,Ella Mendoza,11838.81,8,34.5,1.0,18.34,2026-04-28 00:00,2026-05-07 00:00
+ORD3232,Model Kits,Pokemon,Near Mint,PayPal,Delivered,Miguel Flores,14329.29,6,24.6,2.0,317.88,2026-03-31 00:00,2026-04-05 00:00
+ORD3233,Model Kits,Marvel,Good,Credit Card,Delivered,Miguel Reyes,146.65,8,31.1,2.4,174.59,2026-03-07 00:00,2026-03-11 00:00
+ORD3234,Trading Cards,Star Wars,Good,GCash,Shipped,Marco Bautista,4164.26,2,39.3,3.7,458.47,2026-04-08 00:00,2026-04-13 00:00
+ORD3235,Trading Cards,Anime,Good,GCash,Delivered,Ramon Bautista,5498.49,3,5.7,1.3,190.07,2026-03-27 00:00,2026-03-31 00:00
+ORD3236,Action Figures,Gundam,Used,GCash,Delivered,Anna Castillo,5581.41,4,28.5,4.6,3.8,2026-03-20 00:00,2026-03-28 00:00
+ORD3237,Model Kits,Star Wars,Damaged,Credit Card,Returned,Maria Diaz,5453.56,4,20.0,2.0,195.08,2026-04-01 00:00,2026-04-06 00:00
+ORD3238,Model Kits,Anime,Mint,Bank Transfer,Delivered,Hazel Reyes,11889.58,2,11.5,1.3,394.58,2026-03-28 00:00,2026-03-30 00:00
+ORD3239,Vinyl Records,Pokemon,Used,Bank Transfer,Delivered,Diego Diaz,3592.06,3,22.6,1.5,114.46,2026-04-14 00:00,2026-04-20 00:00
+ORD3240,Board Games,Marvel,Near Mint,GCash,Delivered,Grace Cruz,6414.2,7,9.1,4.4,96.76,2026-03-16 00:00,2026-03-24 00:00
+ORD3241,Board Games,Gundam,Mint,PayPal,Delivered,Bea Santos,10224.02,4,30.0,2.9,269.46,2026-04-21 00:00,2026-04-27 00:00
+ORD3242,Board Games,Gundam,Used,Credit Card,Delivered,Paolo Aquino,6117.2,2,31.4,1.0,18.1,2026-03-26 00:00,2026-03-28 00:00
+ORD3243,Action Figures,Anime,Near Mint,Cash on Delivery,Delivered,Liza Santos,3656.46,7,18.1,1.8,454.01,2026-03-20 00:00,2026-03-29 00:00
+ORD3244,Trading Cards,Star Wars,Good,Bank Transfer,Delivered,Maria Cruz,4775.66,2,2.6,3.4,277.72,2026-04-21 00:00,2026-04-25 00:00
+ORD3245,Model Kits,Pokemon,Damaged,PayPal,Pending,Paolo Garcia,12008.52,1,3.7,3.9,263.02,2026-03-23 00:00,2026-03-31 00:00
+ORD3246,Board Games,Anime,Mint,GCash,Delivered,Hazel Flores,12555.89,2,27.3,2.9,186.72,2026-04-15 00:00,2026-04-23 00:00
+ORD3247,Action Figures,Star Wars,Used,Credit Card,Delivered,Bea Flores,4398.81,2,28.4,4.1,24.35,2026-03-10 00:00,2026-03-11 00:00
+ORD3248,Action Figures,Gundam,Used,Bank Transfer,Cancelled,Hazel Aquino,14149.41,2,34.5,3.4,55.23,2026-04-08 00:00,2026-04-16 00:00
+ORD3249,Vinyl Records,Pokemon,Near Mint,Credit Card,Delivered,Hazel Diaz,12313.38,3,17.7,3.8,410.79,2026-03-08 00:00,2026-03-17 00:00
+ORD3250,Board Games,Marvel,Near Mint,Cash on Delivery,Delivered,Jose Cruz,11825.7,9,23.3,1.8,105.28,2026-04-08 00:00,2026-04-09 00:00
+ORD3251,Board Games,Vintage Toys,Damaged,PayPal,Returned,Maria Diaz,7804.67,7,22.2,3.7,147.27,2026-04-25 00:00,2026-05-01 00:00
+ORD3252,Board Games,Star Wars,Damaged,Credit Card,Returned,Paolo Ramos,9514.26,1,39.4,3.2,141.51,2026-04-19 00:00,2026-04-22 00:00
+ORD3253,Vinyl Records,Gundam,Near Mint,PayPal,Delivered,Faith Cruz,8216.1,7,13.4,4.1,455.36,2026-03-25 00:00,2026-04-03 00:00
+ORD3254,Action Figures,Marvel,Used,PayPal,Pending,Nina Castillo,14630.6,4,37.8,2.7,184.8,2026-04-07 00:00,2026-04-08 00:00
+ORD3255,Vinyl Records,Vintage Toys,Used,Credit Card,Delivered,Maria Mendoza,1207.24,8,8.3,2.7,37.93,2026-04-04 00:00,2026-04-09 00:00
+ORD3256,Action Figures,Anime,Good,Credit Card,Pending,Carlos Cruz,5877.22,5,32.8,2.2,118.16,2026-04-01 00:00,2026-04-05 00:00
+ORD3257,Board Games,Anime,Mint,Cash on Delivery,Delivered,Miguel Diaz,14588.0,9,8.2,3.0,231.68,2026-04-07 00:00,2026-04-14 00:00
+ORD3258,Board Games,Star Wars,Damaged,Bank Transfer,Pending,Grace Reyes,1180.71,2,25.8,4.4,125.98,2026-03-24 00:00,2026-03-27 00:00
+ORD3259,Vinyl Records,Marvel,Damaged,Bank Transfer,Returned,Anna Bautista,7294.31,5,1.1,4.3,369.22,2026-03-21 00:00,2026-03-28 00:00
+ORD3260,Vinyl Records,Star Wars,Good,Bank Transfer,Delivered,Victor Aquino,11295.12,6,11.6,4.7,231.06,2026-04-03 00:00,2026-04-11 00:00
+ORD3261,Model Kits,Vintage Toys,Good,Bank Transfer,Delivered,Anna Cruz,10118.9,3,38.3,3.2,270.34,2026-04-12 00:00,2026-04-15 00:00
+ORD3262,Model Kits,Anime,Mint,PayPal,Shipped,Ella Aquino,8953.18,7,30.6,3.6,154.85,2026-04-09 00:00,2026-04-10 00:00
+ORD3263,Model Kits,Marvel,Damaged,Credit Card,Delivered,Nina Cruz,12946.28,9,1.3,1.3,427.91,2026-04-26 00:00,2026-05-02 00:00
+ORD3264,Trading Cards,Vintage Toys,Used,Credit Card,Returned,Nina Cruz,13635.7,4,25.2,1.4,363.11,2026-03-06 00:00,2026-03-09 00:00
+ORD3265,Model Kits,Pokemon,Used,GCash,Shipped,Faith Flores,12366.9,4,22.4,2.4,51.04,2026-03-27 00:00,2026-03-30 00:00
+ORD3266,Board Games,Gundam,Mint,Cash on Delivery,Shipped,Nina Bautista,4218.87,1,25.0,4.4,364.62,2026-03-06 00:00,2026-03-13 00:00
+ORD3267,Vinyl Records,Gundam,Damaged,Cash on Delivery,Delivered,Liza Garcia,1748.77,8,33.6,1.4,191.24,2026-04-21 00:00,2026-04-24 00:00
+ORD3268,Trading Cards,Star Wars,Used,PayPal,Delivered,Hazel Cruz,368.57,7,3.8,4.2,204.22,2026-04-12 00:00,2026-04-16 00:00
+ORD3269,Action Figures,Anime,Near Mint,Bank Transfer,Cancelled,Maria Torres,1738.81,1,2.1,2.6,473.8,2026-03-02 00:00,2026-03-07 00:00
+ORD3270,Model Kits,Gundam,Damaged,Cash on Delivery,Delivered,Hazel Flores,8720.61,6,28.3,2.7,390.21,2026-04-04 00:00,2026-04-05 00:00
+ORD3271,Board Games,Gundam,Near Mint,GCash,Shipped,Jose Torres,9093.24,4,20.7,2.5,277.9,2026-03-19 00:00,2026-03-27 00:00
+ORD3272,Board Games,Anime,Used,Cash on Delivery,Pending,Ramon Aquino,3665.65,6,29.2,2.8,320.42,2026-03-18 00:00,2026-03-23 00:00
+ORD3273,Board Games,Star Wars,Damaged,Cash on Delivery,Delivered,Julius Garcia,5707.66,4,33.9,4.0,138.67,2026-04-13 00:00,2026-04-20 00:00
+ORD3274,Model Kits,Vintage Toys,Mint,Bank Transfer,Delivered,Hazel Diaz,13818.88,4,9.9,2.5,126.75,2026-03-27 00:00,2026-04-04 00:00
+ORD3275,Board Games,Anime,Good,Credit Card,Delivered,Faith Aquino,6447.23,5,10.0,2.9,264.08,2026-04-23 00:00,2026-04-29 00:00
+ORD3276,Board Games,Star Wars,Near Mint,Cash on Delivery,Delivered,Maria Flores,11641.07,5,1.2,2.8,50.28,2026-03-20 00:00,2026-03-23 00:00
+ORD3277,Action Figures,Gundam,Good,Credit Card,Delivered,Julius Torres,5627.72,4,7.5,2.3,309.08,2026-04-21 00:00,2026-04-25 00:00
+ORD3278,Trading Cards,Gundam,Mint,PayPal,Delivered,Nina Bautista,13095.87,8,0.9,2.5,245.66,2026-03-08 00:00,2026-03-15 00:00
+ORD3279,Trading Cards,Marvel,Damaged,Cash on Delivery,Delivered,Grace Garcia,11844.85,9,15.9,4.8,232.41,2026-04-17 00:00,2026-04-23 00:00
+ORD3280,Board Games,Gundam,Used,PayPal,Shipped,Maria Torres,3883.04,9,39.1,3.6,367.29,2026-04-18 00:00,2026-04-19 00:00
+ORD3281,Board Games,Pokemon,Near Mint,Credit Card,Delivered,Bea Garcia,12379.78,7,16.5,2.2,296.0,2026-03-25 00:00,2026-03-29 00:00
+ORD3282,Vinyl Records,Star Wars,Used,Cash on Delivery,Delivered,Bea Flores,10898.13,7,27.1,3.3,197.11,2026-04-01 00:00,2026-04-08 00:00
+ORD3283,Vinyl Records,Star Wars,Used,Bank Transfer,Delivered,Marco Castillo,12075.47,2,24.8,2.3,164.86,2026-03-09 00:00,2026-03-16 00:00
+ORD3284,Board Games,Star Wars,Good,Bank Transfer,Delivered,Hazel Garcia,3912.66,3,20.9,1.5,70.93,2026-04-13 00:00,2026-04-15 00:00
+ORD3285,Trading Cards,Gundam,Used,GCash,Cancelled,Julius Garcia,2670.44,3,2.4,3.9,269.2,2026-03-16 00:00,2026-03-18 00:00
+ORD3286,Model Kits,Star Wars,Near Mint,Credit Card,Delivered,Grace Cruz,2164.29,2,28.2,3.6,210.12,2026-04-27 00:00,2026-05-05 00:00
+ORD3287,Board Games,Pokemon,Good,GCash,Delivered,Grace Bautista,5504.03,7,24.1,4.0,209.57,2026-03-21 00:00,2026-03-23 00:00
+ORD3288,Model Kits,Marvel,Good,GCash,Pending,Anna Flores,7307.61,2,37.1,5.0,387.45,2026-03-19 00:00,2026-03-24 00:00
+ORD3289,Vinyl Records,Pokemon,Damaged,Bank Transfer,Returned,Maria Santos,9305.4,7,37.2,2.3,208.63,2026-04-12 00:00,2026-04-16 00:00
+ORD3290,Trading Cards,Star Wars,Damaged,Cash on Delivery,Delivered,Paolo Flores,6072.48,8,36.0,4.3,146.56,2026-04-07 00:00,2026-04-14 00:00
+ORD3291,Board Games,Pokemon,Near Mint,Bank Transfer,Delivered,Diego Reyes,4188.74,4,34.4,4.2,403.53,2026-03-08 00:00,2026-03-09 00:00
+ORD3292,Vinyl Records,Gundam,Near Mint,Cash on Delivery,Returned,Jose Santos,10592.36,8,37.5,1.4,27.33,2026-04-02 00:00,2026-03-17 00:00
+ORD3293,Model Kits,Star Wars,Mint,GCash,Delivered,Ella Aquino,943.69,2,38.2,1.6,183.51,2026-03-30 00:00,2026-04-08 00:00
+ORD3294,Board Games,Anime,Damaged,Cash on Delivery,Cancelled,Ramon Diaz,12177.81,8,33.6,1.6,245.23,2026-03-17 00:00,2026-03-19 00:00
+ORD3295,Vinyl Records,Anime,Good,GCash,Delivered,Julius Garcia,6567.75,7,4.7,2.0,247.7,2026-04-08 00:00,2026-04-14 00:00
+ORD3296,Board Games,Anime,Mint,GCash,Shipped,Victor Castillo,6754.07,9,8.8,2.2,373.1,2026-03-06 00:00,2026-03-15 00:00
+ORD3297,Action Figures,Star Wars,Used,Bank Transfer,Delivered,Bea Garcia,4163.55,5,24.3,4.1,227.37,2026-03-01 00:00,2026-03-08 00:00
+ORD3298,Action Figures,Vintage Toys,Mint,Cash on Delivery,Delivered,Diego Ramos,4075.53,1,27.2,1.7,332.65,2026-04-14 00:00,2026-04-20 00:00
+ORD3299,Vinyl Records,Anime,Good,Bank Transfer,Delivered,Ella Garcia,5144.42,9,6.9,3.0,293.19,2026-04-09 00:00,2026-04-17 00:00
